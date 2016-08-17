@@ -1,3 +1,4 @@
+<?php $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv"); ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-CA"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-CA"> <![endif]-->
@@ -717,16 +718,16 @@
     <!-- //STRENGTHS SECTION END -->
     
     
-    <!-- RESUME SECTION START -->
+    <!-- DÉBUT SECTION CV -->
     <section id="resume" class="section">
         <div class="container section-wrapper">
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">My Resume</h2>
+                        <h2 class="section-title">Mon Curriculum Vitae</h2>
 
                         <p class="section-subtitle">
-                            If you call failures experiments, you can put them in your resume and claim them as achievements.
+                            Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.
                         </p>
 
                         <span class="divider center"></span>
@@ -735,117 +736,59 @@
                 </div>
                 <!-- //.row -->
                 
-                <!-- EDUCATION START -->
+                <!-- DÉBUT ÉDUCATION -->
                 <div class="row education">
                     <div class="col-md-10 col-md-offset-1">
                         <h3>
-                            My Education
+                            Mon &Eacute;ducation
                             <br>
-                            2003 - 2012
+                            2006 - 2010
                         </h3>
 
                         <div class="panel-group resume" id="education">
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2010 - 2012</span>
-                                </div>
-                                <!-- //.resume-year -->
+                            <?php 
+							$requeteEducation = "SELECT school, degreetype, degreetitle, minortype, minortitle, start_date, end_date FROM education WHERE language = 'fr-CA' ORDER BY id;";
+							$resultatEducation = $lien->query($requeteEducation);
+							while($rang_education = $resultatEducation->fetch_assoc())
+							{
+								echo "<div class='resume-item'>";
+                                echo "<div class='resume-year'>";
+                                    echo "<span class='resume-year'>".date('Y',strtotime($rang_education['start_date']))." - ".date('Y',strtotime($rang_education['end_date']))."</span>";
+                                echo "</div>";
+                                echo "<!-- //.resume-year -->";
 
-                                <div class="resume-btn">
-                                    <a href="#education1" data-toggle="collapse" data-parent="#education"></a>
-                                </div>
-                                <!-- //.resume-btn -->
+                                echo "<div class='resume-btn'>";
+                                    echo "<a href='#education1' class='collapse' data-toggle='collapse' data-parent='#education'></a>";
+                                echo "</div>";
+                                echo "<!-- //.resume-btn -->";
 
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Masters Degree - University Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
+                                echo "<div class='panel'>";
+                                    echo "<div class='panel-heading'>";
+                                        echo "<div class='panel-title'>";
+                                            echo "<h4 class='resume-title'>{$rang_education['degreetype']} - {$rang_education['school']}</h4>";
+                                        echo "</div>";
+                                        echo "<!-- //.panel-title -->";
+                                    echo "</div>";
+                                    echo "<!-- //.panel-heading -->";
 
-                                    <div id="education1" class="panel-collapse collapse in">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
+                                    echo "<div id='education1' class='panel-collapse collapse'>";
+                                        echo "<div class='panel-body text-grey'>";
+                                            echo "<p>
+                                                {$rang_education['degreetype']} - {$rang_education['degreetitle']} 
+												<br>
+												{$rang_education['minortype']} - {$rang_education['minortitle']}
+                                            </p>";
+                                        echo "</div>";
+                                        echo "<!-- //.panel-body -->";
+                                    echo "</div>";
+                                    echo "<!-- //.panel-collapse -->";
+                                echo "</div>";
+                                echo "<!-- //.panel -->";
+                            echo "</div>";
+                            echo "<!-- //.resume-item -->";
+						}
+							?>
 
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2005 - 2008</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#education2" class="collapsed" data-toggle="collapse" data-parent="#education"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Bachelors Degree - University Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="education2" class="panel-collapse collapse">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
-
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2003 - 2005</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#education3" class="collapsed" data-toggle="collapse" data-parent="#education"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Graduation - College Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="education3" class="panel-collapse collapse">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
                         </div>
                         <!-- //.panel-group -->
                     </div>
