@@ -794,18 +794,66 @@
                     </div>
                     <!-- //.col-md-10 -->
                 </div>
-                <!-- //EDUCATION END -->
+                <!-- //FIN ÉDUCATION -->
             
-                <!-- WORK EXPERIENCE START -->
+                <!-- DÉBUT EXPÉRIENCE PROFESSIONNELLES -->
                 <div class="row work-experience">
                     <div class="col-md-10 col-md-offset-1">
                         <h3>
-                            Work Experience
+                            Exp&eacute;riences Professionnelles
                             <br>
-                            2006 - Now
+                            2010 - Pr&eacute;sent
                         </h3>
 
                         <div class="panel-group resume" id="work">
+                            <?php
+                            $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='fr-CA' AND type = 'WEB' ORDER BY start_date DESC;";
+                            $resultatPositionsWeb = $lien->query($requetePositionsWeb);
+                            while($rang_positionsweb = $resultatPositionsWeb->fetch_assoc())
+                            {
+                            echo "<div class='resume-item'>";
+                                echo "<div class='resume-year'>";
+                                    if (is_null($rang_positionsweb['end_date'])) {
+                                        echo "<span class='resume-year'>".date('Y',strtotime($rang_positionsweb['start_date']))." - ".date('Y')."</span>";
+                                    } else {
+                                        echo "<span class='resume-year'>".date('Y',strtotime($rang_positionsweb['start_date']))." - ".date('Y',strtotime($rang_positionsweb['end_date']))."</span>";
+                                    }
+                                echo "</div>";
+                                echo "<!-- //.resume-year -->";
+
+                                echo "<div class='resume-btn'>";
+                                    echo "<a href='#work1' data-toggle='collapse' data-parent='#work'></a>";
+                                echo "</div>";
+                                echo "<!-- //.resume-btn -->";
+
+                                echo "<div class='panel'>";
+                                    echo "<div class='panel-heading'>";
+                                        echo "<div class='panel-title'>";
+                                            echo "<h4 class='resume-title'>{$rang_positionsweb['jobtitle']} - {$rang_positionsweb['company']}</h4>";
+                                        echo "</div>";
+                                        echo "<!-- //.panel-title -->";
+                                    echo "</div>";
+                                    echo "<!-- //.panel-heading -->";
+
+                                    echo "<div id='work1' class='panel-collapse collapse in'>";
+                                        echo "<div class='panel-body text-grey'>";
+                                            echo "<p>
+                                                Responsibilities:
+                                                <br>
+                                                Design of print collateral and websites for various clients and markets, development of new and existing brands, 3D modeling of floor and site plans.
+                                            </p>";
+                                        echo "</div>";
+                                        echo "<!-- //.panel-body -->";
+                                    echo "</div>";
+                                    echo "<!-- //.panel-collapse -->";
+                                echo "</div>";
+                                echo "<!-- //.panel -->";
+                            echo "</div>";
+                            echo "<!-- //.resume-item -->";                               
+                            }
+                            ?>
+
+
                             <div class="resume-item">
                                 <div class="resume-year">
                                     <span class="resume-year">2013 - Now</span>
