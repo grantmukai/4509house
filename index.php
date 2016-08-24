@@ -807,10 +807,12 @@
 
                         <div class="panel-group resume" id="work">
                             <?php
+							$i = 0; //$i va être le numéro de "work" pour les accordéons de travail
                             $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='fr-CA' AND type = 'WEB' ORDER BY start_date DESC;";
                             $resultatPositionsWeb = $lien->query($requetePositionsWeb);
                             while($rang_positionsweb = $resultatPositionsWeb->fetch_assoc())
                             {
+							$i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
                             echo "<div class='resume-item'>";
                                 echo "<div class='resume-year'>";
                                     if (is_null($rang_positionsweb['end_date'])) {
@@ -822,7 +824,7 @@
                                 echo "<!-- //.resume-year -->";
 
                                 echo "<div class='resume-btn'>";
-                                    echo "<a href='#work1' data-toggle='collapse' data-parent='#work'></a>";
+                                    echo "<a href='#work{$i}' data-toggle='collapse' data-parent='#work'></a>";
                                 echo "</div>";
                                 echo "<!-- //.resume-btn -->";
 
@@ -835,7 +837,7 @@
                                     echo "</div>";
                                     echo "<!-- //.panel-heading -->";
 
-                                    echo "<div id='work1' class='panel-collapse collapse in'>";
+                                    echo "<div id='work{$i}' class='panel-collapse collapse in'>";
                                         echo "<div class='panel-body text-grey'>";
                                             echo "<p>
                                                 Responsibilities:
