@@ -587,15 +587,15 @@
     <!-- //FIN SECTION SERVICES -->
     
     
-    <!-- STRENGTHS SECTION START -->
+    <!-- DÉBUT FORCES -->
     <section id="strengths" class="section bg-image-yes">
         <div class="container-fluid section-wrapper">
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">My Strengths</h2>
+                        <h2 class="section-title">Mes Forces</h2>
 
-                        <p class="section-subtitle">Failure will never overtake me if my determination to succeed is strong enough.</p>
+                        <p class="section-subtitle">L'&Eacute;chec ne me surprendra jamais si ma d&eacute;termination &agrave; r&eacute;ussier est assez forte.</p>
 
                         <span class="divider center"></span>
                     </div>
@@ -606,31 +606,31 @@
                 <div class="row">
                     <div class="col-md-12">
 
-                        <!-- COLUMN CHART START -->
+                        <!-- DÉBUT CHARTE AUX COLONNES -->
                         <div class="column-chart">
                             <div class="legend legend-left hidden-xs">
-                                <h3 class="legend-title">ME</h3>
+                                <h3 class="legend-title">MOI</h3>
                             </div>
                             <!-- //.legend -->
 
                             <div class="legend legend-right hidden-xs">
                                 <div class="item">
-                                    <h4>Superhero</h4>
+                                    <h4>Superh&eacute;ro</h4>
                                 </div>
                                 <!-- //.item -->
 
                                 <div class="item">
-                                    <h4>Preety Good</h4>
+                                    <h4>Tr&egrave;s Bon</h4>
                                 </div>
                                 <!-- //.item -->
 
                                 <div class="item">
-                                    <h4>Good</h4>
+                                    <h4>Bon</h4>
                                 </div>
                                 <!-- //.item -->
 
                                 <div class="item">
-                                    <h4>Newbie</h4>
+                                    <h4>D&eacute;butant</h4>
                                 </div>
                                 <!-- //.item -->
                             </div>
@@ -642,7 +642,7 @@
                                         <span class="percent">92%</span>
 
                                         <div class="item-progress" data-percent="92">
-                                            <span class="title">Creativity</span>
+                                            <span class="title">Cr&eacute;ativit&eacute;</span>
                                         </div>
                                         <!-- //.item-progress -->
                                     </div>
@@ -655,7 +655,7 @@
                                         <span class="percent">71%</span>
 
                                         <div class="item-progress" data-percent="71">
-                                            <span class="title">Reliable</span>
+                                            <span class="title">Fiabilit&eacute;e</span>
                                         </div>
                                         <!-- //.item-progress -->
                                     </div>
@@ -668,7 +668,7 @@
                                         <span class="percent">82%</span>
 
                                         <div class="item-progress" data-percent="82">
-                                            <span class="title">Comunication</span>
+                                            <span class="title">Communication</span>
                                         </div>
                                         <!-- //.item-progress -->
                                     </div>
@@ -704,7 +704,7 @@
                             </div>
                             <!-- //.chart -->
                         </div>
-                        <!-- //COLUMN CHART END -->
+                        <!-- //FIN CHARTE AUX COLONNES -->
 
                     </div>
                     <!-- //.col-md-12 -->
@@ -715,7 +715,7 @@
         </div>
         <!-- //.container -->
     </section>
-    <!-- //STRENGTHS SECTION END -->
+    <!-- //FORCES FIN -->
     
     
     <!-- DÉBUT SECTION CV -->
