@@ -588,7 +588,7 @@
     
     
     <!-- DÉBUT FORCES -->
-    <section id="strengths" class="section bg-image-yes">
+    <section id="forces" class="section bg-image-yes">
         <div class="container-fluid section-wrapper">
             <div class="section-content">
                 <div class="row">
@@ -719,7 +719,7 @@
     
     
     <!-- DÉBUT SECTION CV -->
-    <section id="resume" class="section">
+    <section id="cv" class="section">
         <div class="container section-wrapper">
             <div class="section-content">
                 <div class="row">
@@ -1028,215 +1028,15 @@
     </section>
     <!-- //RESUME SECTION END -->
     
-    
-    <!-- REFERENCES SECTION START -->
-    <section id="references" class="section bg-image-yes">
-        <div class="container-fluid section-wrapper">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h2 class="section-title">References</h2>
-
-                        <p class="section-subtitle">Testimonials are enough to convince people for now.</p>
-
-                        <span class="divider center"></span>
-                    </div>
-                    <!-- //.col-md-12 -->
-                </div>
-                <!-- //.row -->
-                
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <div class="flexslider references">
-                            <div class="slides">
-                                <div class="item">
-                                    <div class="animated" data-animation-effect="flipInX">
-                                        <div class="profile hidden-xs">
-                                            <img src="assets/images/references/profile-image-1.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                        </div>
-
-                                        <div class="content">
-                                            <h3>Lorena Group</h3>
-
-                                            <p>
-                                                "Berg is officially the man! His level of professionalism and the understanding of the subject matter is the reason i will be looking forward to working with him in the future."
-                                            </p>
-
-                                            <p class="source">
-                                                Eka Sari Lorena
-                                                <br>
-                                                <span>President Director</span>
-                                            </p>
-                                        </div>
-                                        <!-- //.content -->
-                                    </div>
-                                    <!-- //.animated -->
-                                </div>
-                                <!-- //.item -->
-
-                                <div class="item">
-                                    <div class="animated" data-animation-effect="flipInX">
-                                        <div class="profile hidden-xs">
-                                            <img src="assets/images/references/profile-image-2.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                        </div>
-
-                                        <div class="content">
-                                            <h3>NET TV</h3>
-
-                                            <p>
-                                                "As always Berg did an excellent job in just few hours. Great communication and fast excecution. Thanks for great work :)"
-                                            </p>
-
-                                            <p class="source">
-                                                Wishnutama Kusubandio
-                                                <br>
-                                                <span>CO-FOUNDER / CEO</span>
-                                            </p>
-                                        </div>
-                                        <!-- //.content -->
-                                    </div>
-                                    <!-- //.animated -->
-                                </div>
-                                <!-- //.item -->
-
-                                <div class="item">
-                                    <div class="animated" data-animation-effect="flipInX">
-                                        <div class="profile hidden-xs">
-                                            <img src="assets/images/references/profile-image-3.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                        </div>
-
-                                        <div class="content">
-                                            <h3>MNC Group</h3>
-
-                                            <p>
-                                                "As always, great creative thinking for the best solution. Berg is by far the most professional and knowledgeable provider I worked with. I will hire him again :)"
-                                            </p>
-
-                                            <p class="source">
-                                                Hary Tanoesoedibjo
-                                                <br>
-                                                <span>President Director</span>
-                                            </p>
-                                        </div>
-                                        <!-- //.content -->
-                                    </div>
-                                    <!-- //.animated -->
-                                </div>
-                                <!-- //.item -->
-
-                                <div class="item">
-                                    <div class="animated" data-animation-effect="flipInX">
-                                        <div class="profile hidden-xs">
-                                            <img src="assets/images/references/profile-image-4.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                        </div>
-
-                                        <div class="content">
-                                            <h3>CT Corp</h3>
-
-                                            <p>
-                                                "We called on Berg to help us deliver on few projects with tight deadlines. He seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
-                                            </p>
-
-                                            <p class="source">
-                                                Chairul Tanjung
-                                                <br>
-                                                <span>Founder and Chairman</span>
-                                            </p>
-                                        </div>
-                                        <!-- //.content -->
-                                    </div>
-                                    <!-- //.animated -->
-                                </div>
-                                <!-- //.item -->
-
-                                <div class="item">
-                                    <div class="animated" data-animation-effect="flipInX">
-                                        <div class="profile hidden-xs">
-                                            <img src="assets/images/references/profile-image-5.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                        </div>
-
-                                        <div class="content">
-                                            <h3>Mustika Ratu</h3>
-
-                                            <p>
-                                                "Berg technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."
-                                            </p>
-
-                                            <p class="source">
-                                                Mooryati Soedibyo
-                                                <br>
-                                                <span>President Director</span>
-                                            </p>
-                                        </div>
-                                        <!-- //.content -->
-                                    </div>
-                                    <!-- //.animated -->
-                                </div>
-                                <!-- //.item -->
-                            </div>
-                            <!-- //.slides -->
-
-                            <div class="flexslider-controls">
-                                <ul class="flex-control-nav">
-                                    <li>
-                                        <img src="assets/images/references/profile-image-1.jpg" alt="" class="img-responsive"/>
-                                    </li>
-
-                                    <li>
-                                        <img src="assets/images/references/profile-image-2.jpg" alt="" class="img-responsive"/>
-                                    </li>
-
-                                    <li>
-                                        <img src="assets/images/references/profile-image-3.jpg" alt="" class="img-responsive"/>
-                                    </li>
-
-                                    <li>
-                                        <img src="assets/images/references/profile-image-4.jpg" alt="" class="img-responsive"/>
-                                    </li>
-
-                                    <li>
-                                        <img src="assets/images/references/profile-image-5.jpg" alt="" class="img-responsive"/>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!-- //.flexslider-controls -->
-
-                            <ul class="flex-direction-nav-custom list-inline hidden-xs">
-                                <li>
-                                    <a class="flex-prev" href="#">
-                                        <i class="icon-Left-3"></i>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a class="flex-next" href="#">
-                                        <i class="icon-Right-3"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- //.flexslider -->
-                    </div>
-                    <!-- //.col-md-8 -->
-                </div>
-                <!-- //.row -->
-            </div>
-            <!-- //.section-content -->
-        </div>
-        <!-- //.container -->
-    </section>
-    <!-- //REFERENCES SECTION END -->
-    
-    
-    <!-- SKILLS SECTION START -->
-    <section id="skills" class="section">
+    <!-- DÉBUT SECTION COMPÉTENCES -->
+    <section id="competences" class="section">
         <div class="container section-wrapper">
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">Skills & Expertise</h2>
+                        <h2 class="section-title">Comp&eacute;tences et Connaissances</h2>
 
-                        <p class="section-subtitle">A winner is someone who recognizes his God-given talents, works his tail off to develop them into skills, and uses these skills to accomplish his goals.</p>
+                        <p class="section-subtitle">Un gagnant est quelqu'un qui reconna&icirc;t ses talents, travail au jusqu'au bout pour qu'ils deviennent des comp&eacute;tences, et les utilise pour l'ach&egrave;vement de ses projets.</p>
 
                         <span class="divider center"></span>
                     </div>
@@ -1244,17 +1044,17 @@
                 </div>
                 <!-- //.row -->
                 
-                <!-- CIRCLE CHART START -->
+                <!-- DÉBUT CHARTE CIRCULAIRE -->
                 <div class="circle-chart">
                     <div class="row">
                         <div class="col-sm-4 col-md-2">
                             <div class="item">
                                 <div class="circle">
-                                    <span class="item-progress" data-percent="45"></span>
+                                    <span class="item-progress" data-percent="84"></span>
                                 </div>
                                 <!-- //.circle -->
 
-                                <span class="percent">45%</span>
+                                <span class="percent">84%</span>
 
                                 <h4 class="text-center">HTML5 + CSS3</h4>
                             </div>
@@ -1271,7 +1071,7 @@
 
                                 <span class="percent">65%</span>
 
-                                <h4 class="text-center">Angular JS</h4>
+                                <h4 class="text-center">PHP</h4>
                             </div>
                             <!-- //.item -->
                         </div>
@@ -1286,7 +1086,7 @@
 
                                 <span class="percent">55%</span>
 
-                                <h4 class="text-center">Laravel</h4>
+                                <h4 class="text-center">MySQL + MS SQL Server</h4>
                             </div>
                             <!-- //.item -->
                         </div>
@@ -1316,7 +1116,7 @@
 
                                 <span class="percent">65%</span>
 
-                                <h4 class="text-center">Cinema 4D</h4>
+                                <h4 class="text-center">Premi&egrave;re</h4>
                             </div>
                             <!-- //.item -->
                         </div>
@@ -1339,13 +1139,13 @@
                     </div>
                     <!-- //.row -->
                 </div>
-                <!-- //CIRCLE CHART END -->
+                <!-- //FIN CHARTE CIRCULAIRE -->
             </div>
             <!-- //.section-content -->
         </div>
         <!-- //.container -->
     </section>
-    <!-- //SKILLS SECTION END -->
+    <!-- //FIN SECTION COMPÉTENCES -->
     
     
     <!-- KNOWLEDGE SECTION START -->
