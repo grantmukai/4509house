@@ -870,163 +870,18 @@
                             echo "<!-- //.resume-item -->";                               
                             }
                             ?>
-
-
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2013 - Now</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#work1" data-toggle="collapse" data-parent="#work"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Senior Designer - Galley La Company</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="work1" class="panel-collapse collapse in">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Responsibilities:
-                                                <br>
-                                                Design of print collateral and websites for various clients and markets, development of new and existing brands, 3D modeling of floor and site plans.
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
-
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2010 - 2013</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#work2" class="collapsed" data-toggle="collapse" data-parent="#work"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Graphic Designer - Company Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="work2" class="panel-collapse collapse">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Responsibilities:
-                                                <br>
-                                                Design of print collateral and trade show displays, redesign of company website and microsites, design and development of email blasts, development of brands for affiliate organizations.
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
-
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2007 - 2010</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#work3" class="collapsed" data-toggle="collapse" data-parent="#work"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">IT Specialist - Company Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="work3" class="panel-collapse collapse">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Responsibilities:
-                                                <br>
-                                                Filming and editing of promotional videos, administration of system and network integrity.
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
-
-                            <div class="resume-item">
-                                <div class="resume-year">
-                                    <span class="resume-year">2006 - 2007</span>
-                                </div>
-                                <!-- //.resume-year -->
-
-                                <div class="resume-btn">
-                                    <a href="#work4" class="collapsed" data-toggle="collapse" data-parent="#work"></a>
-                                </div>
-                                <!-- //.resume-btn -->
-
-                                <div class="panel">
-                                    <div class="panel-heading">
-                                        <div class="panel-title">
-                                            <h4 class="resume-title">Graphic Designer Intern - Company Name</h4>
-                                        </div>
-                                        <!-- //.panel-title -->
-                                    </div>
-                                    <!-- //.panel-heading -->
-
-                                    <div id="work4" class="panel-collapse collapse">
-                                        <div class="panel-body text-grey">
-                                            <p>
-                                                Responsibilities:
-                                                <br>
-                                                Redesign of brand guidelines and standards microsite, design of departmental logo lock-ups, photography of products for marketing collateral, design of corporate Twitter layout.
-                                            </p>
-                                        </div>
-                                        <!-- //.panel-body -->
-                                    </div>
-                                    <!-- //.panel-collapse -->
-                                </div>
-                                <!-- //.panel -->
-                            </div>
-                            <!-- //.resume-item -->
                         </div>
                         <!-- //.panel-group -->
                     </div>
                     <!-- //.col-md-10 -->
                 </div>
-                <!-- //WORK EXPERIENCE END -->
+                <!-- //FIN EXPÉRIENCES PROFESSIONNELLES -->
             </div>
             <!-- //.section-content -->
         </div>
         <!-- //.container -->
     </section>
-    <!-- //RESUME SECTION END -->
+    <!-- //FIN SECTION CV -->
     
     <!-- DÉBUT SECTION COMPÉTENCES -->
     <section id="competences" class="section">
@@ -1148,15 +1003,15 @@
     <!-- //FIN SECTION COMPÉTENCES -->
     
     
-    <!-- KNOWLEDGE SECTION START -->
+    <!-- DÉBUT SECTION CONNAISSANCES -->
     <section id="knowledge" class="section">
         <div class="container section-wrapper">
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">Knowledge</h2>
+                        <h2 class="section-title">Connaissance</h2>
 
-                        <p class="section-subtitle">Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+                        <p class="section-subtitle">Le comportement humain coule depuis trois sources principales: d&eacute;sir, &eacute;motion, et connaissance.</p>
 
                         <span class="divider center"></span>
                     </div>
@@ -1164,12 +1019,12 @@
                 </div>
                 <!-- //.row -->
                 
-                <!-- BAR CHART START -->
+                <!-- DÉBUT CHARTE DE BARRE -->
                 <div class="row">
                     <div class="col-sm-6 col-md-6">
                         <div class="bar-chart">
                             <div class="item">
-                                <h4>Brand Marketing</h4>
+                                <h4>Marketing</h4>
 
                                 <div class="bar">
                                     <span class="percent">45%</span>
@@ -1180,22 +1035,22 @@
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>Web Development</h4>
+                                <h4>D&eacute;veloppement Web</h4>
 
                                 <div class="bar">
-                                    <span class="percent">65%</span>
-                                    <span class="item-progress" data-percent="65"></span>
+                                    <span class="percent">95%</span>
+                                    <span class="item-progress" data-percent="95"></span>
                                 </div>
                                 <!-- //.bar -->
                             </div>
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>Digital Design</h4>
+                                <h4>Conc&eacute;ption Digitale</h4>
 
                                 <div class="bar">
-                                    <span class="percent">55%</span>
-                                    <span class="item-progress" data-percent="55"></span>
+                                    <span class="percent">80%</span>
+                                    <span class="item-progress" data-percent="80"></span>
                                 </div>
                                 <!-- //.bar -->
                             </div>
@@ -1208,18 +1063,7 @@
                     <div class="col-sm-6 col-md-6">
                         <div class="bar-chart">
                             <div class="item">
-                                <h4>Brand Design</h4>
-
-                                <div class="bar">
-                                    <span class="percent">45%</span>
-                                    <span class="item-progress" data-percent="45"></span>
-                                </div>
-                                <!-- //.bar -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <h4>Internet Marketing</h4>
+                                <h4>Gestion de Donn&eacute;es</h4>
 
                                 <div class="bar">
                                     <span class="percent">65%</span>
@@ -1230,11 +1074,22 @@
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>Video Editing</h4>
+                                <h4>R&eacute;daction et Traduction</h4>
 
                                 <div class="bar">
-                                    <span class="percent">55%</span>
-                                    <span class="item-progress" data-percent="55"></span>
+                                    <span class="percent">95%</span>
+                                    <span class="item-progress" data-percent="95"></span>
+                                </div>
+                                <!-- //.bar -->
+                            </div>
+                            <!-- //.item -->
+
+                            <div class="item">
+                                <h4>Montage Cin&eacute;matographique</h4>
+
+                                <div class="bar">
+                                    <span class="percent">87%</span>
+                                    <span class="item-progress" data-percent="87"></span>
                                 </div>
                                 <!-- //.bar -->
                             </div>
@@ -1244,14 +1099,14 @@
                     </div>
                     <!-- //.col-md-6 -->
                 </div>
-                <!-- //BAR CHART END -->
+                <!-- //FIN CHARTE DE BARRE -->
             </div>
             <!-- //.section-content -->
         </div>
         <!-- //.container -->
         
     </section>
-    <!-- //KNOWLEDGE SECTION END -->
+    <!-- //FIN SECTION CONNAISSANCES -->
     
     
     <!-- ACCOLADES SECTION START -->
