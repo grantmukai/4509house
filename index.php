@@ -1106,320 +1106,18 @@
         <!-- //.container -->
         
     </section>
-    <!-- //FIN SECTION CONNAISSANCES -->
+    <!-- //FIN SECTION CONNAISSANCES -->    
     
-    
-    <!-- ACCOLADES SECTION START -->
-    <section id="accolades" class="section">
-        <div class="container section-wrapper">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">Accolades</h2>
-
-                        <p class="section-subtitle">The accolades, just like the scrapes and bruises, fade in the end, and all you're left with is your ambition.</p>
-
-                        <span class="divider center"></span>
-                    </div>
-                    <!-- //.col-md-8 -->
-                </div>
-                <!-- //.row -->
-                
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3">
-
-                        <!-- ACCOLADES START -->
-                        <div class="accolades">
-                            <div class="item">
-                                <i class="icon-Twitter"></i>
-
-                                <div class="content">
-                                    <h3>Marketing Excellence Awards 2014</h3>
-
-                                    <p class="text-grey">Excellence in Social Media Marketing</p>
-                                </div>
-                                <!-- //.content -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <i class="icon-Idea-2"></i>
-
-                                <div class="content">
-                                    <h3>The "Big Idea" Competition 2012</h3>
-
-                                    <p class="text-grey">Top 3 Team</p>
-                                </div>
-                                <!-- //.content -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <i class="icon-Brush"></i>
-
-                                <div class="content">
-                                    <h3>Water Seven Art Directors Club Awards 2010</h3>
-
-                                    <p class="text-grey">Finalist - Design</p>
-
-                                    <p class="text-grey">Finalist - Print Ad</p>
-                                </div>
-                                <!-- //.content -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <i class="icon-Funky"></i>
-
-                                <div class="content">
-                                    <h3>Young Guns Award 2009</h3>
-
-                                    <p class="text-grey">Finalist - Digital Campaign</p>
-                                </div>
-                                <!-- //.content -->
-                            </div>
-                            <!-- //.item -->
-                        </div>
-                        <!-- //ACCOLADES END -->
-
-                        <div class="bookmark text-grey text-center">
-                            <i class="icon-Bookmark"></i>
-                        </div>
-                        <!-- //.bookmark -->
-                    </div>
-                    <!-- //.col-md-6 -->
-                </div>
-                <!-- //.row -->
-            </div>
-            <!-- //.section-content -->
-        </div>
-        <!-- //.container -->
-    </section>
-    <!-- //ACCOLADES SECTION END -->
-    
-    
-    <!-- MILESTONES SECTION START -->
-    <section id="milestones" class="section bg-image-yes">
-        <div class="container-fluid section-wrapper">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="section-title">Milestones Achieved</h2>
-
-                        <p class="section-subtitle">My path has not been determined. I shall have more experiences and pass many more milestones.</p>
-
-                        <span class="divider center"></span>
-                    </div>
-                    <!-- //.col-md-8 -->
-                </div>
-                <!-- //.row -->
-                
-                <!-- MILESTONES START -->
-                <div class="milestones">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-3 item">
-                            <div class="circle">
-                                <i class="icon-Coffee"></i>
-                            </div>
-                            <!-- //.circle -->
-
-                            <span class="number" data-from="10" data-to="5012" data-refresh-interval="100">
-                                10
-                            </span>
-
-                            <h4>Cups of Coffee</h4>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-6 col-md-3 item">
-                            <div class="circle">
-                                <i class="icon-Clock"></i>
-                            </div>
-                            <!-- //.circle -->
-
-                            <span class="number" data-from="10" data-to="4210" data-refresh-interval="100">
-                                10
-                            </span>
-
-                            <h4>Hours Worked</h4>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-6 col-md-3 item">
-                            <div class="circle">
-                                <i class="icon-Coding"></i>
-                            </div>
-                            <!-- //.circle -->
-
-                            <span class="number" data-from="10" data-to="505" data-refresh-interval="10">
-                                10
-                            </span>
-
-                            <h4>Succesful Projects</h4>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-6 col-md-3 item">
-                            <div class="circle">
-                                <i class="icon-Smile"></i>
-                            </div>
-                            <!-- //.circle -->
-
-                            <span class="number" data-from="10" data-to="253" data-refresh-interval="10">
-                                5
-                            </span>
-
-                            <h4>Happy Clients</h4>
-                        </div>
-                        <!-- //.item -->
-                    </div>
-                    <!-- //.row -->
-                </div>
-                <!-- //MILESTONES END -->
-            </div>
-            <!-- //.section-content -->
-        </div>
-        <!-- //.container -->
-    </section>
-    <!-- //MILESTONES SECTION END -->
-    
-    
-    <!-- WORK PROCESS SECTION START -->
-    <section id="work-process" class="section">
-        <div class="container section-wrapper">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h2 class="section-title">Work Process</h2>
-
-                        <p class="section-subtitle">
-                            As a human being, I'm work in process.
-                        </p>
-
-                        <span class="divider center"></span>
-                    </div>
-                    <!-- //.col-md-12 -->
-                </div>
-                <!-- //.row -->
-                
-                <div class="row">
-                    <div class="col-md-12">
-                        <p class="text-grey text-justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-                        </p>
-                    </div>
-                    <!-- //.col-md-12 -->
-                </div>
-                <!-- //.row -->
-                
-                <!-- WORK PROCESS START -->
-                <div class="work-process">
-                    <div class="row">
-                        <div class="col-sm-2 col-md-2 item no-margin first">
-                            <div class="inner-content">
-                                <i class="icon-Light-Bulb2"></i>
-
-                                <span class="title">1. Idea</span>
-
-                                <span class="dot"></span>
-                            </div>
-                            <!-- //.inner-content -->
-
-                            <i class="icon-Arrow icon-Down-3"></i>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-2 col-md-2 item">
-                            <div class="inner-content">
-                                <i class="icon-Pencil"></i>
-
-                                <span class="title">2. Sketch</span>
-                            </div>
-                            <!-- //.inner-content -->
-
-                            <i class="icon-Arrow icon-Up-3"></i>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-2 col-md-2 item no-margin">
-                            <div class="inner-content">
-                                <i class="icon-Monitor-2"></i>
-
-                                <span class="title">3. Design</span>
-                            </div>
-                            <!-- //.inner-content -->
-
-                            <i class="icon-Arrow icon-Down-3"></i>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-2 col-md-2 item">
-                            <div class="inner-content">
-                                <i class="icon-Coding"></i>
-
-                                <span class="title">4. Develop</span>
-                            </div>
-                            <!-- //.inner-content -->
-
-                            <i class="icon-Arrow icon-Up-3"></i>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-2 col-md-2 item no-margin">
-                            <div class="inner-content">
-                                <i class="icon-Bug"></i>
-
-                                <span class="title">5. Test</span>
-                            </div>
-                            <!-- //.inner-content -->
-
-                            <i class="icon-Arrow icon-Down-3"></i>
-                        </div>
-                        <!-- //.item -->
-
-                        <div class="col-sm-2 col-md-2 item last">
-                            <div class="inner-content">
-                                <i class="icon-Rocket"></i>
-
-                                <span class="title">6. Launch</span>
-
-                                <span class="dot"></span>
-                            </div>
-                            <!-- //.inner-content -->
-                        </div>
-                        <!-- //.item -->
-                    </div>
-                    <!-- //.row -->
-                </div>
-                <!-- //WORK PROCESS END -->
-                
-                <div class="row">
-                    <div class="col-md-12">
-                        <p class="text-grey text-justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                        </p>
-                    </div>
-                    <!-- //.col-md-12 -->
-                </div>
-                <!-- //.row -->
-            </div>
-            <!-- //.section-content -->
-        </div>
-        <!-- //.container -->
-    </section>
-    <!-- //WORK PROCESS SECTION END -->
-    
-    
-    <!-- CONTACT SECTION START -->
+    <!-- DÉBUT SECTION CONTACT -->
     <section id="contact" class="section">
         <div class="container section-wrapper">
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h2 class="section-title">Contact Me</h2>
+                        <h2 class="section-title">Contactez-Moi</h2>
 
                         <p class="section-subtitle">
-                            Have a project you'd like to discuss?
+                            Avez-vous un projet que vous aimeriez discuter?
                         </p>
 
                         <span class="divider center"></span>
@@ -1431,24 +1129,24 @@
                 <div class="row">
                     <div class="col-md-12">
 
-                        <!-- CONTACT DETAILS START -->
+                        <!-- DÉBUT DÉTAILS CONTACT -->
                         <div class="contact-details text-center">
                             <div class="speech-bubble">
                                 <i class="icon-Speach-Bubble11"></i>
 
-                                <h4 class="text-grey">
-                                    Say<br>Hello
+                                <h4 style="font-size:24px;" class="text-grey">
+                                    Dites<br>Bonjour
                                 </h4>
                             </div>
                             <!-- //.speech-bubble -->
 
-                            <h2>Nick <strong>Berg</strong></h2>
+                            <h2>Grant <strong>Muka&iuml;</strong></h2>
 
-                            <h4 class="text-grey">hello@nickberg.com</h4>
+                            <h4 class="text-grey">hello@grantmukai.com</h4>
 
                             <span class="divider center"></span>
                         </div>
-                        <!-- //CONTACT DETAILS END -->
+                        <!-- //FIN DÉTAILS CONTACT -->
                     </div>
                     <!-- //.col-md-12 -->
                 </div>
@@ -1458,7 +1156,7 @@
         </div>
         <!-- //.container -->
     </section>
-    <!-- //CONTACT SECTION END -->
+    <!-- //FIN SECTION CONTACT -->
     
     
     <!-- FOOTER START -->
