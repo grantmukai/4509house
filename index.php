@@ -1159,7 +1159,7 @@
     <!-- //FIN SECTION CONTACT -->
     
     
-    <!-- FOOTER START -->
+    <!-- DÉBUT EN-PIED -->
     <footer class="footer">
         <div class="container">
             <div class="row">
@@ -1172,35 +1172,28 @@
                     <ul class="list-inline social-icons">
                         <li>
                             <div class="item">
-                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="http://www.twitter.com/grantmukai" target="_blank"><i class="fa fa-twitter"></i></a>
                             </div>
                             <!-- //.item -->
                         </li>
                         
                         <li>
                             <div class="item">
-                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="http://www.linkedin.com/in/grantmukai" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </div>
                             <!-- //.item -->
                         </li>
                         
                         <li>
                             <div class="item">
-                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                <a href="http://www.github.com/grantmukai" target="_blank"><i class="fa fa-github"></i></a>
                             </div>
                             <!-- //.item -->
                         </li>
                         
                         <li>
                             <div class="item">
-                                <a href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-                            </div>
-                            <!-- //.item -->
-                        </li>
-                        
-                        <li>
-                            <div class="item">
-                                <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
+                                <a href="http://www.youtube.com/manto51" target="_blank"><i class="fa fa-youtube"></i></a>
                             </div>
                             <!-- //.item -->
                         </li>
@@ -1213,7 +1206,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="copyright text-center">
-                        <p class="text-grey">&copy; 2015 Nick Berg. All rights reserved.</p>
+                        <p class="text-grey">&copy; <?php echo date('Y'); ?> Grant Muka&iuml;. Tous droits r&eacute;serv&eacute;s.</p>
                     </div>
                     <!-- //.copyright -->
                 </div>
@@ -1223,7 +1216,7 @@
         </div>
         <!-- //.container -->
     </footer>
-    <!-- //FOOTER END -->
+    <!-- //FIN EN-PIED -->
     
     
     <!-- Plugins JS -->
