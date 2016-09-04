@@ -1,4 +1,12 @@
-<?php $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv"); ?>
+<?php $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
+/*Pour Québec SEULEMENT!!*/
+$imageVille = 1;
+$villeMax = 6;
+/*Fin code spécifique au Québec */
+if (isset($imageVille)) {
+    $quelleVille = mt_rand(0,$villeMax);
+    include "assets/images/villes/fr-CA/credits.php";
+}  ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-CA"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-CA"> <![endif]-->
@@ -33,6 +41,15 @@
     
     <!-- CSS Principal-->
     <link href="assets/css/berg.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    header.hero {
+        <?php if (isset($imageVille)) {
+            echo "background-image: url('assets/images/villes/fr-CA/".$quelleVille.".jpg');";
+            } else {
+            echo "background-image: url('assets/images/bg4.jpg');";
+            } ?>
+    }
+    </style>
     
     <!-- Couleur CSS -->
     <!--<link href="assets/css/colors/green.css" rel="stylesheet" type="text/css">-->
@@ -49,38 +66,7 @@
         <p class="browserupgrade">Vous utilisez un navigateur <strong>obsol&eacute;te</strong>. Veuillez <a href="http://browsehappy.com/">mettre &agrave; jour votre navigateur</a> afin d'am&eacute;liorer votre exp&eacute;rience.</p>
     <![endif]-->
 
-  
-    <!-- DÉBUT HÉRO -->
-    <header id="home" class="hero">
-        <div class="hero-body">
-            <div class="hero-text text-center">
-                <h1>
-                    Mon nom est Grant Muka&iuml; <span class="blinker"></span>
-                </h1>
-                
-                <h1 class="small">D&eacute;veloppeur Web</h1>
-                
-                <p>D&eacute;veloppement Web | Courriels de Marketing | Administration des Donn&eacute;es | Services d’Adh&eacute;sion</p>
-                
-                <div class="page-scroll">
-                    <a href="#profile" class="btn btn-lg btn-custom">
-                        Apprenez d'avantage :)
-                    </a>
-                </div>
-
-                <div class="page-scroll">
-                    <a href="#" class="btn btn-sm btn-custom">
-                        Communications &rarr;
-                    </a>
-                </div>
-                <!-- //.page-scroll -->
-            </div>
-            <!-- //.hero-text -->
-        </div>
-        <!-- //.hero-body -->
-    </header>
-    <!-- //FIN HÉRO -->
-    
+<?php require 'sections/hero.php'; ?>    
     
     <!-- DÉBUT NAVIGATION -->
     <nav id="navigation" class="navbar navbar-fixed-top center-menu" role="navigation">
@@ -1207,6 +1193,10 @@
                 <div class="col-md-12">
                     <div class="copyright text-center">
                         <p class="text-grey">&copy; <?php echo date('Y'); ?> Grant Muka&iuml;. Tous droits r&eacute;serv&eacute;s.</p>
+                        <?php if (isset($imageVille)) {
+                    echo "<p class='text-grey'>Cr&eacute;dit de la photo principale: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") par <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. Cette photo ne porte aucune modification.</p>";
+                    }
+                    ?>
                     </div>
                     <!-- //.copyright -->
                 </div>
