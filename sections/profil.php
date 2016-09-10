@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profil" class="section">
+<section id="profile" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -70,7 +70,7 @@
                     <!-- //FIN TEXTE PROFIL -->
 
                     <!-- DÉBUT COORDONNÉES -->
-                    <div class="contact-details padding-left-yes" style="margin-top:100px;">
+                    <div class="contact-details padding-left-yes">
                         <div class="row">
                             <div class="col-sm-6 col-md-5">
                                 <h4>Coordon&eacute;es</h4>
@@ -86,11 +86,17 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <a href="#" class="btn btn-lg btn-custom" style="margin-bottom:20px;">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (Web)
+                                <a href="#" class="btn btn-md btn-primary" style="margin-bottom:20px;">
+                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (WEB) &mdash; PDF
                                 </a>
-                                <a href="#" class="btn btn-lg btn-custom">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (Com)
+                                <a href="#" class="btn btn-md btn-primary" style="margin-bottom:20px;">
+                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (WEB) &mdash; DOCX
+                                </a>
+                                <a href="#" class="btn btn-md btn-success" style="margin-bottom:20px;">
+                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (COM) &mdash; PDF
+                                </a>
+                                <a href="#" class="btn btn-md btn-success" style="margin-bottom:20px;">
+                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (COM) &mdash; DOCX
                                 </a>
                             </div>
                             <!-- //.col-md-6 -->
