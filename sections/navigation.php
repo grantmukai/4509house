@@ -32,7 +32,11 @@
                 </li>
                 
                 <li class="page-scroll">
-                    <a href="#cv">Curriculum Vitae</a>
+                    <a href="#cv_web">D&eacute;veloppement Web</a>
+                </li>
+
+                <li class="page-scroll">
+                    <a href="#cv_com">Communications</a>
                 </li>
                 
                 <!--<li class="page-scroll">
