@@ -56,7 +56,7 @@
                                     Cordialement,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_inverti.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
+								<!--<img src='assets/images/signatures/signature_grantmukai.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />-->
 								
                                 <p class="text-grey">
                                     Grant Muka&iuml;
