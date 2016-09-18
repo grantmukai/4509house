@@ -100,6 +100,9 @@ require 'sections/pied.php';
     <!-- Animation JS (Optional) -->
     <script src="assets/js/animation.js"></script>
 
+    <!-- Custom JS -->
+    <script src="assets/js/custom.js"></script>
+
 </body>
 
 </html>
