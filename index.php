@@ -1,4 +1,5 @@
-<?php $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
+<?php date_default_timezone_set("America/Montreal");
+$lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
 /*Pour Québec SEULEMENT!!*/
 $imageVille = 1;
 $villeMax = 6;
