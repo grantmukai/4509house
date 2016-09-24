@@ -1,4 +1,5 @@
 <?php date_default_timezone_set("America/Montreal");
+include_once "common.php";
 $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
 /*Pour Québec SEULEMENT!!*/
 $imageVille = 1;
@@ -68,17 +69,17 @@ if (isset($imageVille)) {
     <![endif]-->
 
 <?php
-require 'sections/hero.php';
-require 'sections/navigation.php';
-require 'sections/profil.php';
+require 'sections/'.$lang_actuelle.'/hero.php';
+require 'sections/'.$lang_actuelle.'/navigation.php';
+require 'sections/'.$lang_actuelle.'/profil.php';
 //require 'sections/portfolio.php';
-require 'sections/services.php';
-require 'sections/forces.php';
-require 'sections/cv.php';
-require 'sections/competences.php';
-require 'sections/connaissances.php';
-require 'sections/contact.php';
-require 'sections/pied.php';
+require 'sections/'.$lang_actuelle.'/services.php';
+require 'sections/'.$lang_actuelle.'/forces.php';
+require 'sections/'.$lang_actuelle.'/cv.php';
+require 'sections/'.$lang_actuelle.'/competences.php';
+require 'sections/'.$lang_actuelle.'/connaissances.php';
+require 'sections/'.$lang_actuelle.'/contact.php';
+require 'sections/'.$lang_actuelle.'/pied.php';
 ?>    
   
     <!-- Plugins JS -->
