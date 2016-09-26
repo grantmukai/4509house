@@ -86,18 +86,68 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <a href="#" class="btn btn-md btn-primary" style="margin-bottom:20px;">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (WEB) &mdash; PDF
-                                </a>
-                                <a href="#" class="btn btn-md btn-primary" style="margin-bottom:20px;">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (WEB) &mdash; DOCX
-                                </a>
-                                <a href="#" class="btn btn-md btn-success" style="margin-bottom:20px;">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (COM) &mdash; PDF
-                                </a>
-                                <a href="#" class="btn btn-md btn-success" style="margin-bottom:20px;">
-                                    <i class="icon-File-Download"></i> T&eacute;l&eacute;charger CV (COM) &mdash; DOCX
-                                </a>
+                                <h4>Web</h4>
+                                <?php
+                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'web' AND type = 'pdf';";
+                                $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
+                                while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
+                                {
+                                    if (is_null($rang_BoutonsWebPDF['visible'])) {
+                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Web &mdash; PDF (Indisponible)";
+                                    echo "</a>";
+                                    } else {
+                                    echo "<a href='#'' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Web &mdash; PDF (Taille)";
+                                    echo "</a>";
+                                    }
+                                }
+                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'web' AND type = 'docx';";
+                                $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
+                                while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
+                                {
+                                    if (is_null($rang_BoutonsWebDOCX['visible'])) {
+                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Web &mdash; DOCX (Indisponible)";
+                                    echo "</a>";
+                                    } else {
+                                    echo "<a href='#'' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Web &mdash; DOCX (Taille)";
+                                    echo "</a>";
+                                    }
+                                }
+                                ?>
+                                <h4>Communications</h4>
+                                <?php
+                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'com' AND type = 'pdf';";
+                                $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
+                                while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
+                                {
+                                    if (is_null($rang_BoutonsComPDF['visible'])) {
+                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Com &mdash; PDF (Indisponible)";
+                                    echo "</a>";
+                                    } else {
+                                    echo "<a href='#'' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Com &mdash; PDF (Taille)";
+                                    echo "</a>";
+                                    }
+                                }
+                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'com' AND type = 'docx';";
+                                $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
+                                while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
+                                {
+                                    if (is_null($rang_BoutonsComDOCX['visible'])) {
+                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Com &mdash; DOCX (Indisponible)";
+                                    echo "</a>";
+                                    } else {
+                                    echo "<a href='#'' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                        echo "<i class='icon-File-Download'></i> T&eacute;l&eacute;charger CV Com &mdash; DOCX (Taille)";
+                                    echo "</a>";
+                                    }
+                                }
+                                ?>
                             </div>
                             <!-- //.col-md-6 -->
                         </div>
