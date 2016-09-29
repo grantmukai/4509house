@@ -39,9 +39,9 @@
                     <a href="#references">References</a>
                 </li>-->
                 
-                <li class="page-scroll">
+                <!--<li class="page-scroll">
                     <a href="#competences">Comp&eacute;tences</a>
-                </li>
+                </li>-->
                 
                 <li class="page-scroll">
                     <a href="#contact">Contact</a>
