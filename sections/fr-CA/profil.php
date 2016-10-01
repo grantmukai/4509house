@@ -98,9 +98,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                                            echo "<a href='cv_files/xxXX/Mukai_webCV_xxXX_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_webCV_frCA_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/xxXX/Mukai_webCV_xxXX_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_webCV_frCA_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
                                     echo "</a><br />";
@@ -116,9 +116,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                                            echo "<a href='cv_files/xxXX/Mukai_webCV_xxXX_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_webCV_frCA_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/xxXX/Mukai_webCV_xxXX_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/fr-CA/Mukai_webCV_frCA_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
                                     echo "</a><br />";
@@ -137,9 +137,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                                            echo "<a href='cv_files/xxXX/Mukai_comCV_xxXX_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_comCV_frCA_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/xxXX/Mukai_comCV_xxXX_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_comCV_frCA_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
                                     echo "</a><br />";
@@ -155,9 +155,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                                            echo "<a href='cv_files/xxXX/Mukai_comCV_xxXX_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-CA/Mukai_comCV_frCA_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/xxXX/Mukai_comCV_xxXX_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/fr-CA/Mukai_comCV_frCA_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
                                     echo "</a><br />";
