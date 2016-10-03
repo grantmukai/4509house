@@ -1,14 +1,8 @@
-<?php date_default_timezone_set("America/Montreal");
+<?php
 include_once "common.php";
 $lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
-/*Pour Québec SEULEMENT!!*/
-$imageVille = 1;
-$villeMax = 6;
-/*Fin code spécifique au Québec */
-if (isset($imageVille)) {
-    $quelleVille = mt_rand(0,$villeMax);
-    include "assets/images/villes/fr-CA/credits.php";
-}  ?>
+require 'sections/'.$lang_actuelle.'/tete.php';
+?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-CA"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-CA"> <![endif]-->
@@ -46,7 +40,7 @@ if (isset($imageVille)) {
     <style type="text/css">
     header.hero {
         <?php if (isset($imageVille)) {
-            echo "background-image: url('assets/images/villes/fr-CA/".$quelleVille.".jpg');";
+            echo "background-image: url('assets/images/villes/{$lang_actuelle}/{$quelleVille}.jpg');";
             } else {
             echo "background-image: url('assets/images/bg4.jpg');";
             } ?>
