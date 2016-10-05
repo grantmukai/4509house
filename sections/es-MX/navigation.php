@@ -9,18 +9,18 @@
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Muka&iuml;</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Mukai</a>
         </div>
         <!-- //.navbar-header -->
         
         <div class="navbar-collapse collapse berg-collapse">
             <ul class="nav navbar-nav">
                 <li class="page-scroll">
-                    <a href="#accueil">Accueil</a>
+                    <a href="#accueil">Inicio</a>
                 </li>
                 
                 <li class="page-scroll">
-                    <a href="#profil">Profil</a>
+                    <a href="#profil">Perfil</a>
                 </li>
                 
                 <!--<li class="page-scroll">
@@ -28,7 +28,7 @@
                 </li>-->
                 
                 <li class="page-scroll">
-                    <a href="#services">Services</a>
+                    <a href="#services">Servicios</a>
                 </li>
                 
                 <li class="page-scroll">
@@ -44,7 +44,7 @@
                 </li>-->
                 
                 <li class="page-scroll">
-                    <a href="#contact">Contact</a>
+                    <a href="#contact">Contacto</a>
                 </li>
             </ul>
         </div>

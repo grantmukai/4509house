@@ -4,10 +4,10 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="section-title">Contactez-Moi</h2>
+                    <h2 class="section-title">Contactame</h2>
 
                     <p class="section-subtitle">
-                        Avez-vous un projet que vous aimeriez discuter?
+                        &iquest;Tiene un proyecto que quiere discutar?
                     </p>
 
                     <span class="divider center"></span>
@@ -25,14 +25,14 @@
                             <i class="icon-Speach-Bubble11"></i>
 
                             <h4 style="font-size:24px;" class="text-grey">
-                                Dites<br>Bonjour
+                                Dice<br>Hola
                             </h4>
                         </div>
                         <!-- //.speech-bubble -->
 
-                        <h2>Grant <strong>Muka&iuml;</strong></h2>
+                        <h2>Kiyoshi <strong>Mukai</strong></h2>
 
-                        <h4 class="text-grey">hello@grantmukai.com</h4>
+                        <h4 class="text-grey">hola@kiyoshimukai.com</h4>
 
                         <span class="divider center"></span>
                     </div>
