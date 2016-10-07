@@ -26,7 +26,7 @@
                             <h4>1. R&eacute;daction</h4>
 
                             <p class="text-grey">
-                                Puisque j'ai obtenu mon bac en journalisme, je sais bien &eacute;crire tant en ligne comme &agrave; l'&eacute;crit et j'ai employ&eacute; mes comp&eacute;tences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
+                                Puisque je suis dipl&ocirc;m&eacute; en journalisme, je sais bien &eacute;crire tant &agrave; l'&eacute;crit comme en ligne et j'ai employ&eacute; mes comp&eacute;tences pour publier des nouvelles et aussi pour mettre les petites entreprises en vedette dans l'espace de marketing.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -40,7 +40,7 @@
                             <h4>2. Multim&eacute;dia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur &agrave; la t&eacute;l&eacute; et monteur de vid&eacute;o. Je realisais mes propres reportages du d&eacute;but jusqu'&agrave; la fin en produisant mes propres effets sp&eacute;ciaux.
+                                Dans mes anciens jours, je travaillais en tant qu'animateur &agrave; la t&eacute;l&eacute; et monteur des vid&eacute;os. J'ai realis&eacute; mes propres reportages du d&eacute;but jusqu'&agrave; la fin en produisant mes propres effets sp&eacute;ciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -54,7 +54,7 @@
                             <h4>3. Conc&eacute;ption de Courriel</h4>
 
                             <p class="text-grey">
-                                En comprenant que la conc&eacute;ption de courriel n'est pas pareille que celle du Web, je suis comp&eacute;tent avec le code &ldquo;obsol&egrave;te&rdquo; HTML et CSS. De plus, j'ai une bonne id&eacute;e de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que le design de courrier el&eacute;ctronique n'est pas pareil que celui du Web, je suis comp&eacute;tent avec le code &laquo;obsol&egrave;te&raquo; du HTML et du CSS. De plus, j'ai une bonne id&eacute;e de ce qu'Outlook accepte et n'accepte pas.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -82,7 +82,7 @@
                             <h4>5. Sites Web Adaptifs</h4>
 
                             <p class="text-grey">
-                                Je comprend non seulement l'impl&eacute;mentation des requ&ecirc;tes m&eacute;dias pour flotter et mettre &agrave; l'&eacute;chelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour cr&eacute;er un courriel adaptif (si support&eacute;).
+                                Je ne comprend pas juste l'impl&eacute;mentation des <em>media queries</em> pour flotter et mettre &agrave; l'&eacute;chelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour cr&eacute;er un e-mail adaptif (si support&eacute;).
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Soutien</h4>
 
                             <p class="text-grey">
-                                Bien que j'offre des services Web pour mon association, j'entra&icirc;ne aussi nos employ&eacute;s pour qu'il puissent g&eacute;rer leur propre contenu et j'assiste nos membres en anglais, fran&ccedil;ais et espagnol avec leurs questions d'adh&eacute;sion.
+                                Bien que j'offre des services Web pour mon association, j'entra&icirc;ne aussi nos employ&eacute;s pour qu'il puissent g&eacute;rer leurs propres contenus et j'assiste nos membres en anglais, fran&ccedil;ais et espagnol avec leurs questions d'adh&eacute;sion.
                             </p>
                         </div>
                         <!-- //.inner-content -->

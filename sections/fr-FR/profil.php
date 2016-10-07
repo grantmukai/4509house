@@ -20,7 +20,13 @@
                     <div class="profile-text padding-left-yes">
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="section-title">Bonjour, mon nom est Kiyoshi MUKA&Iuml;</h2>
+                                <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" style="float:left;vertical-align:top;" />
+
+                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de la Union Europ&eacute;enne" style="margin-left:5px; float:left;vertical-align:top;" />
+
+                                <br /> 
+
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKA&Iuml;</h2>
 
                                 <p>
                                     Je m'appelle Kiyoshi MUKA&Iuml; et je suis D&eacute;veloppeur Web et sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> aux &Eacute;tats-Unis d'Am&eacute;rique.
