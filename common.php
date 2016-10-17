@@ -44,6 +44,10 @@ switch ($lang) {
   case 'fr-CH':
   $lang_actuelle = 'fr-CH';
   break;
+
+  case 'es-ES':
+  $lang_actuelle = 'es-ES';
+  break;
    
   default:
   $lang_actuelle = 'fr-CA';

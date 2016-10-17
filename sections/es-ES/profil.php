@@ -10,6 +10,7 @@
                         <img src="../assets/images/photo.jpg" alt="Kiyoshi Muka&iuml;" class="img-responsive"/>
                         
                         <h4 class="title">Desarrollo Web</h4>
+                        
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -20,6 +21,8 @@
                     <div class="profile-text padding-left-yes">
                         <div class="row">
                             <div class="col-md-12">
+                                <p>Ley Europea sobre los cookies: Este sitio usa cookies para recordar que prefieres la versi&oacute;n espa&ntilde;ola de este sitio. Cuando est&aacute;s visitando mi sitio, te acceptas que va a haber cookies guardados en tu ordenador. Ninguna informaci&oacute;n personal no es enviada. Si tienes cuestiones sobre el uso de cookies, por favor <a href='#contact'>digame</a>.</p>
+
                                 <img src="/assets/images/drapeaux/es.png" alt="Bandera de Espa&ntilde;a" style="float:left;vertical-align:top;" />
 
                                 <img src="/assets/images/drapeaux/eu.png" alt="Bandera de la Uni&oacute;n Europea" style="margin-left:5px; float:left;vertical-align:top;" />
