@@ -1,4 +1,4 @@
-<?php date_default_timezone_set("Europe/Madrid");
+<?php date_default_timezone_set("Europe/Paris");
 /*Pour la Belgique SEULEMENT!!*/
 $jeSuisEnEurope = "oui";
 $imageVille = 1;

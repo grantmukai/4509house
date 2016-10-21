@@ -5,6 +5,7 @@
             <div class="row">
                 
                 <!-- DÉBUT PHOTO PROFIL -->
+                
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Kiyoshi Muka&iuml;" class="img-responsive"/>
@@ -19,6 +20,11 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
+                                <div class="btn-group">
+  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+  <span class="caret"></span></button>
+<?php require "pays.php"; ?>
+</div>
                         <div class="row">
                             <div class="col-md-12">
                                 <p>Loi Europ&eacute;enne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous pr&eacute;f&eacute;rez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont &ecirc;tre stock&eacute;s sur votre ordinateur. Aucune information personelle n'est rapport&eacute;e. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>

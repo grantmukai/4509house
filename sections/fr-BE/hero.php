@@ -15,6 +15,7 @@
                     En apprendre plus :)
                 </a>
             </div>
+            
             <!-- //.page-scroll -->
         </div>
         <!-- //.hero-text -->

@@ -39,35 +39,6 @@
                     <!-- //FIN DÉTAILS CONTACT -->
                 </div>
 
-                <div class="col-md-12">
-
-                        <form id="contact-form" name="contact-form" action="assets/php/contactForm.php">
-
-                            <div class="form-group">
-                                <label class="sr-only" for="c_name">Nom</label>
-                                <input type="text" id="c_name" class="form-control" name="c_name" placeholder="Nom">
-                            </div>
-
-                            <div class="form-group">
-                                <label class="sr-only" for="c_email">Courriel</label>
-                                <input type="email" id="c_email" class="form-control" name="c_email" placeholder="Courriel">
-                            </div>
-
-                            <div class="form-group">
-                                <textarea class="form-control" id="c_message" name="c_message" rows="7" placeholder="Votre message"></textarea>
-                            </div>
-
-                            <div style="display:none;" class="form-group">
-                                <?php echo "<textarea class='form-control' id='c_language' name='c_language' rows='1'>fr-CA</textarea>"; ?>
-                            </div>
-
-                            <button type="submit" class="btn btn-custom-1"><i class="fa fa-bullhorn"></i> Envoyer</button>
-
-                        </form>
-
-                        <div class="ajax-response"></div>
-
-                    </div>
                 <!-- //.col-md-12 -->
             </div>
             <!-- //.row -->
