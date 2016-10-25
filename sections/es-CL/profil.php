@@ -19,13 +19,18 @@
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
                                 <div class="btn-group">
-                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Elige Su Pa&iacute;s
                                   <span class="caret"></span></button>
                                 <?php require "pays.php"; ?>
                                 </div>
+                                <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
+                                <img src="/assets/images/drapeaux/cl.png" alt="Bandera de Chile" style="float:left;vertical-align:top;" />
+
+                                <br /> 
+
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
                                     Me llamo Kiyoshi Mukai y soy un desarrollador Web y especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociaci&oacute;n estadounidense de ciencia pol&iacute;tica</a> en los Estados Unidos de Am&eacute;rica.

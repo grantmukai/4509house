@@ -8,4 +8,5 @@
     	<li><a href="http://www.kiyoshimukai.com?lang=fr-CH"><img src="/assets/images/drapeaux/ch24.png" alt="" />&nbsp;Suisse</a></li>
     	<li><a href="http://www.kiyoshimukai.com?lang=es-ES"><img src="/assets/images/drapeaux/es24.png" alt="" />&nbsp;Espa&ntilde;a</a></li>
     	<li><a href="http://www.kiyoshimukai.com?lang=fr-BE"><img src="/assets/images/drapeaux/be24.png" alt="" />&nbsp;Belgique</a></li>
+        <li><a href="http://www.kiyoshimukai.com?lang=fr-BE"><img src="/assets/images/drapeaux/cl24.png" alt="" />&nbsp;Chile</a></li>
   </ul>
