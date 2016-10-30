@@ -4,10 +4,10 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">Lo Que Puedo Hacer</h2>
+                    <h2 class="section-title">What I Can Do</h2>
 
                     <p class="section-subtitle">
-                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer casi la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarse en un proyecto, que estoy pasando.
+                        I enjoy what I do. I am proud of what I do. And I cannot do just half, three-quarters or nine-tenths of something. If I am going to start a project, I finish it.
                     </p>
 
                     <span class="divider center"></span>
@@ -23,10 +23,10 @@
                         <div class="inner-content">
                             <i class="icon-Pen colored-text"></i>
 
-                            <h4>1. Escritura</h4>
+                            <h4>1. Writing</h4>
 
                             <p class="text-grey">
-                                Porque estudi&eacute; el periodismo, yo se como bien escribir para las publicaciones escritas y electr&oacute;nicas y utilic&eacute; mis competencias para reportar las noticias y tambi&eacute;n para acentuar las empresas peque&ntilde;as en el espacio de promoci&oacute;n.
+                                As a journalism major, I know how to write well for both print and online publications. I have used my writing abilities to report the news and also to promote businesses in the marketing space.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -40,7 +40,7 @@
                             <h4>2. Multimedia</h4>
 
                             <p class="text-grey">
-                                En mi otra vida, trabaj&eacute; como periodista en la televisi&oacute;n y editor de v&iacute;deos. Realic&eacute; mis propios reportajes del inicio hasta la fin y produj&eacute; mis propios efectos especiales.
+                                In my reporter days, I worked as a television producer and video editor. I created my own stories from start to finish and designed my own special effects.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Dise&ntilde;o Correo Electr&oacute;nico</h4>
+                            <h4>3. Email Design</h4>
 
                             <p class="text-grey">
-                                Compreniendo que el dise&ntilde;o de correo electr&oacute;nico no es el mismo que el dise&ntilde;o Web, soy competente con el c&oacute;digo &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, tengo una buena idea de lo que Outlook acepta y no acepta.
+                                By understanding that email design is not the same as Web design, I am proficient in coding &ldquo;depricated&rdquo; HTML and inline CSS as well as having a good idea of what Outlook does and does not support.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. C&oacute;digo Limpio</h4>
+                            <h4>4. Clear Code</h4>
 
                             <p class="text-grey">
-                                Estoy serio cuando escribo c&oacute;digo HTML5, CSS3 y PHP7 el m&aacute;s limpio y actualizado. Mi c&oacute;digo es correctamente sangrado y sigue los est&aacute;ndares establicidos por el W3C.
+                                I am very serious about only writing the cleanest up-to-date HTML5, CSS3 and PHP7. My code is properly indented and follows standards set by the W3C and Section 508 of the Americans with Disabilities Act.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Dise&ntilde;o Web Adaptable</h4>
+                            <h4>5. Responsive Design</h4>
 
                             <p class="text-grey">
-                                No solo comprendo la implementaci&oacute;n de <em>media quieres</em> para flotar y escalar contenidos para el dise&ntilde;o Web adaptable, comprendo tambi&eacute;n las mejores pr&aacute;cticas para crear un correo electr&oacute;nico adaptable (cuando apoyado).
+                                Not only do I understand how to implement media queries and float and scale content for responsive Web design, I also undestand best practices for creating responsive email (where supported).
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Apoyo</h4>
+                            <h4>6. Support</h4>
 
                             <p class="text-grey">
-                                Aunque proporciono servicios Web para mi asociaci&oacute;n, ofrezco tambi&eacute;n entrenamiento a nuestros empleados sobre c&oacute;mo pueden administrar sus propios contenidos y ayudo a nuestros miembros en ingl&eacute;s, franc&eacute;s y espa&ntilde;ol con preguntas de membres&iacute;a.
+                                Although I provide Web services for my association, I also offer training to our staff on how to manage their own content and assist our members in English, French and Spanish with membership issues.
                             </p>
                         </div>
                         <!-- //.inner-content -->

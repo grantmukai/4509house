@@ -30,7 +30,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
 
                                 <p>
                                     My name is Grant Mukai and I am a front-end Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
@@ -77,7 +77,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
-                                    <li>Washington, Distrito of Columbia, USA</li>
+                                    <li>Washington, District of Columbia, USA</li>
                                     <li>202-656-8317</li>
                                     <li>hello@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
