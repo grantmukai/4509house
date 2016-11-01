@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="copyright text-center">
-                    <p class="text-grey">&copy; <?php echo date('Y'); ?> Grant Muka&iuml;. Tous droits r&eacute;serv&eacute;s.</p>
+                    <p class="text-grey">&copy; <?php echo date('Y'); ?> Grant Muka&iuml;. Tous droits r&eacute;serv&eacute;s. Ic&ocirc;nes des drapeaux gracieusement fournies par <a href='http://www.icondrawer.com'>Icon Drawer</a>.</p>
                     <?php if (isset($imageVille)) {
                 echo "<p class='text-grey'>Cr&eacute;dit de la photo principale: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") par <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. Cette photo ne porte aucune modification.</p>";
                 }

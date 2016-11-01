@@ -18,6 +18,12 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
+                         <div class="btn-group" style="margin-bottom:10px;">
+                            <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                            <span class="caret"></span></button>
+                            <?php require "pays.php"; ?>
+                        </div>
+                        <br />
                         <div class="row">
                             <div class="col-md-12">
                                 <h2 class="section-title">Bonjour, mon nom est Grant Muka&iuml;</h2>
@@ -88,7 +94,7 @@
                             <div class="col-sm-6 col-md-7">
                                 <h4>T&eacute;l&eacute;charger CV Web</h4>
                                 <?php
-                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'xxXX' AND metier = 'web' AND type = 'pdf';";
+                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                 while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
                                 {
@@ -106,7 +112,7 @@
                                     echo "</a><br />";
                                     }
                                 }
-                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'xxXX' AND metier = 'web' AND type = 'docx';";
+                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'web' AND type = 'docx';";
                                 $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
                                 while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
                                 {
@@ -127,7 +133,7 @@
                                 ?>
                                 <h4>T&eacute;l&eacute;charger CV Communications</h4>
                                 <?php
-                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'xxXX' AND metier = 'com' AND type = 'pdf';";
+                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                 while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
                                 {
@@ -145,7 +151,7 @@
                                     echo "</a><br />";
                                     }
                                 }
-                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'xxXX' AND metier = 'com' AND type = 'docx';";
+                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frCA' AND metier = 'com' AND type = 'docx';";
                                 $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
                                 while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
                                 {
