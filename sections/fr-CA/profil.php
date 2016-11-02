@@ -26,7 +26,13 @@
                         <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="section-title">Bonjour, mon nom est Grant Muka&iuml;</h2>
+                                <img src="/assets/images/drapeaux/qc.png" alt="Drapeau du Qu&eacute;bec" style="float:left;vertical-align:top;" />
+
+                                <img src="/assets/images/drapeaux/ca.png" alt="Drapeau du Canada" style="margin-left:5px; float:left;vertical-align:top;" />
+
+                                <br /> 
+
+                                <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Muka&iuml;</h2>
 
                                 <p>
                                     Je m'appelle Grant Muka&iuml; et je suis D&eacute;veloppeur Web et sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> (APSA) au District de Columbia.
@@ -79,12 +85,12 @@
                     <div class="contact-details padding-left-yes">
                         <div class="row">
                             <div class="col-sm-6 col-md-5">
-                                <h4>Coordon&eacute;es</h4>
+                                <h4>Coordonn&eacute;es</h4>
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Muka&iuml;</li>
-                                    <li>Washington, District of Columbia, USA</li>
-                                    <li>+1 202 656 8317</li>
+                                    <li>Washington, District de Columbia, &Eacute;.-U.</li>
+                                    <li>202-656-8317</li>
                                     <li>bonjour@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
                                 </ul>

@@ -26,7 +26,7 @@
                             <h4>1. R&eacute;daction</h4>
 
                             <p class="text-grey">
-                                Puisque j'ai obtenu mon bac en journalisme, je sais bien &eacute;crire tant en ligne comme &agrave; l'&eacute;crit et j'ai employ&eacute; mes comp&eacute;tences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
+                                Puisque je d&eacute;tiens un bac en journalisme, je sais bien &eacute;crire tant en ligne comme &agrave; l'&eacute;crit et j'ai employ&eacute; mes comp&eacute;tences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -40,7 +40,7 @@
                             <h4>2. Multim&eacute;dia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur &agrave; la t&eacute;l&eacute; et monteur de vid&eacute;o. Je realisais mes propres reportages du d&eacute;but jusqu'&agrave; la fin en produisant mes propres effets sp&eacute;ciaux.
+                                Dans mes anciens jours, je travaillais en tant qu'animateur &agrave; la t&eacute;l&eacute; et monteur de vid&eacute;os. Je realisais mes propres reportages du d&eacute;but jusqu'&agrave; la fin en produisant mes propres effets sp&eacute;ciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -54,7 +54,7 @@
                             <h4>3. Conc&eacute;ption de Courriel</h4>
 
                             <p class="text-grey">
-                                En comprenant que la conc&eacute;ption de courriel n'est pas pareille que celle du Web, je suis comp&eacute;tent avec le code &ldquo;obsol&egrave;te&rdquo; HTML et CSS. De plus, j'ai une bonne id&eacute;e de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que la conc&eacute;ption de courriel n'est pas pareille que celle du Web, je suis comp&eacute;tent avec le code &ldquo;obsol&egrave;te&rdquo; de HTML et CSS. De plus, j'ai une bonne id&eacute;e de ce qu'Outlook accepte et n'accepte pas.
                             </p>
                         </div>
                         <!-- //.inner-content -->
