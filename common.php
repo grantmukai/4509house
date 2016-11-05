@@ -33,6 +33,10 @@ switch ($lang) {
   $lang_actuelle = 'en-US';
   break;
 
+  case 'en-CA':
+  $lang_actuelle = 'en-CA';
+  break;
+
   case 'es-MX':
   $lang_actuelle = 'es-MX';
   break;
