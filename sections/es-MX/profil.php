@@ -18,9 +18,19 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
+                        <div class="btn-group">
+                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Elige Su Pa&iacute;s
+                                  <span class="caret"></span></button>
+                                <?php require "pays.php"; ?>
+                                </div>
+                                <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
+                                <img src="/assets/images/drapeaux/mx.png" alt="Bandera de M&eacute;xico" style="float:left;vertical-align:top;" />
+
+                                <br />
+
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
                                     Me llamo Kiyoshi Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociaci&oacute;n estadounidense de ciencia pol&iacute;tica</a> en el Distrito de Columbia, Estados Unidos de Am&eacute;rica.
@@ -41,13 +51,13 @@
                                 <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los dos tipos de baile que hago son el Lindy Hop y Blues. Hay una peque&ntilde;a comunidad de Lindy Hop en el DF. Me gusta tambi&eacute;n la comunidad internacional de Washington porque me da la opportunidad de practicar mi espa&ntilde;ol.</p>
 								
                                 <p class="text-grey">
-                                    Cordialement,
+                                    Cordialemente,
                                 </p>
 								
-								<!--<img src='assets/images/signatures/signature_grantmukai.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />-->
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
 								
                                 <p class="text-grey">
-                                    Grant Muka&iuml;
+                                    Kiyoshi Mukai
                                 </p>
 								
                             </div>
@@ -61,20 +71,20 @@
                     <div class="contact-details padding-left-yes">
                         <div class="row">
                             <div class="col-sm-6 col-md-5">
-                                <h4>Coordon&eacute;es</h4>
+                                <h4>Detalles de contacto</h4>
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Muka&iuml;</li>
-                                    <li>Washington, District of Columbia, USA</li>
+                                    <li>Washington, Distrito de Columbia, EEUU</li>
                                     <li>+1 202 656 8317</li>
-                                    <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>hola@kiyoshimukai.com</li>
+                                    <li>www.kiyoshimukai.com</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <h4>T&eacute;l&eacute;charger CV Web</h4>
+                                <h4>Descargar CV Web</h4>
                                 <?php
                                 $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esMX' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
@@ -113,7 +123,7 @@
                                     }
                                 }
                                 ?>
-                                <h4>T&eacute;l&eacute;charger CV Communications</h4>
+                                <h4>Descargar CV Comunicaciones</h4>
                                 <?php
                                 $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esMX' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
