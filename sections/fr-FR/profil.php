@@ -18,8 +18,16 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
+                        <div class="btn-group" style="margin-bottom:10px;">
+                            <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                            <span class="caret"></span></button>
+                            <?php require "pays.php"; ?>
+                        </div>
+                        <br />
                         <div class="row">
                             <div class="col-md-12">
+                                <p>Loi Europ&eacute;enne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous pr&eacute;f&eacute;rez la version fran&ccedil;aise de ce site. En visitant mon site, vous acceptez que les cookies vont &ecirc;tre stock&eacute;s sur votre ordinateur. Aucune information personelle n'est rapport&eacute;e. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+
                                 <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" style="float:left;vertical-align:top;" />
 
                                 <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de la Union Europ&eacute;enne" style="margin-left:5px; float:left;vertical-align:top;" />
@@ -79,12 +87,12 @@
                     <div class="contact-details padding-left-yes">
                         <div class="row">
                             <div class="col-sm-6 col-md-5">
-                                <h4>Coordon&eacute;es</h4>
+                                <h4>Coordonb&eacute;es</h4>
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Muka&iuml;</li>
                                     <li>Washington, District de Columbia, USA</li>
-                                    <li>+1 202 656 8317</li>
+                                    <li>+001.20.26.56.83.17</li>
                                     <li>bonjour@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com</li>
                                 </ul>
