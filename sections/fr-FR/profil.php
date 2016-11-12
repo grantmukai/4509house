@@ -87,7 +87,7 @@
                     <div class="contact-details padding-left-yes">
                         <div class="row">
                             <div class="col-sm-6 col-md-5">
-                                <h4>Coordonb&eacute;es</h4>
+                                <h4>Coordonn&eacute;es</h4>
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Muka&iuml;</li>
