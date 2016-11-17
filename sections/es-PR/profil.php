@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profile" class="section">
+<section id="profil" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -26,7 +26,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKA&Iuml;</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
                                     Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociaci&oacute;n estadounidense de ciencia pol&iacute;tica</a> (APSA) en el Distrito de Columbia.
