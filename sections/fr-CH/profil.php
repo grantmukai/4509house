@@ -20,9 +20,7 @@
                     <div class="profile-text padding-left-yes">
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/pr.png" alt="Bandera de Puerto Rico" style="float:left;vertical-align:top;" />
-
-                                <img src="/assets/images/drapeaux/us.png" alt="Bandera de los Estados Unidos" style="margin-left:5px; float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/ch.png" alt="Drapeau de la Suisse" style="float:left;vertical-align:top;" />
 
                                 <br /> 
 

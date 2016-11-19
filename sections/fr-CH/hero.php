@@ -3,7 +3,7 @@
     <div class="hero-body">
         <div class="hero-text text-center">
             <h1>
-                Bonjour! Je m'appelle Kiyoshi MUKA&Iuml;<br /><small>Guten Tag, Buongiorno, Allegra</small> <span class="blinker"></span>
+                Bonjour! Je m'appelle Kiyoshi MUKA&Iuml;<br />Guten Tag, Buongiorno, Allegra <span class="blinker"></span>
             </h1>
             
             <!-- <h1 class="small">D&eacute;veloppeur Web</h1> -->
