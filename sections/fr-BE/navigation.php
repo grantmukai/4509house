@@ -16,7 +16,7 @@
         <div class="navbar-collapse collapse berg-collapse">
             <ul class="nav navbar-nav">
                 <li class="page-scroll">
-                    <a href="#accueil">Acceuil</a>
+                    <a href="#accueil">Accueil</a>
                 </li>
                 
                 <li class="page-scroll">

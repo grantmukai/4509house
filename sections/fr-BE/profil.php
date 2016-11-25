@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profile" class="section">
+<section id="profil" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -92,7 +92,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi MUKA&Iuml;</li>
-                                    <li>Washington, District de Columbia, USA</li>
+                                    <li>Washington, District de Columbia, &Eacute;.-U.</li>
                                     <li>+1 202 656 8317</li>
                                     <li>bonjour@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com</li>
