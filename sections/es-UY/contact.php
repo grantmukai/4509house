@@ -24,7 +24,7 @@
                         <div class="speech-bubble">
                             <i class="icon-Speach-Bubble11"></i>
 
-                            <h4 style="font-size:24px;" class="text-grey">
+                            <h4 style="font-size:32px;" class="text-grey">
                                 Diga<br>Hola
                             </h4>
                         </div>

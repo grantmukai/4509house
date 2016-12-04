@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profile" class="section">
+<section id="profil" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -84,7 +84,7 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <h4>T&eacute;l&eacute;charger CV Web</h4>
+                                <h4>Descargar CV Web</h4>
                                 <?php
                                 $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esUY' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
@@ -123,7 +123,7 @@
                                     }
                                 }
                                 ?>
-                                <h4>T&eacute;l&eacute;charger CV Communications</h4>
+                                <h4>Descargar CV Comunicaciones</h4>
                                 <?php
                                 $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esUY' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
