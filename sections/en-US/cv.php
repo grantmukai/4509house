@@ -89,18 +89,27 @@
                         <?php
 						$i = 0; //$i va être le numéro de "work" pour les accordéons de travail
                         $a = 0; //$a va être pour la liste de déscriptions
-                        $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='en-US' AND type = 'WEB' ORDER BY start_date DESC;";
+                        $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='en-US' AND type = '".$metier_actuel."' ORDER BY start_date DESC;";
                         $resultatPositionsWeb = $lien->query($requetePositionsWeb);
                         while($rang_positionsweb = $resultatPositionsWeb->fetch_assoc())
                         {
 						$i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
                         $a++; //Ceci ajoute 1 pour changer la gamme de déscriptions
-                        if ($a == 1) {
+                        // Emplois pour WEB
+                        if ($a == 1 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'apsa';
-                        } elseif ($a == 2) {
+                        } elseif ($a == 2 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'georgetown';
-                        } else if ($a ==3) {
+                        } else if ($a ==3 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'iq';
+                        }
+                        // Emplois pour COM
+                        if ($a == 1 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'apsa';
+                        } elseif ($a == 2 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'wellesley';
+                        } else if ($a ==3 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'patch';
                         }
                         echo "<div class='resume-item'>";
                             echo "<div class='resume-year'>";
@@ -129,9 +138,9 @@
                                 echo "<div id='work{$i}' class='panel-collapse collapse in'>";
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
-                                            R&eacute;sponsibilities:
+                                            Responsibilities:
                                             <br>";
-                                            $requeteDesc = "SELECT job FROM descriptions WHERE language='en-US' AND type = 'WEB' AND company = '".$descriptionsWeb."' ORDER BY id;";
+                                            $requeteDesc = "SELECT job FROM descriptions WHERE language='en-US' AND type = '".$metier_actuel."' AND company = '".$descriptionsWeb."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
                                             echo "<ul>";
                                             while($rang_desc = $resultatDesc->fetch_assoc())

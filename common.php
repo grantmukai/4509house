@@ -73,4 +73,41 @@ switch ($lang) {
   $lang_actuelle = 'fr-CA';
  
 }
+
+// Web ou Com
+if(isSet($_GET['metier']))
+{
+$metier = $_GET['metier'];
+ 
+// enregistrer la session et régler la cookie
+$_SESSION['metier'] = $metier;
+ 
+setcookie('metier', $metier, time() + (3600 * 24 * 30));
+}
+else if(isSet($_SESSION['metier']))
+{
+$metier = $_SESSION['metier'];
+}
+else if(isSet($_COOKIE['metier']))
+{
+$metier = $_COOKIE['metier'];
+}
+else
+{
+$metier = 'web';
+}
+ 
+switch ($metier) {
+  case 'web':
+  $metier_actuel = 'WEB';
+  break;
+
+  case 'com':
+  $metier_actuel = 'COM';
+  break;
+   
+  default:
+  $metier_actuel = 'WEB';
+ 
+}
 ?>
