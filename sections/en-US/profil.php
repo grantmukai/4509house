@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profile" class="section">
+<section id="profil" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">

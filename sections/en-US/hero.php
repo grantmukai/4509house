@@ -1,5 +1,5 @@
 <!-- DÉBUT HÉRO -->
-<header id="home" class="hero">
+<header id="acceuil" class="hero">
     <div class="hero-body">
         <div class="hero-text text-center">
             <h1>
