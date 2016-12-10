@@ -27,6 +27,7 @@ $lang = 'fr-CA';
 switch ($lang) {
   case 'fr-CA':
   $lang_actuelle = 'fr-CA';
+  $lang_sanstraitdunion = 'frCA';
   break;
 
   case 'en-US':
