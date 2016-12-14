@@ -32,46 +32,57 @@ switch ($lang) {
 
   case 'en-US':
   $lang_actuelle = 'en-US';
+  $lang_sanstraitdunion = 'enUS';
   break;
 
   case 'en-CA':
   $lang_actuelle = 'en-CA';
+  $lang_sanstraitdunion = 'enCA';
   break;
 
   case 'es-MX':
   $lang_actuelle = 'es-MX';
+  $lang_sanstraitdunion = 'esMX';
   break;
 
   case 'fr-FR':
   $lang_actuelle = 'fr-FR';
+  $lang_sanstraitdunion = 'frFR';
   break;
 
   case 'es-PR':
   $lang_actuelle = 'es-PR';
+  $lang_sanstraitdunion = 'esPR';
   break;
 
   case 'fr-CH':
   $lang_actuelle = 'fr-CH';
+  $lang_sanstraitdunion = 'frCH';
   break;
 
   case 'es-ES':
   $lang_actuelle = 'es-ES';
+  $lang_sanstraitdunion = 'esES';
   break;
   
   case 'fr-BE':
   $lang_actuelle = 'fr-BE';
+  $lang_sanstraitdunion = 'frBE';
   break;
 
   case 'es-CL':
   $lang_actuelle = 'es-CL';
+  $lang_sanstraitdunion = 'esCL';
   break;
 
   case 'es-UY':
   $lang_actuelle = 'es-UY';
+  $lang_sanstraitdunion = 'esUY';
   break;
    
   default:
   $lang_actuelle = 'fr-CA';
+  $lang_sanstraitdunion = 'frCA';
  
 }
 
