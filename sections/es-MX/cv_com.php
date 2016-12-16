@@ -129,7 +129,7 @@
                                 echo "<div id='work{$i_com}' class='panel-collapse collapse in'>";
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
-                                            R&eacute;sponsibilities:
+                                            Responsabilidades
                                             <br>";
                                             $requeteDesc = "SELECT job FROM descriptions WHERE language='es-MX' AND type = 'COM' AND company = '".$descriptionsCom."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
