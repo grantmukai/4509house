@@ -1093,11 +1093,16 @@ header.hero.owl-bg-carousel-yes .owl-theme .owl-controls .owl-page.active span {
   text-align: center;
 }
 
+#profile .drapeaux {
+  vertical-align:top;
+}
+
 @media (min-width: 768px) {
   #profile .profile-text {
     text-align: justify;
   }
 }
+
 @media (min-width: 992px) {
   #profile .profile-text {
     padding-top: 100px;

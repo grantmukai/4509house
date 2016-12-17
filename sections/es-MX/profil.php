@@ -26,7 +26,7 @@
                                 <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/mx.png" alt="Bandera de M&eacute;xico" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/mx.png" alt="Bandera de M&eacute;xico" class="drapeaux" />
 
                                 <br />
 
