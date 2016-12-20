@@ -20,7 +20,7 @@
                 </li>
                 
                 <li class="page-scroll">
-                    <a href="#profil">Profil</a>
+                    <a href="#profile">Profil</a>
                 </li>
                 
                 <!--<li class="page-scroll">

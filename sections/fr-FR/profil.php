@@ -28,9 +28,9 @@
                             <div class="col-md-12">
                                 <p>Loi Europ&eacute;enne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous pr&eacute;f&eacute;rez la version fran&ccedil;aise de ce site. En visitant mon site, vous acceptez que les cookies vont &ecirc;tre stock&eacute;s sur votre ordinateur. Aucune information personelle n'est rapport&eacute;e. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
 
-                                <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" class="drapeaux" />
 
-                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de la Union Europ&eacute;enne" style="margin-left:5px; float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de la Union Europ&eacute;enne" style="margin-left:5px;" class="drapeaux" />
 
                                 <br /> 
 

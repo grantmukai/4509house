@@ -7,6 +7,6 @@ $drapeauNational = 1;
 /*Fin code spécifique au Québec */
 if (isset($imageVille)) {
     $quelleVille = mt_rand(0,$villeMax);
-    include "assets/images/villes/fr-CA/credits.php";
+    include "assets/images/villes/fr-FR/credits.php";
 }
 ?>
