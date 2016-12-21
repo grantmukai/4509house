@@ -95,12 +95,21 @@
                         {
 						$i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
                         $a++; //Ceci ajoute 1 pour changer la gamme de déscriptions
-                        if ($a == 1) {
+                        // Emplois pour WEB
+                        if ($a == 1 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'apsa';
-                        } elseif ($a == 2) {
+                        } elseif ($a == 2 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'georgetown';
-                        } else if ($a ==3) {
+                        } else if ($a ==3 && $metier_actuel == "WEB") {
                             $descriptionsWeb = 'iq';
+                        }
+                        // Emplois pour COM
+                        if ($a == 1 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'apsa';
+                        } elseif ($a == 2 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'wellesley';
+                        } else if ($a ==3 && $metier_actuel == "COM") {
+                            $descriptionsWeb = 'patch';
                         }
                         echo "<div class='resume-item'>";
                             echo "<div class='resume-year'>";
