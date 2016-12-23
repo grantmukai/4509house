@@ -47,7 +47,7 @@
                 <div class="copyright text-center">
                     <p class="text-grey">&copy; <?php echo date('Y'); ?> Grant Mukai. Todos los derechos reservados</p>
                     <?php if (isset($imageVille)) {
-                echo "<p class='text-grey'>Cr&eacute;dit de la photo principale: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") par <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. Cette photo ne porte aucune modification.</p>";
+                echo "<p class='text-grey'>Cr&eacute;ditos de la foto principal: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") por <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. No hay modificaciones a esta foto.</p>";
                 }
                 ?>
                 </div>
