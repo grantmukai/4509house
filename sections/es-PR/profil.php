@@ -83,7 +83,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
-                                    <li>Washington, District de Columbia, EEUU</li>
+                                    <li>Washington, Districto de Columbia, EEUU</li>
                                     <li>+1 202 656 8317</li>
                                     <li>hola@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
