@@ -9,18 +9,18 @@
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Mukai</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Kiyoshi MUKA&Iuml;</a>
         </div>
         <!-- //.navbar-header -->
         
         <div class="navbar-collapse collapse berg-collapse">
             <ul class="nav navbar-nav">
                 <li class="page-scroll">
-                    <a href="#accueil">Acceuil</a>
+                    <a href="#accueil">Accueil</a>
                 </li>
                 
                 <li class="page-scroll">
-                    <a href="#profil">Profil</a>
+                    <a href="#profile">Profil</a>
                 </li>
                 
                 <!--<li class="page-scroll">
