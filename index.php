@@ -1,18 +1,14 @@
-<?php
-include_once "common.php";
-$lien = new mysqli("www.grantmukai.com:4579","cv_access","jenesaispasmaistuverras","cv");
-require 'sections/'.$lang_actuelle.'/tete.php';
-?>
+<?php require_once "../kiyoshisql_config.php"; ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-CA"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-CA"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr-CA"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr-CA"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     
     <!-- Titre du Site -->
-    <title>Grant Muka&iuml;</title>
+    <title>Grant Kiyoshi Muka&iuml;</title>
     
     <meta name="description" content="Grant Muka&iuml; est d&eacute;veloppeur Web et agent de communications &agrave; Washington, District de Columbia">
     <meta name="keywords" content="web, communications, canada, québec, nouveau-brunswick, ontario, manitoba, yukon, cv, html, css, php">
