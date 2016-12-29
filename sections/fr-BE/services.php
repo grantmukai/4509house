@@ -82,7 +82,7 @@
                             <h4>5. Sites Web Adaptifs</h4>
 
                             <p class="text-grey">
-                                Sites Web Adaptifs
+                                Je comprend non seulement l'impl&eacute;mentation des requ&ecirc;tes m&eacute;dias pour flotter et mettre &agrave; l'&eacute;chelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour cr&eacute;er un courriel adaptif (si support&eacute;).
                             </p>
                         </div>
                         <!-- //.inner-content -->

@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profil" class="section">
+<section id="profile" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -29,9 +29,9 @@
                             <div class="col-md-12">
                                 <p>Loi Europ&eacute;enne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous pr&eacute;f&eacute;rez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont &ecirc;tre stock&eacute;s sur votre ordinateur. Aucune information personelle n'est rapport&eacute;e. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
 
-                                <img src="/assets/images/drapeaux/be.png" alt="Drapeau de la Belgique" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/be.png" alt="Drapeau de la Belgique" class="drapeaux" />
 
-                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de l&apos;Union Europ&eacute;ene" style="margin-left:5px; float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de l&apos;Union Europ&eacute;ene" style="margin-left:5px" class="drapeaux" />
 
                                 <br /> 
 
@@ -101,8 +101,9 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <h4>T&eacute;l&eacute;charger CV Web</h4>
                                 <?php
+								if ($metier_actuel == "WEB") {
+								echo "<h4>T&eacute;l&eacute;charger CV Web</h4>";
                                 $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                 while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
@@ -113,9 +114,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_frCA_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_frCA_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
                                     echo "</a><br />";
@@ -131,17 +132,17 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_frCA_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/fr-BE/Mukai_webCV_frCA_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
-                                ?>
-                                <h4>T&eacute;l&eacute;charger CV Communications</h4>
-                                <?php
+							}
+							if ($metier_actuel == "COM") {
+                                echo "<h4>T&eacute;l&eacute;charger CV Communications</h4>";
                                 $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                 while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
@@ -152,9 +153,9 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_frCA_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_frCA_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
                                     echo "</a><br />";
@@ -170,14 +171,15 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_frCA_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/fr-BE/Mukai_comCV_frCA_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
+							}
                                 ?>
                             </div>
                             <!-- //.col-md-6 -->
