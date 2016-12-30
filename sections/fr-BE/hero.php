@@ -16,7 +16,7 @@
             ?>
                                     
             <div class="page-scroll">
-                <a href="#profil" class="btn btn-lg btn-custom">
+                <a href="#profile" class="btn btn-lg btn-custom">
                     Apprenez d'avantage :)
                 </a>
                 <br />

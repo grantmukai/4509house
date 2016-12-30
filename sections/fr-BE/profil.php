@@ -93,7 +93,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi MUKA&Iuml;</li>
                                     <li>Washington, District de Columbia, &Eacute;.-U.</li>
-                                    <li>+1 202 656 8317</li>
+                                    <li>+001 202 656 8317</li>
                                     <li>bonjour@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com</li>
                                 </ul>
