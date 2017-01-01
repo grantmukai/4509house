@@ -47,7 +47,7 @@
                 <div class="copyright text-center">
                     <p class="text-grey">&copy; <?php echo date('Y'); ?> Kiyoshi Muka. Todos los derechos reservados.</p>
                     <?php if (isset($imageVille)) {
-                //echo "<p class='text-grey'>Cr&eacute;dito de Foto Arriba: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") por <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. Autorizada bajo el licencia Creative Commons. No hay modificaciones a esta foto.</p>";
+                echo "<p class='text-grey'>Cr&eacute;dito de Foto Arriba: <em>".$creditsImages[$quelleVille][1]."</em> (".$creditsImages[$quelleVille][2].") por <a href='http://www.flickr.com/photos/".$creditsImages[$quelleVille][4]."'>".$creditsImages[$quelleVille][3]."</a>. Autorizada bajo el licencia Creative Commons. <br />No hay modificaciones a esta foto.</p>";
                 }
                 ?>
                 </div>

@@ -1,4 +1,4 @@
-<?php date_default_timezone_set("America/Mexico_City");
+<?php date_default_timezone_set("America/Santiago");
 /*Para Chile SOLAMENTE!!*/
 $imageVille = 1;
 $villeMax = 0;
