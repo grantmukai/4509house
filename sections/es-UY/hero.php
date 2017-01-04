@@ -6,15 +6,7 @@
                 Hola, me llamo Kiyoshi Mukai <span class="blinker"></span>
             </h1>
             
-            <!-- <h1 class="small">Desarrollador Web</h1> -->
-            
-            <p>Desarrollador Web | Correo Electr&oacute;nico | Administraci&oacute;n de Datos | Servicios de Membres&iacute;a</p>
-            
-            <div class="page-scroll">
-                <a href="#profile" class="btn btn-lg btn-custom">
-                    Aprendar Más :)
-                </a>
-            </div>
+            <?php require 'titre_es.html'; ?>
             <!-- //.page-scroll -->
         </div>
         <!-- //.hero-text -->

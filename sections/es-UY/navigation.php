@@ -3,13 +3,13 @@
     <div class="container navbar-container">
         <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
-                <span class="sr-only">Parcourir Navigation</span>
+                <span class="sr-only">Recorrer Navigaci&oacute;n</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Mukai</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Kiyoshi Mukai</a>
         </div>
         <!-- //.navbar-header -->
         
