@@ -26,9 +26,9 @@
                         <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/qc.png" alt="Drapeau du Qu&eacute;bec" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/qc.png" alt="Drapeau du Qu&eacute;bec" />
 
-                                <img src="/assets/images/drapeaux/ca.png" alt="Drapeau du Canada" style="margin-left:5px; float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/ca.png" alt="Drapeau du Canada" style="margin-left:5px;" />
 
                                 <br /> 
 
@@ -68,7 +68,7 @@
                                     Cordialement,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Muka&iuml;' style='width:40%;height:40%;' />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Muka&iuml;' class="signature" />
 								
                                 <p class="text-grey">
                                     Grant Muka&iuml;
@@ -99,8 +99,10 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
+								$boutonTelechargerWeb = "T&eacute;l&eacute;charger CV Web";
+								$boutonTelechargerCom = "T&eacute;l&eacute;charger CV Communications";
                                 if ($metier_actuel == "WEB") {
-                                    echo "<h4>T&eacute;l&eacute;charger CV Web</h4>";
+                                    echo "<h4>{$boutonTelechargerWeb}</h4>";
                                     $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
                                     $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                     while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
@@ -139,7 +141,7 @@
                                     }
                                 }
                                 if ($metier_actuel == "COM") {
-                                    echo "<h4>T&eacute;l&eacute;charger CV Communications</h4>";
+                                    echo "<h4>{$boutonTelechargerCom}</h4>";
                                     $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
                                     $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                     while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
