@@ -3,7 +3,7 @@
     <div class="container navbar-container">
         <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
-                <span class="sr-only">Parcourir Navigation</span>
+                <span class="sr-only">Toggle Navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -20,7 +20,7 @@
                 </li>
                 
                 <li class="page-scroll">
-                    <a href="#profil">Profile</a>
+                    <a href="#profile">Profile</a>
                 </li>
                 
                 <!--<li class="page-scroll">

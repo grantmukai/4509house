@@ -1,4 +1,4 @@
-<?php date_default_timezone_set("America/Montevideo");
+<?php date_default_timezone_set("America/New_York");
 /*For United States ONLY! */
 $imageVille = 1;
 $villeMax = 6;

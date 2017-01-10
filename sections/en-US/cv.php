@@ -27,7 +27,7 @@
 
                     <div class="panel-group resume" id="education">
                         <?php 
-						$requeteEducation = "SELECT school, degreetype, degreetitle, minortype, minortitle, start_date, end_date FROM education WHERE language = 'en-US' ORDER BY id;";
+						$requeteEducation = "SELECT school, degreetype, degreetitle, minortype, minortitle, start_date, end_date FROM education WHERE language = '{$lang_actuelle}' ORDER BY id;";
 						$resultatEducation = $lien->query($requeteEducation);
 						while($rang_education = $resultatEducation->fetch_assoc())
 						{
@@ -89,7 +89,7 @@
                         <?php
 						$i = 0; //$i va être le numéro de "work" pour les accordéons de travail
                         $a = 0; //$a va être pour la liste de déscriptions
-                        $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='en-US' AND type = '".$metier_actuel."' ORDER BY start_date DESC;";
+                        $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='{$lang_actuelle}' AND type = '".$metier_actuel."' ORDER BY start_date DESC;";
                         $resultatPositionsWeb = $lien->query($requetePositionsWeb);
                         while($rang_positionsweb = $resultatPositionsWeb->fetch_assoc())
                         {
@@ -140,7 +140,7 @@
                                         echo "<p>
                                             Responsibilities:
                                             <br>";
-                                            $requeteDesc = "SELECT job FROM descriptions WHERE language='en-US' AND type = '".$metier_actuel."' AND company = '".$descriptionsWeb."' ORDER BY id;";
+                                            $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '".$metier_actuel."' AND company = '".$descriptionsWeb."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
                                             echo "<ul>";
                                             while($rang_desc = $resultatDesc->fetch_assoc())

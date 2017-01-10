@@ -9,7 +9,6 @@
             <?php
 			include 'titre_fr.html';
                 ?>
-            </div>
             <!-- //.page-scroll -->
         </div>
         <!-- //.hero-text -->

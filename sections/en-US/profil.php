@@ -1,5 +1,5 @@
 <!-- DÉBUT SECTION PROFIL -->
-<section id="profil" class="section">
+<section id="profile" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
@@ -18,15 +18,16 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
-                                <div class="btn-group">
-                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Select Your Country
-                                  <span class="caret"></span></button>
-                                <?php require "pays.php"; ?>
-                                </div>
-                                <br />
+                         <div class="btn-group" style="margin-bottom:10px;">
+                            <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                            <span class="caret"></span></button>
+                            <?php require "pays.php"; ?>
+                        </div>
+                        <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/us.png" alt="Flag of the United States" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/us.png" alt="Flag of the United States" class="drapeaux" />
+
 
                                 <br /> 
 
@@ -86,9 +87,10 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <h4>Download Web Resume</h4>
                                 <?php
-                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'enUS' AND metier = 'web' AND type = 'pdf';";
+                                if ($metier_actuel == "WEB") {
+                                echo "<h4>Download Web Resume</h4>";
+                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                 while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
                                 {
@@ -98,15 +100,15 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                                            echo "<a href='cv_files/en-US/Mukai_webCV_enUS_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/en-US/Mukai_webCV_enUS_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
-                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'enUS' AND metier = 'web' AND type = 'docx';";
+                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'docx';";
                                 $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
                                 while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
                                 {
@@ -116,18 +118,18 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                                            echo "<a href='cv_files/en-US/Mukai_webCV_enUS_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/en-US/Mukai_webCV_enUS_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
-                                ?>
-                                <h4>Download Communications Resume</h4>
-                                <?php
-                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'enUS' AND metier = 'com' AND type = 'pdf';";
+                            }
+                            if ($metier_actuel == "COM") {
+                                echo "<h4>Download Communications Resume</h4>";
+                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                 while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
                                 {
@@ -137,15 +139,15 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                                            echo "<a href='cv_files/en-US/Mukai_comCV_enUS_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                            echo "<a href='cv_files/en-US/Mukai_comCV_enUS_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
-                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'enUS' AND metier = 'com' AND type = 'docx';";
+                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'docx';";
                                 $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
                                 while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
                                 {
@@ -155,14 +157,15 @@
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                                            echo "<a href='cv_files/en-US/Mukai_comCV_enUS_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                            echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         } else {
-                                                echo "<a href='cv_files/en-US/Mukai_comCV_enUS_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                                                echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
                                         }
                                         echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
                                     echo "</a><br />";
                                     }
                                 }
+                            }
                                 ?>
                             </div>
                             <!-- //.col-md-6 -->

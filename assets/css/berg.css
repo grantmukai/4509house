@@ -1079,6 +1079,10 @@ header.hero.owl-bg-carousel-yes .owl-theme .owl-controls .owl-page.active span {
   background-color: #0d0c0d;
 }
 
+#profile .drapeaux {
+  vertical-align:top;
+}
+
 @media (min-width: 992px) {
   #profile .section-wrapper > .section-content {
     padding: 0px;
