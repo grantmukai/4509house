@@ -88,8 +88,10 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
+								$boutonTelechargerWeb = "Download Web Resume";
+								$boutonTelechargerCom = "Download Communications Resume";
                                 if ($metier_actuel == "WEB") {
-                                echo "<h4>Download Web Resume</h4>";
+                                echo "<h4>{$boutonTelechargerWeb}</h4>";
                                 $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                 while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
@@ -128,7 +130,7 @@
                                 }
                             }
                             if ($metier_actuel == "COM") {
-                                echo "<h4>Download Communications Resume</h4>";
+                                echo "<h4>{$boutonTelechargerCom}</h4>";
                                 $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                 while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())

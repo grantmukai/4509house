@@ -1,13 +1,21 @@
 <!-- DÉBUT SECTION CV -->
+<?php
+$monCVtitre = "My Resume";
+$monCVdesc = "If you call failures experiences, you can put them on your resume as accomplishments.";
+$monEducation = "My Education";
+$expProf = "Work Experience";
+$heureActuelle = "Present";
+$respTravail = "Responsibilities:";
+?>
 <section id="cv" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">My Resume</h2>
+                    <h2 class="section-title"><?php echo $monCVtitre; ?></h2>
 
                     <p class="section-subtitle">
-                        If you call failures experiences, you can put them on your resume as accomplishments.
+                        <?php echo $monCVdesc; ?>
                     </p>
 
                     <span class="divider center"></span>
@@ -20,7 +28,7 @@
             <div class="row education">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        My Education
+                        <?php echo $monEducation; ?>
                         <br>
                         2006 - 2010
                     </h3>
@@ -80,9 +88,9 @@
             <div class="row work-experience">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Work Experience
+                        <?php echo $expProf; ?>
                         <br>
-                        2010 - Present
+                        2010 - <?php echo $heureActuelle; ?>
                     </h3>
 
                     <div class="panel-group resume" id="work">
@@ -138,7 +146,7 @@
                                 echo "<div id='work{$i}' class='panel-collapse collapse in'>";
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
-                                            Responsibilities:
+                                            {$respTravail}
                                             <br>";
                                             $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '".$metier_actuel."' AND company = '".$descriptionsWeb."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
