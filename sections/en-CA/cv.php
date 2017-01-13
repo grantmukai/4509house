@@ -1,13 +1,21 @@
 <!-- DÉBUT SECTION CV -->
+<?php
+$monCVtitre = "My Curriculum Vitae";
+$monCVdesc = "If you call failures experiences, you can put them on your resume as accomplishments.";
+$monEducation = "My Education";
+$expProf = "Work Experience";
+$heureActuelle = "Present";
+$respTravail = "Responsibilities:";
+?>
 <section id="cv" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">My Resume</h2>
+                    <h2 class="section-title"><?php echo $monCVtitre; ?></h2>
 
                     <p class="section-subtitle">
-                        If you call failures experiences, you can put them on your resume as accomplishments.
+                        <?php echo $monCVdesc; ?>
                     </p>
 
                     <span class="divider center"></span>
@@ -20,18 +28,18 @@
             <div class="row education">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        My Education
+                        <?php echo $monEducation; ?>
                         <br>
                         2006 - 2010
                     </h3>
 
                     <div class="panel-group resume" id="education">
                         <?php 
-						$requeteEducation = "SELECT school, degreetype, degreetitle, minortype, minortitle, start_date, end_date FROM education WHERE language = '{$lang_actuelle}' ORDER BY id;";
-						$resultatEducation = $lien->query($requeteEducation);
-						while($rang_education = $resultatEducation->fetch_assoc())
-						{
-							echo "<div class='resume-item'>";
+                        $requeteEducation = "SELECT school, degreetype, degreetitle, minortype, minortitle, start_date, end_date FROM education WHERE language = '{$lang_actuelle}' ORDER BY id;";
+                        $resultatEducation = $lien->query($requeteEducation);
+                        while($rang_education = $resultatEducation->fetch_assoc())
+                        {
+                            echo "<div class='resume-item'>";
                             echo "<div class='resume-year'>";
                                 echo "<span class='resume-year'>".date('Y',strtotime($rang_education['start_date']))." - ".date('Y',strtotime($rang_education['end_date']))."</span>";
                             echo "</div>";
@@ -55,8 +63,8 @@
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
                                             {$rang_education['degreetype']} - {$rang_education['degreetitle']} 
-											<br>
-											{$rang_education['minortype']} - {$rang_education['minortitle']}
+                                            <br>
+                                            {$rang_education['minortype']} - {$rang_education['minortitle']}
                                         </p>";
                                     echo "</div>";
                                     echo "<!-- //.panel-body -->";
@@ -66,8 +74,8 @@
                             echo "<!-- //.panel -->";
                         echo "</div>";
                         echo "<!-- //.resume-item -->";
-					}
-						?>
+                    }
+                        ?>
 
                     </div>
                     <!-- //.panel-group -->
@@ -80,20 +88,20 @@
             <div class="row work-experience">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Work Experience
+                        <?php echo $expProf; ?>
                         <br>
-                        2010 - Present
+                        2010 - <?php echo $heureActuelle; ?>
                     </h3>
 
                     <div class="panel-group resume" id="work">
                         <?php
-						$i = 0; //$i va être le numéro de "work" pour les accordéons de travail
+                        $i = 0; //$i va être le numéro de "work" pour les accordéons de travail
                         $a = 0; //$a va être pour la liste de déscriptions
                         $requetePositionsWeb = "SELECT company, jobtitle, start_date, end_date FROM positions WHERE language='{$lang_actuelle}' AND type = '{$metier_actuel}' ORDER BY start_date DESC;";
                         $resultatPositionsWeb = $lien->query($requetePositionsWeb);
                         while($rang_positionsweb = $resultatPositionsWeb->fetch_assoc())
                         {
-						$i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
+                        $i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
                         $a++; //Ceci ajoute 1 pour changer la gamme de déscriptions
                         // Emplois pour WEB
                         if ($a == 1 && $metier_actuel == "WEB") {
@@ -138,7 +146,7 @@
                                 echo "<div id='work{$i}' class='panel-collapse collapse in'>";
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
-                                            Responsibilities:
+                                            {$respTravail}
                                             <br>";
                                             $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '{$metier_actuel}' AND company = '".$descriptionsWeb."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
