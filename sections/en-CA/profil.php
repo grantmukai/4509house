@@ -51,17 +51,17 @@
                                 <p>I often spend my free time dancing Lindy Hop and Blues and make several trips a year to Montr&eacute;al for various dance events. I also enjoy hanging out in Washington's international scene.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
-								
+                                
                                 <p class="text-grey">
                                     Sincerely,
                                 </p>
-								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
-								
+                                
+                                <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
+                                
                                 <p class="text-grey">
                                     Grant Mukai
                                 </p>
-								
+                                
                             </div>
                             <!-- //.col-md-12 -->
                         </div>
@@ -88,8 +88,10 @@
                             <div class="col-sm-6 col-md-7">
                                 
                                 <?php
+                                $boutonTelechargerWeb = "Download Web CV";
+                                $boutonTelechargerCom = "Download Communications CV";
                                 if ($metier_actuel == "WEB") {
-                                    echo "<h4>Download Web CV</h4>";
+                                    echo "<h4>{$boutonTelechargerWeb}</h4>";
                                     $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'enCA' AND metier = 'web' AND type = 'pdf';";
                                     $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                     while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
@@ -129,7 +131,7 @@
                                 }
 
                                 if ($metier_actuel == "COM") {
-                                    echo "<h4>Download Communications CV</h4>";
+                                    echo "<h4>{$boutonTelechargerCom}</h4>";
                                     $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'enCA' AND metier = 'com' AND type = 'pdf';";
                                     $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                     while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
