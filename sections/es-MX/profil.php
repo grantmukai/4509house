@@ -54,7 +54,7 @@
                                     Cordialemente,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
 								
                                 <p class="text-grey">
                                     Kiyoshi Mukai
@@ -74,7 +74,7 @@
                                 <h4>Detalles de contacto</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Muka&iuml;</li>
+                                    <li>Kiyoshi Mukai</li>
                                     <li>Washington, Distrito de Columbia, EEUU</li>
                                     <li>+1 202 656 8317</li>
                                     <li>hola@kiyoshimukai.com</li>
@@ -84,15 +84,19 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                            <?php if ($metier_actuel == "WEB") {
-                                echo "<h4>Descargar CV Web</h4>";
+                            <?php
+							$boutonTelechargerWeb = "Descargar CV Web";
+							$boutonTelechargerCom = "Descargar CV Communications";
+							$cvMiseajour = "Actualizaci&oacute;n por el momento...";
+							if ($metier_actuel == "WEB") {
+                                echo "<h4>{$boutonTelechargerWeb}</h4>";
                                 $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
                                 $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
                                 while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
                                 {
                                     if (is_null($rang_BoutonsWebPDF['visible'])) {
                                     echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
+                                        echo "<i class='icon-File-Download'></i> PDF ({$cvMiseajour})";
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
@@ -110,7 +114,7 @@
                                 {
                                     if (is_null($rang_BoutonsWebDOCX['visible'])) {
                                     echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
+                                        echo "<i class='icon-File-Download'></i> DOCX ({$cvMiseajour})";
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
@@ -125,7 +129,7 @@
                             }
 
                             if ($metier_actuel == "COM") {
-                                echo "<h4>Descargar CV Comunicaciones</h4>";
+                                echo "<h4>{$boutonTelechargerCom}</h4>";
                                 $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
                                 $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
                                 while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
@@ -150,7 +154,7 @@
                                 {
                                     if (is_null($rang_BoutonsComDOCX['visible'])) {
                                     echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
+                                        echo "<i class='icon-File-Download'></i> DOCX ({$cvMiseajour})";
                                     echo "</a><br />";
                                     } else {
                                         if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
