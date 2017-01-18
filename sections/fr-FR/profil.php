@@ -47,7 +47,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre &agrave; mon association, j'ai travaill&eacute; &agrave; <a href='http://msb.georgetown.edu'>l'&Eacute;cole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieux en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; des agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre &agrave; mon association, j'ai travaill&eacute; &agrave; <a href='http://msb.georgetown.edu'>l'&Eacute;cole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; des agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
@@ -70,7 +70,7 @@
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKA&Iuml;' style='width:40%;height:40%;' />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKA&Iuml;' class="signature" />
 								
                                 <p class="text-grey">
                                     Kiyoshi MUKA&Iuml;
@@ -101,15 +101,18 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
+                                    $boutonTelechargerWeb = "T&eacute;l&eacute;charger CV Web";
+                                    $boutonTelechargerCom = "T&eacute;l&eacute;charger CV Communications";
+                                    $cvMiseajour = "Mise &agrave; jour en cours...";
 	                            	if ($metier_actuel == "WEB") {
-			                            echo "<h4>T&eacute;l&eacute;charger CV Web</h4>";
+			                            echo "<h4>{$boutonTelechargerWeb}</h4>";
 		                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
 		                                $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
 		                                while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
 		                                {
 		                                    if (is_null($rang_BoutonsWebPDF['visible'])) {
 		                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-		                                        echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
+		                                        echo "<i class='icon-File-Download'></i> PDF ({$cvMiseajour})";
 		                                    echo "</a><br />";
 		                                    } else {
 		                                        if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
@@ -127,7 +130,7 @@
 		                                {
 		                                    if (is_null($rang_BoutonsWebDOCX['visible'])) {
 		                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-		                                        echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
+		                                        echo "<i class='icon-File-Download'></i> DOCX ({$cvMiseajour})";
 		                                    echo "</a><br />";
 		                                    } else {
 		                                        if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
@@ -141,7 +144,7 @@
 		                                }
 		                            }
 									if ($metier_actuel == "COM") {
-		                                echo "<h4>T&eacute;l&eacute;charger CV Communications</h4>";
+		                                echo "<h4>{$boutonTelechargerCom}</h4>";
 		                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
 		                                $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
 		                                while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())

@@ -1,13 +1,21 @@
 <!-- DÉBUT SECTION CV -->
+<?php
+$monCVtitre = "Mon Curriculum Vitae";
+$monCVdesc = "Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.";
+$monEducation = "Mon &Eacute;ducation";
+$expProf = "Exp&eacute;riences Professionnelles";
+$heureActuelle = "Pr&eacute;sent";
+$respTravail = "T&acirc;ches :";
+?>
 <section id="cv" class="section">
     <div class="container section-wrapper">
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">Mon Curriculum Vitae</h2>
+                    <h2 class="section-title"><?php echo $monCVtitre; ?></h2>
 
                     <p class="section-subtitle">
-                        Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.
+                        <?php echo $monCVdesc; ?>
                     </p>
 
                     <span class="divider center"></span>
@@ -20,7 +28,7 @@
             <div class="row education">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Mon &Eacute;ducation
+                        <?php echo $monEducation; ?>
                         <br>
                         2006 - 2010
                     </h3>
@@ -80,9 +88,9 @@
             <div class="row work-experience">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Exp&eacute;riences Professionnelles
+                        <?php echo $expProf; ?>
                         <br>
-                        2010 - Pr&eacute;sent
+                        2010 - <?php echo $heureActuelle; ?>
                     </h3>
 
                     <div class="panel-group resume" id="work">
@@ -138,7 +146,7 @@
                                 echo "<div id='work{$i}' class='panel-collapse collapse in'>";
                                     echo "<div class='panel-body text-grey'>";
                                         echo "<p>
-                                            R&eacute;sponsibilities:
+                                            {$respTravail}
                                             <br>";
                                             $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '{$metier_actuel}' AND company = '".$descriptionsWeb."' ORDER BY id;";
                                             $resultatDesc = $lien->query($requeteDesc);
