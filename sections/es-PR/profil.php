@@ -39,7 +39,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Antes de unirme a la APSA, trabaj&eacute; a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electr&oacute;nicos. Algunos clientes de salud para qui&eacute;nes estaba trabajando incluyeron la Administraci&oacute;n de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en ingl&eacute;s)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en ingl&eacute;s)</em>. Asimismo, cre&iacute; y actualic&eacute; paginas Web en ingl&eacute;s y en espa&ntilde;ol para el Instituto Nacional de Artritis y Enfermedades Musculoesquel&eacute;ticas y de la Piel <em>(NIAMS por sus siglas en ingl&eacute;s)</em>.
+                                    Antes de unirme a la APSA, trabaj&eacute; a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electr&oacute;nicos. Algunos clientes de salud para qui&eacute;nes estaba trabajando incluyeron la Administraci&oacute;n de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en ingl&eacute;s)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en ingl&eacute;s)</em>. Asimismo, cre&iacute; y actualic&eacute; p&aacute;ginas Web en ingl&eacute;s y en espa&ntilde;ol para el Instituto Nacional de Artritis y Enfermedades Musculoesquel&eacute;ticas y de la Piel <em>(NIAMS por sus siglas en ingl&eacute;s)</em>.
                                 </p>
 								
                                 <p class="text-grey">
@@ -47,7 +47,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gesti&oacute;n de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, d&oacute;nde estaba produciendo reportajes y documentarios para un canal de televisi&oacute;n. En el metr&oacute;poli de Boston, realic&eacute; contenido v&iacute;deo para la plataforma <a href='http://www.patch.com'>Patch.com</a>.
+                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gesti&oacute;n de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, d&oacute;nde estaba produciendo reportajes y documentarios para un canal de televisi&oacute;n. En la metr&oacute;poli de Boston, realic&eacute; contenido v&iacute;deo para la plataforma <a href='http://www.patch.com'>Patch.com</a>.
                                 </p>
 								
                                 <p class="text-grey">
@@ -62,7 +62,7 @@
                                     Cordialmente,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' style='width:40%;height:40%;' />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
                                     Grant Mukai
@@ -93,85 +93,11 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
-                                    if ($metier_actuel == "WEB") {
-                                        echo "<h4>Descargar CV Web</h4>";
-                                        $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esPR' AND metier = 'web' AND type = 'pdf';";
-                                        $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
-                                        while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
-                                        {
-                                            if (is_null($rang_BoutonsWebPDF['visible'])) {
-                                            echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                                echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
-                                            echo "</a><br />";
-                                            } else {
-                                                if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                                                    echo "<a href='cv_files/es-PR/Mukai_webCV_frCA_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                } else {
-                                                    echo "<a href='cv_files/es-PR/Mukai_webCV_frCA_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                }
-                                                echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
-                                            echo "</a><br />";
-                                            }
-                                        }
-                                        $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'esPR' AND metier = 'web' AND type = 'docx';";
-                                        $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
-                                        while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
-                                        {
-                                            if (is_null($rang_BoutonsWebDOCX['visible'])) {
-                                            echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                                echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
-                                            echo "</a><br />";
-                                            } else {
-                                                if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                                                    echo "<a href='cv_files/es-PR/Mukai_webCV_frCA_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                } else {
-                                                        echo "<a href='cv_files/es-PR/Mukai_webCV_frCA_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                }
-                                                echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
-                                            echo "</a><br />";
-                                            }
-                                        }
-                                    }
-                                    if ($metier_actuel == "COM") {
-                                        echo "<h4>Descargar CV Comunicaciones</h4>";
-                                        $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'esPR' AND metier = 'com' AND type = 'pdf';";
-                                        $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
-                                        while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
-                                        {
-                                            if (is_null($rang_BoutonsComPDF['visible'])) {
-                                            echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                                echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
-                                            echo "</a><br />";
-                                            } else {
-                                                if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                                                    echo "<a href='cv_files/es-PR/Mukai_comCV_frCA_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                } else {
-                                                    echo "<a href='cv_files/es-PR/Mukai_comCV_frCA_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                }
-                                                echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
-                                            echo "</a><br />";
-                                            }
-                                        }
-                                        $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'esPR' AND metier = 'com' AND type = 'docx';";
-                                        $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
-                                        while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
-                                        {
-                                            if (is_null($rang_BoutonsComDOCX['visible'])) {
-                                            echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                                echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
-                                            echo "</a><br />";
-                                            } else {
-                                                if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                                                    echo "<a href='cv_files/es-PR/Mukai_comCV_frCA_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                } else {
-                                                        echo "<a href='cv_files/es-PR/Mukai_comCV_frCA_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                                }
-                                                echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
-                                            echo "</a><br />";
-                                            }
-                                        }
-                                    }
-                                ?>
+								$boutonTelechargerWeb = "Descargar CV Web";
+								$boutonTelechargerCom = "Descargar CV Comunicacioness";
+								$cvMiseajour = "Actualizaci&oacute;n...";
+								include "profil_base.php";	
+								?>
                             </div>
                             <!-- //.col-md-6 -->
                         </div>
