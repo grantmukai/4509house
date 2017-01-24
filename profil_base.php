@@ -46,7 +46,7 @@ if ($metier_actuel == "COM") {
     {
         if (is_null($rang_BoutonsComPDF['visible'])) {
         echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-            echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
+            echo "<i class='icon-File-Download'></i> PDF ({$cvMiseajour})";
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
@@ -64,7 +64,7 @@ if ($metier_actuel == "COM") {
     {
         if (is_null($rang_BoutonsComDOCX['visible'])) {
         echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-            echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
+            echo "<i class='icon-File-Download'></i> DOCX ({$cvMiseajour})";
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
