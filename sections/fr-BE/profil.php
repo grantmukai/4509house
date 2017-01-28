@@ -35,20 +35,20 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKA&Iuml;<br /><small>Hallo, mijn naam is Kiyoshi Mukai</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKA&Iuml;<br /><small>Hallo, mijn naam is Grant Mukai</small></h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKA&Iuml; et je suis D&eacute;veloppeur Web et Sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> aux &Eacute;tats-Unis d'Am&eacute;rique.
+                                    Je m'appelle Grant MUKA&Iuml; et je suis D&eacute;veloppeur Web et Sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> aux &Eacute;tats-Unis d'Am&eacute;rique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le D&eacute;partement de marketing et communications o&ugrave; j'aide mes co&eacute;quipiers &agrave; g&eacute;rer le site publique de l'association ainsi que plusieurs sites WordPress consacr&eacute;s &agrave; la promotion de la science politique qui aident nos sections d'int&eacute;r&ecirc;ts sp&eacute;calis&eacute;s &agrave; s'organiser aux r&eacute;seaux. Je suis aussi responsable de la gestion des bases de donn&eacute;es SQL, de l'analyse statistique et la g&eacute;n&eacute;ration des tableaux de donn&eacute;es tout en fournissant de l'excellent service &agrave; la client&egrave;le en anglais, fran&ccedil;ais et espagnol. Bien que nos bureaux se situent aux &Eacute;tats-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le D&eacute;partement de marketing et communications o&ugrave; j'aide mes co&eacute;quipiers &agrave; g&eacute;rer le site publique de l'association ainsi que plusieurs sites WordPress consacr&eacute;s &agrave; la promotion de la science politique qui aident nos sections d'int&eacute;r&ecirc;ts sp&eacute;cialis&eacute;s &agrave; s'organiser aux r&eacute;seaux. Je suis aussi responsable de la gestion des bases de donn&eacute;es SQL, de l'analyse statistique et la g&eacute;n&eacute;ration des tableaux de donn&eacute;es tout en fournissant de l'excellent service &agrave; la client&egrave;le en anglais, fran&ccedil;ais et espagnol. Bien que nos bureaux se situent aux &Eacute;tats-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre &agrave; mon association actuelle, j'ai travaill&eacute; &agrave; <a href='http://msb.georgetown.edu'>l'&Eacute;cole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieux en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; deux agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre &agrave; mon association actuelle, j'ai travaill&eacute; &agrave; <a href='http://msb.georgetown.edu'>l'&Eacute;cole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; deux agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
@@ -71,10 +71,10 @@
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signatura de Grant Mukai' style='width:40%;height:40%;' />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Kiyoshi MUKA&Iuml;
+                                    Grant MUKA&Iuml;
                                 </p>
 								
                             </div>
@@ -91,95 +91,21 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Kiyoshi MUKA&Iuml;</li>
+                                    <li>Grant MUKA&Iuml;</li>
                                     <li>Washington, District de Columbia, &Eacute;.-U.</li>
                                     <li>+001 202 656 8317</li>
-                                    <li>bonjour@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com</li>
+                                    <li>bonjour@grantmukai.com</li>
+                                    <li>www.grantmukai.com</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
-								if ($metier_actuel == "WEB") {
-								echo "<h4>T&eacute;l&eacute;charger CV Web</h4>";
-                                $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'web' AND type = 'pdf';";
-                                $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
-                                while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
-                                {
-                                    if (is_null($rang_BoutonsWebPDF['visible'])) {
-                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
-                                    echo "</a><br />";
-                                    } else {
-                                        if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        } else {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        }
-                                        echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
-                                    echo "</a><br />";
-                                    }
-                                }
-                                $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'web' AND type = 'docx';";
-                                $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
-                                while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
-                                {
-                                    if (is_null($rang_BoutonsWebDOCX['visible'])) {
-                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
-                                    echo "</a><br />";
-                                    } else {
-                                        if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        } else {
-                                                echo "<a href='cv_files/fr-BE/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        }
-                                        echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
-                                    echo "</a><br />";
-                                    }
-                                }
-							}
-							if ($metier_actuel == "COM") {
-                                echo "<h4>T&eacute;l&eacute;charger CV Communications</h4>";
-                                $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'com' AND type = 'pdf';";
-                                $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
-                                while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
-                                {
-                                    if (is_null($rang_BoutonsComPDF['visible'])) {
-                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> PDF (Mise &agrave; jour en cours...)";
-                                    echo "</a><br />";
-                                    } else {
-                                        if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        } else {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        }
-                                        echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
-                                    echo "</a><br />";
-                                    }
-                                }
-                                $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = 'frBE' AND metier = 'com' AND type = 'docx';";
-                                $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
-                                while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
-                                {
-                                    if (is_null($rang_BoutonsComDOCX['visible'])) {
-                                    echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
-                                        echo "<i class='icon-File-Download'></i> DOCX (Mise &agrave; jour en cours...)";
-                                    echo "</a><br />";
-                                    } else {
-                                        if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                                            echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        } else {
-                                                echo "<a href='cv_files/fr-BE/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
-                                        }
-                                        echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
-                                    echo "</a><br />";
-                                    }
-                                }
-							}
+								$boutonTelechargerWeb = "T&eacute;l&eacute;charger CV Web";
+								$boutonTelechargerCom = "T&eacute;l&eacute;charger CV Communications";
+								$cvMiseajour = "Mise &agrave; jour...";
+								include "profil_base.php";
                                 ?>
                             </div>
                             <!-- //.col-md-6 -->
