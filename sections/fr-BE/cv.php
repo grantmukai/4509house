@@ -5,7 +5,7 @@ $monCVdesc = "Si vous appelez les &eacute;checs des exp&eacute;riences, vous pou
 $monEducation = "Mon &Eacute;ducation";
 $expProf = "Exp&eacute;riences Professionnelles";
 $heureActuelle = "Pr&eacute;sent";
-$respTravail = "T&acirc;che :";
+$respTravail = "T&acirc;ches :";
 ?>
 <section id="cv" class="section">
     <div class="container section-wrapper">

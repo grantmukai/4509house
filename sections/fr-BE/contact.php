@@ -4,7 +4,7 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="section-title">Contactez-Moi/h2>
+                    <h2 class="section-title">Contactez-Moi</h2>
 
                     <p class="section-subtitle">
                         Avez-vous un projet que vous aimeriez discuter?
