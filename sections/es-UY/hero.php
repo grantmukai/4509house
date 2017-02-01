@@ -8,8 +8,7 @@
             
             <?php require 'titre_es.html'; ?>
             <!-- //.page-scroll -->
-        </div>
-        <!-- //.hero-text -->
+			<!-- //.hero-text -->
     </div>
     <!-- //.hero-body -->
 </header>
