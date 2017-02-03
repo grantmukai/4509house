@@ -32,10 +32,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Muka&iuml;</h2>
+			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Muka&iuml; et je suis D&eacute;veloppeur Web et sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> (APSA) au District de Columbia.
+                                    Je m'appelle Grant Mukaï et je suis D&eacute;veloppeur Web et sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> (APSA) au District de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
