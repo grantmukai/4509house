@@ -4,9 +4,9 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">Comp&eacute;tences et Connaissances</h2>
+                    <h2 class="section-title">Compétences et Connaissances</h2>
 
-                    <p class="section-subtitle">Un gagnant est quelqu'un qui reconna&icirc;t ses talents, travail au jusqu'au bout pour qu'ils deviennent des comp&eacute;tences, et les utilise pour l'ach&egrave;vement de ses projets.</p>
+                    <p class="section-subtitle">Un gagnant est quelqu'un qui reconnaît ses talents, travail au jusqu'au bout pour qu'ils deviennent des compétences, et les utilise pour l'achèvement de ses projets.</p>
 
                     <span class="divider center"></span>
                 </div>
@@ -86,7 +86,7 @@
 
                             <span class="percent">65%</span>
 
-                            <h4 class="text-center">Premi&egrave;re</h4>
+                            <h4 class="text-center">Première</h4>
                         </div>
                         <!-- //.item -->
                     </div>

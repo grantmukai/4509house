@@ -3,12 +3,9 @@
     <div class="hero-body">
         <div class="hero-text text-center">
             <h1>
-                Bonjour, mon nom est Grant Muka&iuml; <span class="blinker"></span>
+                Bonjour, mon nom est Grant Mukaï <span class="blinker"></span>
             </h1>
-
-            <?php
-			include 'titre_fr.html';
-                ?>
+            <?php include 'titre_fr.html'; ?>
             <!-- //.page-scroll -->
         </div>
         <!-- //.hero-text -->

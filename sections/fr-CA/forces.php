@@ -6,7 +6,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Mes Forces</h2>
 
-                    <p class="section-subtitle">L'&Eacute;chec ne me surprendra jamais si ma d&eacute;termination &agrave; r&eacute;ussier est assez forte.</p>
+                    <p class="section-subtitle">L'Échec ne me surprendra jamais si ma détermination à réussier est assez forte.</p>
 
                     <span class="divider center"></span>
                 </div>
@@ -26,12 +26,12 @@
 
                         <div class="legend legend-right hidden-xs">
                             <div class="item">
-                                <h4>Superh&eacute;ro</h4>
+                                <h4>Superhéro</h4>
                             </div>
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>Tr&egrave;s Bon</h4>
+                                <h4>Très Bon</h4>
                             </div>
                             <!-- //.item -->
 
@@ -41,7 +41,7 @@
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>D&eacute;butant</h4>
+                                <h4>Débutant</h4>
                             </div>
                             <!-- //.item -->
                         </div>
@@ -53,7 +53,7 @@
                                     <span class="percent">92%</span>
 
                                     <div class="item-progress" data-percent="92">
-                                        <span class="title">Cr&eacute;ativit&eacute;</span>
+                                        <span class="title">Créativité</span>
                                     </div>
                                     <!-- //.item-progress -->
                                 </div>
@@ -66,7 +66,7 @@
                                     <span class="percent">71%</span>
 
                                     <div class="item-progress" data-percent="71">
-                                        <span class="title">Fiabilit&eacute;e</span>
+                                        <span class="title">Fiabilitée</span>
                                     </div>
                                     <!-- //.item-progress -->
                                 </div>

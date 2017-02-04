@@ -6,7 +6,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Connaissance</h2>
 
-                    <p class="section-subtitle">Le comportement humain coule depuis trois sources principales: d&eacute;sir, &eacute;motion, et connaissance.</p>
+                    <p class="section-subtitle">Le comportement humain coule depuis trois sources principales: désir, émotion, et connaissance.</p>
 
                     <span class="divider center"></span>
                 </div>
@@ -30,7 +30,7 @@
                         <!-- //.item -->
 
                         <div class="item">
-                            <h4>D&eacute;veloppement Web</h4>
+                            <h4>Développement Web</h4>
 
                             <div class="bar">
                                 <span class="percent">95%</span>
@@ -41,7 +41,7 @@
                         <!-- //.item -->
 
                         <div class="item">
-                            <h4>Conc&eacute;ption Digitale</h4>
+                            <h4>Concéption Digitale</h4>
 
                             <div class="bar">
                                 <span class="percent">80%</span>
@@ -58,7 +58,7 @@
                 <div class="col-sm-6 col-md-6">
                     <div class="bar-chart">
                         <div class="item">
-                            <h4>Gestion de Donn&eacute;es</h4>
+                            <h4>Gestion de Données</h4>
 
                             <div class="bar">
                                 <span class="percent">65%</span>
@@ -69,7 +69,7 @@
                         <!-- //.item -->
 
                         <div class="item">
-                            <h4>R&eacute;daction et Traduction</h4>
+                            <h4>Rédaction et Traduction</h4>
 
                             <div class="bar">
                                 <span class="percent">95%</span>
@@ -80,7 +80,7 @@
                         <!-- //.item -->
 
                         <div class="item">
-                            <h4>Montage Cin&eacute;matographique</h4>
+                            <h4>Montage Cinématographique</h4>
 
                             <div class="bar">
                                 <span class="percent">87%</span>

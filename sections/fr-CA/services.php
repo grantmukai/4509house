@@ -7,7 +7,7 @@
                     <h2 class="section-title">Ce Que Je Fais</h2>
 
                     <p class="section-subtitle">
-                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moiti&eacute;, trois-quarts, neuf-dixi&egrave;mes de quelque chose. Si je vais embarquer sur un projet, j'y vais jusqu'au bout.
+                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moitié, trois-quarts, neuf-dixièmes de quelque chose. Si je vais embarquer sur un projet, j'y vais jusqu'au bout.
                     </p>
 
                     <span class="divider center"></span>
@@ -23,10 +23,10 @@
                         <div class="inner-content">
                             <i class="icon-Pen colored-text"></i>
 
-                            <h4>1. R&eacute;daction</h4>
+                            <h4>1. Rédaction</h4>
 
                             <p class="text-grey">
-                                Puisque je d&eacute;tiens un bac en journalisme, je sais bien &eacute;crire tant en ligne comme &agrave; l'&eacute;crit et j'ai employ&eacute; mes comp&eacute;tences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
+                                Puisque je détiens un bac en journalisme, je sais bien écrire tant en ligne comme à l'écrit et j'ai employé mes compétences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -37,10 +37,10 @@
                         <div class="inner-content">
                             <i class="icon-Film-Board colored-text"></i>
 
-                            <h4>2. Multim&eacute;dia</h4>
+                            <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur &agrave; la t&eacute;l&eacute; et monteur de vid&eacute;os. Je realisais mes propres reportages du d&eacute;but jusqu'&agrave; la fin en produisant mes propres effets sp&eacute;ciaux.
+                                Dans mes anciens jours, je travaillais en tant qu'animateur à la télé et monteur de vidéos. Je realisais mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Conc&eacute;ption de Courriel</h4>
+                            <h4>3. Concéption de Courriel</h4>
 
                             <p class="text-grey">
-                                En comprenant que la conc&eacute;ption de courriel n'est pas pareille que celle du Web, je suis comp&eacute;tent avec le code &ldquo;obsol&egrave;te&rdquo; de HTML et CSS. De plus, j'ai une bonne id&eacute;e de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je suis compétent avec le code &ldquo;obsolète&rdquo; de HTML et CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -68,7 +68,7 @@
                             <h4>4. Code Propre</h4>
 
                             <p class="text-grey">
-                                Je suis s&eacute;rieux en &eacute;crivant seulement du code HTML5, CSS3 et PHP7 le plus propre et &agrave; jour. Mon code est correctement dent&eacute;l&eacute; et il suit les standards &eacute;tablis par le W3C.
+                                Je suis sérieux en écrivant seulement du code HTML5, CSS3 et PHP7 le plus propre et à jour. Mon code est correctement dentélé et il suit les standards établis par le W3C.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -82,7 +82,7 @@
                             <h4>5. Sites Web Adaptifs</h4>
 
                             <p class="text-grey">
-                                Je comprend non seulement l'impl&eacute;mentation des requ&ecirc;tes m&eacute;dias pour flotter et mettre &agrave; l'&eacute;chelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour cr&eacute;er un courriel adaptif (si support&eacute;).
+                                Je comprend non seulement l'implémentation des requêtes médias pour flotter et mettre à l'échelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour créer un courriel adaptif (si supporté).
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Soutien</h4>
 
                             <p class="text-grey">
-                                Bien que j'offre des services Web pour mon association, j'entra&icirc;ne aussi nos employ&eacute;s pour qu'il puissent g&eacute;rer leur propre contenu et j'assiste nos membres en anglais, fran&ccedil;ais et espagnol avec leurs questions d'adh&eacute;sion.
+                                Bien que j'offre des services Web pour mon association, j'entraîne aussi nos employés pour qu'il puissent gérer leur propre contenu et j'assiste nos membres en anglais, français et espagnol avec leurs questions d'adhésion.
                             </p>
                         </div>
                         <!-- //.inner-content -->
