@@ -101,6 +101,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
+								$cvMiseajour = "Mise à jour...";
                                 include "profil_base.php";
                                 ?>
                             </div>
