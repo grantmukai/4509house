@@ -19,7 +19,7 @@
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
                          <div class="btn-group" style="margin-bottom:10px;">
-                            <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                            <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choose Your Country
                             <span class="caret"></span></button>
                             <?php require "pays.php"; ?>
                         </div>
