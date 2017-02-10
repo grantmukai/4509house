@@ -8,25 +8,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            
             <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Mukai</a>
         </div>
-        <!-- //.navbar-header -->
-        
+        <!-- //.navbar-header -->       
         <div class="navbar-collapse collapse berg-collapse">
             <ul class="nav navbar-nav">
                 <li class="page-scroll">
                     <a href="#accueil">Home</a>
                 </li>
-                
                 <li class="page-scroll">
                     <a href="#profile">Profile</a>
-                </li>
-                
+                </li>               
                 <!--<li class="page-scroll">
                     <a href="#portfolio">Portfolio</a>
                 </li>-->
-                
                 <li class="page-scroll">
                     <a href="#services">Services</a>
                 </li>
@@ -34,15 +29,12 @@
                 <li class="page-scroll">
                     <a href="#cv">Curriculum Vitae</a>
                 </li>
-                
                 <!--<li class="page-scroll">
                     <a href="#references">References</a>
                 </li>-->
-                
                 <!--<li class="page-scroll">
                     <a href="#competences">Comp&eacute;tences</a>
                 </li>-->
-                
                 <li class="page-scroll">
                     <a href="#contact">Contact</a>
                 </li>

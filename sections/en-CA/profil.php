@@ -30,7 +30,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
                                     My name is Grant Mukai and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
@@ -48,7 +48,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I often spend my free time dancing Lindy Hop and Blues and make several trips a year to Montr&eacute;al for various dance events. I also enjoy hanging out in Washington's international scene.</p>
+                                <p>I often spend my free time dancing Lindy Hop and Blues and make several trips a year to Montréal for various dance events. I also enjoy hanging out in Washington's international scene.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 
@@ -56,7 +56,7 @@
                                     Sincerely,
                                 </p>
                                 
-                                <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' style='width:40%;height:40%;' />
+                                <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
                                 
                                 <p class="text-grey">
                                     Grant Mukai
