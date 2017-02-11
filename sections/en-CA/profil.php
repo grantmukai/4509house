@@ -26,7 +26,7 @@
                                 <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/ca.png" alt="Flag of Canada" style="float:left;vertical-align:top;" />
+                                <img src="/assets/images/drapeaux/ca.png" alt="Flag of Canada" class="drapeaux" />
 
                                 <br /> 
 
