@@ -6,7 +6,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Mes Forces</h2>
 
-                    <p class="section-subtitle">L'&Eacute;chec ne me surprendra jamais si ma d&eacute;termination &agrave; r&eacute;ussier est assez forte.</p>
+                    <p class="section-subtitle">L'Échec ne me surprendra jamais si ma d&eacute;termination &agrave; r&eacute;ussier est assez forte.</p>
 
                     <span class="divider center"></span>
                 </div>
@@ -26,7 +26,7 @@
 
                         <div class="legend legend-right hidden-xs">
                             <div class="item">
-                                <h4>Superh&eacute;ro</h4>
+                                <h4>Superhéro</h4>
                             </div>
                             <!-- //.item -->
 
