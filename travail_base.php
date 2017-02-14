@@ -9,19 +9,19 @@ $i++; //Ceci ajoute 1 au numéro de "work" pour les accordéons de travail
 $a++; //Ceci ajoute 1 pour changer la gamme de déscriptions
 // Emplois pour WEB
 if ($a == 1 && $metier_actuel == "WEB") {
-    $descriptionsWeb = 'apsa';
+    $descriptionsWeb = 1000;
 } elseif ($a == 2 && $metier_actuel == "WEB") {
-    $descriptionsWeb = 'georgetown';
+    $descriptionsWeb = 2000;
 } else if ($a ==3 && $metier_actuel == "WEB") {
-    $descriptionsWeb = 'iq';
+    $descriptionsWeb = 3000;
 }
 // Emplois pour COM
 if ($a == 1 && $metier_actuel == "COM") {
-    $descriptionsWeb = 'apsa';
+    $descriptionsWeb = 1000;
 } elseif ($a == 2 && $metier_actuel == "COM") {
-    $descriptionsWeb = 'wellesley';
+    $descriptionsWeb = 2000;
 } else if ($a == 3 && $metier_actuel == "COM") {
-    $descriptionsWeb = 'patch';
+    $descriptionsWeb = 3000;
 }
 echo "<div class='resume-item'>";
     echo "<div class='resume-year'>";
@@ -52,7 +52,7 @@ echo "<div class='resume-item'>";
                 echo "<p>
                     {$respTravail}
                     <br>";
-                    $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '{$metier_actuel}' AND company = '".$descriptionsWeb."' ORDER BY id;";
+                    $requeteDesc = "SELECT job FROM descriptions WHERE language='{$lang_actuelle}' AND type = '{$metier_actuel}' AND company_id = ".$descriptionsWeb." ORDER BY id;";
                     $resultatDesc = $lien->query($requeteDesc);
                     echo "<ul>";
                     while($rang_desc = $resultatDesc->fetch_assoc())
