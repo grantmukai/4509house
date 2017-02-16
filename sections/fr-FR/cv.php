@@ -1,11 +1,10 @@
 <!-- DÉBUT SECTION CV -->
 <?php
 $monCVtitre = "Mon Curriculum Vitae";
-$monCVdesc = "Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.";
-$monEducation = "Mon &Eacute;ducation";
-$expProf = "Exp&eacute;riences Professionnelles";
-$heureActuelle = "Pr&eacute;sent";
-$respTravail = "T&acirc;ches :";
+$monEducation = "Mon Éducation";
+$expProf = "Expériences Professionnelles";
+$heureActuelle = "Présent";
+$respTravail = "Tâches :";
 ?>
 <section id="cv" class="section">
     <div class="container section-wrapper">
@@ -15,7 +14,7 @@ $respTravail = "T&acirc;ches :";
                     <h2 class="section-title"><?php echo $monCVtitre; ?></h2>
 
                     <p class="section-subtitle">
-                        <?php echo $monCVdesc; ?>
+                        <?php include 'intro_base.php'; ?>
                     </p>
 
                     <span class="divider center"></span>

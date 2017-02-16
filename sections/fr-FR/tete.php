@@ -1,4 +1,4 @@
-<?php date_default_timezone_set("America/Montreal");
+<?php date_default_timezone_set("Europe/Paris");
 /*Pour France SEULEMENT!!*/
 $jeSuisEnEurope = "oui";
 $imageVille = 1;
