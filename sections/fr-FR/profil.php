@@ -37,13 +37,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAï</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAï et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux états-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAï et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécalisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux états-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
@@ -63,7 +63,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le blues et le lindy hop, deux styles de danse qui sont populaires en Amérique du nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux états-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
