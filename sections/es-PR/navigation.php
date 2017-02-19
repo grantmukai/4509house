@@ -3,7 +3,7 @@
     <div class="container navbar-container">
         <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
-                <span class="sr-only">Recorrer Navigaci&oacute;n</span>
+                <span class="sr-only">Recorrer Navigación</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>

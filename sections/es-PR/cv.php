@@ -28,7 +28,7 @@ $respTravail = "Tareas:";
             <div class="row education">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Mi Educaci&oacute;n
+                        Mi Educación
                         <br>
                         2006 - 2010
                     </h3>

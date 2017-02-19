@@ -7,7 +7,7 @@
                     <h2 class="section-title">Contactame</h2>
 
                     <p class="section-subtitle">
-                        &iquest;Tiene un proyecto que quier&iacute;a discutir?
+                        &iquest;Tiene un proyecto que quiería discutir?
                     </p>
 
                     <span class="divider center"></span>

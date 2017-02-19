@@ -18,6 +18,12 @@
 
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
+                        <div class="btn-group">
+                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Elige Su País
+                                  <span class="caret"></span></button>
+                                <?php require "pays.php"; ?>
+                                </div>
+                        <br />
                         <div class="row">
                             <div class="col-md-12">
                                 <img src="/assets/images/drapeaux/pr.png" alt="Bandera de Puerto Rico" class="drapeaux" />
@@ -29,25 +35,25 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociaci&oacute;n estadounidense de ciencia pol&iacute;tica</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Trabajo en el Departamento de marketing y comunicaciones d&oacute;nde ayudo a mis colegios a gestionar el sitio p&uacute;blico de la asociaci&oacute;n y varios sitios WordPress destinados a promover la ciencia pol&iacute;tica y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gesti&oacute;n de bases de datos, anal&iacute;ticas estad&iacute;sticas y la generaci&oacute;n de datos. Hago estas tareas proporcionando el servicio excelente al cliente en ingl&eacute;s, franc&eacute;s y espa&ntilde;ol. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros vengan de todo el mundo.
+                                    Trabajo en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros vengan de todo el mundo.
                                 </p>
 
                                 <p class="text-grey">
-                                    Antes de unirme a la APSA, trabaj&eacute; a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electr&oacute;nicos. Algunos clientes de salud para qui&eacute;nes estaba trabajando incluyeron la Administraci&oacute;n de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en ingl&eacute;s)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en ingl&eacute;s)</em>. Asimismo, cre&iacute; y actualic&eacute; p&aacute;ginas Web en ingl&eacute;s y en espa&ntilde;ol para el Instituto Nacional de Artritis y Enfermedades Musculoesquel&eacute;ticas y de la Piel <em>(NIAMS por sus siglas en ingl&eacute;s)</em>.
+                                    Antes de unirme a la APSA, trabajé a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en inglés)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en inglés)</em>. Asimismo, creí y actualicé páginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel <em>(NIAMS por sus siglas en inglés)</em>.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Adem&aacute;s, muchas de mis responsabilidades incluyeron la verificaci&oacute;n de las p&aacute;ginas Web y documentos PDF para garantizar la conformidad a las normas establecidas por la Secci&oacute;n 508 de la Ley de Derechos de Discapacidados de los Estados Unidos.
+                                    Además, muchas de mis responsabilidades incluyeron la verificación de las páginas Web y documentos PDF para garantizar la conformidad a las normas establecidas por la Sección 508 de la Ley de Derechos de Discapacidados de los Estados Unidos.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gesti&oacute;n de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, d&oacute;nde estaba produciendo reportajes y documentarios para un canal de televisi&oacute;n. En la metr&oacute;poli de Boston, realic&eacute; contenido v&iacute;deo para la plataforma <a href='http://www.patch.com'>Patch.com</a>.
+                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión. En la metrópoli de Boston, realicé contenido vídeo para la plataforma <a href='http://www.patch.com'>Patch.com</a>.
                                 </p>
 								
                                 <p class="text-grey">
@@ -95,7 +101,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Descargar CV Web";
 								$boutonTelechargerCom = "Descargar CV Comunicacioness";
-								$cvMiseajour = "Actualizaci&oacute;n...";
+								$cvMiseajour = "Actualización...";
 								include "profil_base.php";	
 								?>
                             </div>

@@ -26,7 +26,7 @@
                             <h4>1. Escritura</h4>
 
                             <p class="text-grey">
-                                Porque estudi&eacute; el periodismo, yo s&eacute; c&oacute;mo bien escribir para las publicaciones escritas y utilic&eacute; mis competencias para reportar las noticias y para acentuar las empresas peque&ntilde;as en el espacio de marketing.
+                                Porque estudié el periodismo, yo sé cómo bien escribir para las publicaciones escritas y utilicé mis competencias para reportar las noticias y para acentuar las empresas pequeñas en el espacio de marketing.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -40,7 +40,7 @@
                             <h4>2. Multimedia</h4>
 
                             <p class="text-grey">
-                                En mi otra vida, trabaj&eacute; como periodista en la televisi&oacute;n y editor de v&iacute;deos. Realic&eacute; mis propios reportajes del inicio hasta el fin y produje mis propios efectos especiales.
+                                En mi otra vida, trabajé como periodista en la televisión y editor de vídeos. Realicé mis propios reportajes del inicio hasta el fin y produje mis propios efectos especiales.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Dise&ntilde;o Correo Electr&oacute;nico</h4>
+                            <h4>3. Diseño Correo Electrónico</h4>
 
                             <p class="text-grey">
-                                Comprendiendo que el dise&ntilde;o de correo electr&oacute;nico no es el mismo que el dise&ntilde;o Web, soy competente con el c&oacute;digo &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, tengo una buena idea de lo que Outlook acepta y no acepta.
+                                Comprendiendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, tengo una buena idea de lo que Outlook acepta y no acepta.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. C&oacute;digo Limpio</h4>
+                            <h4>4. Código Limpio</h4>
 
                             <p class="text-grey">
-                                Estoy serio cuando escribo c&oacute;digo HTML5, CSS3 y PHP7 el m&aacute;s limpio y actualizado. Mi c&oacute;digo es correctamente sangrado y sigue los est&aacute;ndares establecidos por el W3C.
+                                Estoy serio cuando escribo código HTML5, CSS3 y PHP7 el más limpio y actualizado. Mi código es correctamente sangrado y sigue los estándares establecidos por el W3C.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Dise&ntilde;o Web Adaptable</h4>
+                            <h4>5. Diseño Web Adaptable</h4>
 
                             <p class="text-grey">
-                                No solo comprendo la implementaci&oacute;n de <em>media quieres</em> para flotar y escalar contenidos para el dise&ntilde;o Web adaptable, incluyendo tambi&eacute;n las mejores pr&aacute;cticas para crear un correo electr&oacute;nico adaptable (cuando apoyado).
+                                No solo comprendo la implementación de <em>media quieres</em> para flotar y escalar contenidos para el diseño Web adaptable, incluyendo también las mejores prácticas para crear un correo electrónico adaptable (cuando apoyado).
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Apoyo</h4>
 
                             <p class="text-grey">
-                                Aunque proporciono servicios Web para mi asociaci&oacute;n, ofrezco tambi&eacute;n entrenamiento a nuestros empleados para ayudarlos a administrar sus propios contenidos y ayudo a nuestros miembros en ingl&eacute;s, franc&eacute;s y espa&ntilde;ol con preguntas de membres&iacute;a.
+                                Aunque proporciono servicios Web para mi asociación, ofrezco también entrenamiento a nuestros empleados para ayudarlos a administrar sus propios contenidos y ayudo a nuestros miembros en inglés, francés y español con preguntas de membresía.
                             </p>
                         </div>
                         <!-- //.inner-content -->
