@@ -41,7 +41,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Trabajo en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros vengan de todo el mundo.
+                                    Trabajo en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros veniendo de todo el mundo.
                                 </p>
 
                                 <p class="text-grey">
@@ -90,7 +90,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
                                     <li>Washington, Districto de Columbia, EEUU</li>
-                                    <li>+1 202 656 8317</li>
+                                    <li>202 656 8317</li>
                                     <li>hola@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
                                 </ul>

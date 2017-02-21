@@ -1,7 +1,6 @@
 <!-- DÉBUT SECTION CV -->
 <?php
 $monCVtitre = "Mi Curriculum Vitae";
-$monCVdesc = "Si llama los fracasos los experiencias, se puede poner en su curriculum vitae llamandolos desaf&iacute;os completos.";
 $monEducation = "Mi Educaci&oacute;n";
 $expProf = "Experiencias Profesionales";
 $heureActuelle = "Ahora";
@@ -15,7 +14,7 @@ $respTravail = "Tareas:";
                     <h2 class="section-title">Mi Curriculum Vitae</h2>
 
                     <p class="section-subtitle">
-                        Si llama los fracasos los experiencias, se puede poner en su curriculum vitae llamandolos desaf&iacute;os completos.
+                        <?php include 'intro_base.php'; ?>
                     </p>
 
                     <span class="divider center"></span>
