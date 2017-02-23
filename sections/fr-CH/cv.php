@@ -1,11 +1,10 @@
 <!-- DÉBUT SECTION CV -->
 <?php
 $monCVtitre = "Mon Curriculum Vitae";
-$monCVdesc = "Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.";
-$monEducation = "Mon &Eacute;ducation";
-$expProf = "Exp&eacute;riences Professionnelles";
-$heureActuelle = "Pr&eacute;sent";
-$respTravail = "T&acirc;ches :";
+$monEducation = "Mon Éducation";
+$expProf = "Expériences Professionnelles";
+$heureActuelle = "Présent";
+$respTravail = "Tâches :";
 ?>
 <section id="cv" class="section">
     <div class="container section-wrapper">
@@ -15,7 +14,7 @@ $respTravail = "T&acirc;ches :";
                     <h2 class="section-title">Mon Curriculum Vitae</h2>
 
                     <p class="section-subtitle">
-                        Si vous appelez les &eacute;checs des exp&eacute;riences, vous pouvez les mettre sur votre CV en les appelant des ach&egrave;vements.
+                        <?php include 'intro_base.php'; ?>
                     </p>
 
                     <span class="divider center"></span>
@@ -28,7 +27,7 @@ $respTravail = "T&acirc;ches :";
             <div class="row education">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Mon &Eacute;ducation
+                        Mon Éducation
                         <br>
                         2006 - 2010
                     </h3>
@@ -46,9 +45,9 @@ $respTravail = "T&acirc;ches :";
             <div class="row work-experience">
                 <div class="col-md-10 col-md-offset-1">
                     <h3>
-                        Exp&eacute;riences Professionnelles
+                        Expériences Professionnelles
                         <br>
-                        2010 - Pr&eacute;sent
+                        2010 - Présent
                     </h3>
 
                     <div class="panel-group resume" id="work">

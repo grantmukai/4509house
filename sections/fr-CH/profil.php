@@ -6,8 +6,8 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Muka&iuml;" class="img-responsive"/>
-                        <h4 class="title">D&eacute;veloppeur Web</h4>
+                        <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
+                        <h4 class="title">Développeur Web</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -26,46 +26,46 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MUKA&Iuml;<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKA&Iuml; et je suis D&eacute;veloppeur Web et sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> aux &Eacute;tats-Unis d'Am&eacute;rique.
+                                    Je m'appelle Grant MUKAÏ et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le D&eacute;partement de marketing et communications o&ugrave; j'aide mes coll&egrave;agues &agrave; g&eacute;rer le site publique de l'association ainsi que plusieurs sites WordPress consacr&eacute;s &agrave; la promotion de la science politique qui aident nos sections d'int&eacute;r&ecirc;ts sp&eacute;cialis&eacute;s &agrave; s'organiser aux r&eacute;seaux. Je suis aussi responsable de la gestion des bases de donn&eacute;es SQL, de l'analyse statistique et la g&eacute;n&eacute;ration des tableaux de donn&eacute;es tout en fournissant de l'excellent service &agrave; la client&egrave;le en anglais, fran&ccedil;ais et espagnol. Bien que nos bureaux se situent aux &Eacute;tats-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes collèagues à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre &agrave; mon association actuelle, je travaillais &agrave; <a href='http://msb.georgetown.edu'>l'Ecole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington (mi-atlantique) et &agrave; <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; des agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre à mon association actuelle, je travaillais à <a href='http://msb.georgetown.edu'>l'Ecole McDonough de commerce</a> à l'Université Georgetown à Washington (mi-atlantique) et à <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Une grande partie de mes responsabilit&eacute;s a inclut la v&eacute;rification des pages Web et documents PDF afin d'assurer la conformit&eacute; aux normes &eacute;tablies par le W3C <em>(World Wide Web Consortium)</em>.
+                                    Une grande partie de mes responsabilités a inclut la vérification des pages Web et documents PDF afin d'assurer la conformité aux normes établies par le W3C <em>(World Wide Web Consortium)</em>.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carri&egrave;re du journalisme au d&eacute;veloppement Web et gestion des donn&eacute;es, j'&eacute;tais r&eacute;alisateur adjoint d'actualit&eacute; chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, o&ugrave; je produisais des court m&eacute;trages et documentaires pour une cha&icirc;ne de t&eacute;l&eacute;vision. Dans cette m&ecirc;me m&eacute;tropole, j'ai apport&eacute; du contenu vid&eacute;o au plateforme Patch.com.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une cha&icirc;ne de télévision. Dans cette même métropole, j'ai apporté du contenu vidéo au plateforme Patch.com.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je d&eacute;tiens un dipl&ocirc;me de premier cycle en journalisme t&eacute;l&eacute;vis&eacute; &agrave; <a href='http://www.bu.edu/com'>l'&Eacute;cole de communications</a> &agrave; l'Universit&eacute; de Boston avec une sp&eacute;cialisation en langue et litt&eacute;rature fran&ccedil;aise.
+                                    Je détiens un dipl&ocirc;me de premier cycle en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Dans mon temps libre, je danse le Lindy Hop et Blues, deux styles de danse tr&egrave;s populaires en Am&eacute;rique du nord. Je vais souvent aux &eacute;changes linguistiques aux &Eacute;tats-Unis pour am&eacute;liorer mon espagnol et apprendre davantage sur les autres cultures mondiales.
+                                    Dans mon temps libre, je danse le Lindy Hop et Blues, deux styles de danse très populaires en Amérique du nord. Je vais souvent aux échanges linguistiques aux États-Unis pour améliorer mon espagnol et apprendre davantage sur les autres cultures mondiales.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Bien &agrave; vous,
+                                    Bien à vous,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKA&Iuml;' class="signature" />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKA&Iuml;
+                                    Grant MUKAÏ
                                 </p>
 								
                             </div>
@@ -82,8 +82,8 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant MUKA&Iuml;</li>
-                                    <li>Washington, District de Columbia, &Eacute;tats-Unis</li>
+                                    <li>Grant MUKAÏ</li>
+                                    <li>Washington, District de Columbia, États-Unis</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
@@ -93,9 +93,9 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php 
-								$boutonTelechargerWeb = "T&eacute;l&eacute;charger CV Web";
-								$boutonTelechargerCom = "T&eacute;l&eacute;charger CV Communications";
-								$cvMiseajour = "Mise &agrave; jour...";
+								$boutonTelechargerWeb = "Télécharger CV Web";
+								$boutonTelechargerCom = "Télécharger CV Communications";
+								$cvMiseajour = "Mise à jour...";
 								include "profil_base.php";
 								?>
                             </div>
