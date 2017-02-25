@@ -8,9 +8,9 @@
                 
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Muka&iuml;" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant MUKA&Iuml; (MARTIN)" class="img-responsive"/>
                         
-                        <h4 class="title">D&eacute;veloppeur Web</h4>
+                        <h4 class="title">Grant MUKAÏ (MARTIN)</h4>
                         
                     </div>
                 </div>
@@ -27,54 +27,54 @@
 </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <p>Loi Europ&eacute;enne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous pr&eacute;f&eacute;rez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont &ecirc;tre stock&eacute;s sur votre ordinateur. Aucune information personelle n'est rapport&eacute;e. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+                                <p>Loi Européenne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous préférez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
 
                                 <img src="/assets/images/drapeaux/be.png" alt="Drapeau de la Belgique" class="drapeaux" />
 
-                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de l&apos;Union Europ&eacute;ene" style="margin-left:5px" class="drapeaux" />
+                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de l'Union Européene" style="margin-left:5px" class="drapeaux" />
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKA&Iuml;<br /><small>Hallo, mijn naam is Grant Mukai</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN<br />Hallo, mijn naam is Grant Martin</h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKA&Iuml; et je suis D&eacute;veloppeur Web et Sp&eacute;cialiste en services et syst&egrave;mes &agrave; <a href='http://www.apsanet.org/'>l'Association am&eacute;ricaine de science politique</a> aux &Eacute;tats-Unis d'Am&eacute;rique.
+                                    Je m'appelle Grant MARTIN et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le D&eacute;partement de marketing et communications o&ugrave; j'aide mes co&eacute;quipiers &agrave; g&eacute;rer le site publique de l'association ainsi que plusieurs sites WordPress consacr&eacute;s &agrave; la promotion de la science politique qui aident nos sections d'int&eacute;r&ecirc;ts sp&eacute;cialis&eacute;s &agrave; s'organiser aux r&eacute;seaux. Je suis aussi responsable de la gestion des bases de donn&eacute;es SQL, de l'analyse statistique et la g&eacute;n&eacute;ration des tableaux de donn&eacute;es tout en fournissant de l'excellent service &agrave; la client&egrave;le en anglais, fran&ccedil;ais et espagnol. Bien que nos bureaux se situent aux &Eacute;tats-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre &agrave; mon association actuelle, j'ai travaill&eacute; &agrave; <a href='http://msb.georgetown.edu'>l'&Eacute;cole McDonough de commerce</a> &agrave; l'Universit&eacute; Georgetown &agrave; Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en d&eacute;veloppant des e-mails de marketing. Quelques clients de sant&eacute; pour lesquels j'ai travaill&eacute; ont compris l'Administration pour abus des stup&eacute;fiants et services sant&eacute; mentale et les Instituts nationaux de la sant&eacute; &mdash; deux agences gouvernementales am&eacute;ricaines. J'ai aussi r&eacute;alis&eacute; et mis &agrave; jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre à mon association actuelle, j'ai travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; deux agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Une grande partie de mes responsabilit&eacute;s a inclut la v&eacute;rification des pages Web et documents PDF afin d'assurer la conformit&eacute; aux normes &eacute;tablies par le W3C <em>(World Wide Web Consortium)</em>.
+                                    Une grande partie de mes responsabilités a inclut la vérification des pages Web et documents PDF afin d'assurer la conformité aux normes établies par le W3C <em>(World Wide Web Consortium)</em>.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carri&egrave;re du journalisme au d&eacute;veloppement Web et gestion des donn&eacute;es, j'&eacute;tais r&eacute;alisateur adjoint d'actualit&eacute; chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, o&ugrave; je produisais des court m&eacute;trages et documentaires pour une cha&icirc;ne de t&eacute;l&eacute;vision. Dans cette m&ecirc;me m&eacute;tropole, j'ai apport&eacute; du contenu vid&eacute;o au plateforme Patch.com, une s&eacute;ries de sites d'actualit&eacute;s aux &Eacute;tats-Unis.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision. Dans cette même métropole, j'ai apporté du contenu vidéo au plateforme Patch.com, une séries de sites d'actualités aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je d&eacute;tiens un bachelier (dipl&ocirc;me de quatre ans) en journalisme t&eacute;l&eacute;vis&eacute; de <a href='http://www.bu.edu/com'>l'&Eacute;cole de communications</a> &agrave; l'Universit&eacute; de Boston avec une sp&eacute;cialisation en langue et litt&eacute;rature fran&ccedil;aise.
+                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues-Fusion et le Lindy Hop, deux styles de danse qui sont populaires en Am&eacute;rique du nord, maintenant rendus aussi populaires &agrave; Bruxelles avec BRUX <em>(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des &eacute;v&eacute;nements culturels aux &Eacute;tats-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues-Fusion et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em>(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Mukai' class="signature" />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ (MARTIN)' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKA&Iuml;
+                                    Grant MUKAÏ (MARTIN)
                                 </p>
 								
                             </div>
@@ -92,7 +92,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant MUKA&Iuml;</li>
-                                    <li>Washington, District de Columbia, &Eacute;.-U.</li>
+                                    <li>Washington, District de Columbia, É.-U.</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
                                     <li>www.grantmukai.com</li>
@@ -102,9 +102,11 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
-								$boutonTelechargerWeb = "T&eacute;l&eacute;charger CV Web";
-								$boutonTelechargerCom = "T&eacute;l&eacute;charger CV Communications";
-								$cvMiseajour = "Mise &agrave; jour...";
+								$boutonTelechargerWeb = "Télécharger CV Web";
+								$boutonTelechargerCom = "Télécharger CV Communications";
+								$cvMiseajour = "Mise à jour...";
+								/* Implementé à cause des câlisses de raciste dans le monde ! */
+								//$nomFamille = "Martin";
 								include "profil_base.php";
                                 ?>
                             </div>
