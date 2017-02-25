@@ -1,4 +1,7 @@
 <?php
+if (!isset($nomFamille)) {
+	$nomFamille = "Mukai";
+}
 if ($metier_actuel == "WEB") {
     echo "<h4>{$boutonTelechargerWeb}</h4>";
     $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
@@ -11,9 +14,9 @@ if ($metier_actuel == "WEB") {
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsWebPDF['date'])) {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             } else {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             }
             echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsWebPDF['taille']} {$rang_BoutonsWebPDF['mesure']})";
         echo "</a><br />";
@@ -29,9 +32,9 @@ if ($metier_actuel == "WEB") {
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsWebDOCX['date'])) {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_webCV_{$lang_sanstraitdunion}_0{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             } else {
-                    echo "<a href='cv_files/{$lang_actuelle}/Mukai_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                    echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_webCV_{$lang_sanstraitdunion}_{$rang_BoutonsWebDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             }
             echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsWebDOCX['taille']} {$rang_BoutonsWebDOCX['mesure']})";
         echo "</a><br />";
@@ -50,9 +53,9 @@ if ($metier_actuel == "COM") {
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsComPDF['date'])) {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             } else {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComPDF['date']}.pdf' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             }
             echo "<i class='icon-File-Download'></i> PDF ({$rang_BoutonsComPDF['taille']} {$rang_BoutonsComPDF['mesure']})";
         echo "</a><br />";
@@ -68,9 +71,9 @@ if ($metier_actuel == "COM") {
         echo "</a><br />";
         } else {
             if (preg_match('/^\d{5}$/', $rang_BoutonsComDOCX['date'])) {
-                echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             } else {
-                    echo "<a href='cv_files/{$lang_actuelle}/Mukai_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+                    echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComDOCX['date']}.docx' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
             }
             echo "<i class='icon-File-Download'></i> DOCX ({$rang_BoutonsComDOCX['taille']} {$rang_BoutonsComDOCX['mesure']})";
         echo "</a><br />";
