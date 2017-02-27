@@ -44,7 +44,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
@@ -91,7 +91,7 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant MUKA&Iuml;</li>
+                                    <li>Grant MUKAÏ</li>
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
@@ -106,7 +106,7 @@
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
 								/* Implementé à cause des câlisses de raciste dans le monde ! */
-								//$nomFamille = "Martin";
+								$nomFamille = "Martin";
 								include "profil_base.php";
                                 ?>
                             </div>
