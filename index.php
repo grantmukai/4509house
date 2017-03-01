@@ -12,7 +12,7 @@ require 'sections/'.$lang_actuelle.'/tete.php';
     <meta charset="utf-8">
     
     <!-- Titre du Site -->
-    <title>Grant Kiyoshi Muka&iuml;</title>
+    <title>Grant Kiyoshi Mukaï</title>
     
     <meta name="description" content="Grant Muka&iuml; est d&eacute;veloppeur Web et agent de communications &agrave; Washington, District de Columbia">
     <meta name="keywords" content="web, communications, canada, québec, nouveau-brunswick, ontario, manitoba, yukon, cv, html, css, php">
@@ -54,6 +54,22 @@ require 'sections/'.$lang_actuelle.'/tete.php';
     <!--[if lt IE 8]>
     <script src="assets/plugins/modernizr.min.js"></script>
     <![endif]-->
+
+    <!--  DÉBUT Google Analytics -->
+    <script type="text/javascript">
+
+  		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-37963020-1']);
+  		_gaq.push(['_trackPageview']);
+
+  		(function() {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  		})();
+
+	</script>
+	<!-- FIN Google Analytics -->
 </head>
 
 <!-- L'identité #page-top fait partie de la fonctionalité du défilement - les data-spy et data-target font partie de la fonction scrollspy intégré de Bootstrap -->

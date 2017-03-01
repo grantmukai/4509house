@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et Communications, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où je produisais des court métrages et documentaires pour une chaîne de télévision. Dans la métropole de Boston, j'ai apporté du contenu vidéo au plateforme Patch.com.
+                                    Avant mon changement de carrière du journalisme au développement Web et Communications, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
