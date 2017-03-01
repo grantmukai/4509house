@@ -1,6 +1,6 @@
 <?php 
 include_once "common.php";
-require_once "../../kiyoshisql_config.php";
+require_once "../kiyoshisql_config.php";
 require 'sections/'.$lang_actuelle.'/tete.php';
 ?>
 <!doctype html>

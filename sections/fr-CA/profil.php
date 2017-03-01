@@ -102,7 +102,7 @@
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
                                 /* Changement de nom à cause du racisme */
-                                //$nomFamille = "Turcotte";
+                                $nomFamille = "Turcotte";
                                 include "profil_base.php";
                                 ?>
                             </div>
