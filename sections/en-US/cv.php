@@ -1,7 +1,6 @@
 <!-- DÉBUT SECTION CV -->
 <?php
 $monCVtitre = "My Resume";
-$monCVdesc = "If you call failures experiences, you can put them on your resume as accomplishments.";
 $monEducation = "My Education";
 $expProf = "Work Experience";
 $heureActuelle = "Present";
@@ -15,7 +14,7 @@ $respTravail = "Responsibilities:";
                     <h2 class="section-title"><?php echo $monCVtitre; ?></h2>
 
                     <p class="section-subtitle">
-                        <?php echo $monCVdesc; ?>
+                        <?php include 'intro_base.php'; ?>
                     </p>
 
                     <span class="divider center"></span>

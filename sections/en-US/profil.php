@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Web Developer</h4>
+                        <h4 class="title">Grant Mukai (Baker)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -31,10 +31,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am a front-end Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
+                                    My name is Grant Mukai (Baker) and I am a front-end Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
                                 </p>
 
                                 <span class="divider"></span>
@@ -45,7 +45,7 @@
 
                                 <p>A large part of my responsibilities at iQ Solutions consisted of making sure that webpages and documents met the Web Accessibility Guidelines set forth by the World Wide Web Consortium and Section 508 of the Americans with Disabilities Act.</p>
 
-                                <p>Prior to my career switch from journalism to Web development, I was an Associate News Producer for <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> in the town of Wellesley, Massachusetts, where I produced news reports and documentaries for the local cable access station. In the Boston area, I was instrumental in bringing online video content to the Patch.com platform where I provided freelance video work on a number of local events and businesses and ran a weekly real estate column.</p>
+                                <p>Prior to my career switch from journalism to Web development, I was an Associate News Producer for <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> in the town of Wellesley, Massachusetts, where I produced news reports and documentaries for the local cable access station.</p>
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
@@ -91,6 +91,8 @@
 								$boutonTelechargerWeb = "Download Web Resume";
 								$boutonTelechargerCom = "Download Communications Resume";
 								$cvMiseajour = "Updating";
+								/* I have to do this to protect myself against good old-fashioned American racism */
+								//$nomFamille = "Baker";
 								include "profil_base.php"; ?>
                             </div>
                             <!-- //.col-md-6 -->
