@@ -92,7 +92,7 @@
 								$boutonTelechargerCom = "Download Communications Resume";
 								$cvMiseajour = "Updating";
 								/* I have to do this to protect myself against good old-fashioned American racism */
-								//$nomFamille = "Baker";
+								$nomFamille = "Baker";
 								include "profil_base.php"; ?>
                             </div>
                             <!-- //.col-md-6 -->
