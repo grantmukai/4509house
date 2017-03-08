@@ -92,7 +92,7 @@
                                 $boutonTelechargerCom = "Download Communications CV";
 								$cvMiseajour = "Check back later...";
                                 /* Yes, racism is a real thing. Oui, le racisme existe toujours. */
-                                //$nomFamille = "Baker";
+                                $nomFamille = "Baker";
                                 include "profil_base.php";
                                 ?>
                             </div>
