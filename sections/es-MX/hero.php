@@ -3,7 +3,7 @@
     <div class="hero-body">
         <div class="hero-text text-center">
             <h1>
-                Hola, me llamo Kiyoshi Mukai <span class="blinker"></span>
+                Hola, me llamo Grant Pérez <span class="blinker"></span>
             </h1>
             
             <?php require 'titre_es.html'; ?>
