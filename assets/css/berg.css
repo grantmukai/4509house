@@ -1137,6 +1137,12 @@ header.hero.owl-bg-carousel-yes .owl-theme .owl-controls .owl-page.active span {
   }
 }
 
+@media print {
+	#profile .signature {
+		display:none!important;
+	}
+}
+
 
 /*---------------------------------------------------------------------*/
 /*  6.1.2. CONTACT DETAILS

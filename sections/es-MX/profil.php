@@ -89,7 +89,7 @@
 							$boutonTelechargerCom = "Descargar CV Communications";
 							$cvMiseajour = "Regresa Pronto...";
 							/* El racismo está en todos lugares */
-							//$nomFamille = "Perez";
+							$nomFamille = "Perez";
 							include "profil_base.php";
                             ?>
                             </div>
