@@ -4,7 +4,7 @@ $jeSuisEnEurope = "oui";
 $imageVille = 1;
 $villeMax = 2;
 $drapeauNational = 1;
-/*Fin code spécifique au Québec */
+/*Fin code spécifique pour la France */
 if (isset($imageVille)) {
     $quelleVille = mt_rand(0,$villeMax);
     include "assets/images/villes/fr-FR/credits.php";

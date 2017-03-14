@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant MARTIN" class="img-responsive"/>
                         
-                        <h4 class="title">Développeur Web</h4>
+                        <h4 class="title">Grant MUKAÏ (MARTIN)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -34,10 +34,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAï</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAï et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MARTIN et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -47,7 +47,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à mon association, j'ai travaillé à <a href='http://msb.georgetown.edu'>l'école McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre à mon association, j'ai travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
@@ -55,25 +55,25 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision. Dans cette même métropole, j'ai apporté du contenu vidéo au plateforme Patch.com.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un BAC+4 (diplôme de premier cycle) en journalisme télévisé à <a href='http://www.bu.edu/com'>l'école de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un BAC+4 (diplôme de premier cycle) en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKAï' class="signature" />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Kiyoshi MUKAÏ
+                                    Grant MUKAÏ (MARTIN)
                                 </p>
 								
                             </div>
@@ -90,11 +90,11 @@
                                 <h4>Coordonnées</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Kiyoshi MUKAÏ</li>
+                                    <li>Grant MUKAÏ</li>
                                     <li>Washington, District de Columbia, é.-U.</li>
                                     <li>+001.202.656.8317</li>
-                                    <li>bonjour@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com</li>
+                                    <li>bonjour@grantmukai.com</li>
+                                    <li>www.grantmukai.com</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
@@ -104,6 +104,8 @@
                                     $boutonTelechargerWeb = "Télécharger CV Web";
                                     $boutonTelechargerCom = "Télécharger CV Communications";
                                     $cvMiseajour = "Mise à jour en cours...";
+									/* Le racisme est bien présent en France */
+									//$nomFamille = "Martin";
 									include 'profil_base.php';
                                 ?>
                             </div>
