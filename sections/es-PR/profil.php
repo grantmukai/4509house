@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Pérez" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai (Pérez)</h4>
+                        <h4 class="title">Grant Pérez</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
