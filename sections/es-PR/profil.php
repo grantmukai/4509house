@@ -102,6 +102,8 @@
 								$boutonTelechargerWeb = "Descargar CV Web";
 								$boutonTelechargerCom = "Descargar CV Comunicacioness";
 								$cvMiseajour = "Actualización...";
+				    				/* Estados Unidos: Capital de racismo mundial */
+				    				//$nomFamille = "Perez";
 								include "profil_base.php";	
 								?>
                             </div>
