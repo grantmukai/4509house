@@ -105,7 +105,7 @@
                                     $boutonTelechargerCom = "Télécharger CV Communications";
                                     $cvMiseajour = "Mise à jour en cours...";
 									/* Le racisme est bien présent en France */
-									//$nomFamille = "Martin";
+									$nomFamille = "Martin";
 									include 'profil_base.php';
                                 ?>
                             </div>
