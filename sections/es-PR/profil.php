@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Muka&iuml;" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant Pérez" class="img-responsive"/>
                         
-                        <h4 class="title">Desarrollador Web</h4>
+                        <h4 class="title">Grant Mukai (Pérez)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -35,7 +35,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Pérez y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
@@ -71,7 +71,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai
+                                    Grant Mukai (Pérez)
                                 </p>
 								
                             </div>
