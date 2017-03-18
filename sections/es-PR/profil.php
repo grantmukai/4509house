@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Pérez" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Pérez</h4>
+                        <h4 class="title">Grant Pérez (Mukai)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -32,7 +32,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Pérez</h2>
 
                                 <p>
                                     Me llamo Grant Pérez y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
