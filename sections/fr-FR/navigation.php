@@ -42,7 +42,9 @@
                 <!--<li class="page-scroll">
                     <a href="#competences">Comp&eacute;tences</a>
                 </li>-->
-                
+                <li class="page-scroll">
+                    <a href="#forces">Forces</a>
+					
                 <li class="page-scroll">
                     <a href="#contact">Contact</a>
                 </li>
