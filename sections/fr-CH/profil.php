@@ -47,11 +47,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une cha&icirc;ne de télévision. Dans cette même métropole, j'ai apporté du contenu vidéo au plateforme Patch.com.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un dipl&ocirc;me de premier cycle en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un diplôme de premier cycle en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
