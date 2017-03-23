@@ -8,7 +8,7 @@
                 
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant MUKA&Iuml; (MARTIN)" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ (MARTIN)" class="img-responsive"/>
                         
                         <h4 class="title">Grant MUKAÏ (MARTIN)</h4>
                         
@@ -56,7 +56,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision. Dans cette même métropole, j'ai apporté du contenu vidéo au plateforme Patch.com, une séries de sites d'actualités aux États-Unis.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -64,7 +64,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues-Fusion et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em>(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues-Fusion et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
@@ -105,7 +105,7 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
-								/* Implementé à cause des câlisses de raciste dans le monde ! */
+								/* Implementé à cause des câlisses de racistes dans le monde ! */
 								$nomFamille = "Martin";
 								include "profil_base.php";
                                 ?>
