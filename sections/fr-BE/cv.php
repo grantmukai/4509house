@@ -1,10 +1,10 @@
 <!-- DÉBUT SECTION CV -->
 <?php
-$monCVtitre = "Mon Curriculum Vitae";
-$monEducation = "Mon Éducation";
-$expProf = "Expériences Professionnelles";
-$heureActuelle = "Présent";
-$respTravail = "Tâches :";
+$monCVtitre = "Mon Curriculum Vitae - <em lang='en-GB'>My Curriculum Vitae</em>";
+$monEducation = "Mon Éducation - <em lang='en-GB'>My Education</em>";
+$expProf = "Expériences Professionnelles - <em lang='en-GB'>Work Experience</em>";
+$heureActuelle = "Présent <em lang='en-GB'>(Present)</em>";
+$respTravail = "Tâches / <em lang='en-GB'>Tasks</em> :";
 ?>
 <section id="cv" class="section">
     <div class="container section-wrapper">

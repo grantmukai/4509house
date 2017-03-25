@@ -27,7 +27,9 @@
 </div>
                         <div class="row">
                             <div class="col-md-12">
+								<p lang='en-GB'><em>Please note that only limited parts of this site are translated into English. If you are unable to read French, it is recommended that you view the English Canadian <a href='http://www.grantmukai.com/canada'>version</a> of this site. Any downloadable files from the Canadian site will be in a North American format.</em></p>
                                 <p>Loi Européenne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous préférez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+								<p lang='en-GB'><em>European Cookie Law: This site uses cookies to remember that you prefer the Belgian version of this site. By visiting my site, you agree to having cookies stored on your computer. No personal information is collected. For any question concerning cookies, please <a href='#contact'>contact me</a>.</em></p>
 
                                 <img src="/assets/images/drapeaux/be.png" alt="Drapeau de la Belgique" class="drapeaux" />
 
@@ -38,13 +40,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN<br />Hallo, mijn naam is Grant Martin</h2>
 
                                 <p>
-                                    Je m'appelle Grant MARTIN et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MARTIN et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique. <em lang='en-GB'>My name is Grant MARTIN and I am a Web developer and Systems support specialist at the <a href='http://www.apsanet.org'>American Political Science Association</a> in the United States of America.</em>
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde. <br><em lang='en-GB'>I work in the marketing and communications department where I help my colleagues manage the public site of the association as well as several WordPress sites designated to promote political science and help our special interest sections organise themselves on the Web. I am also responsible for the management of SQL databases, statistical analysis and generating data sets all by providing excellent customer service in English, French and Spanish. Although we are located in the United States, we have many international members.</em>
                                 </p>
 
                                 <p class="text-grey">
