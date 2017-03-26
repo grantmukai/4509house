@@ -34,13 +34,13 @@
 			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Turcotte</h2>
 
                                 <p>
-                                    Je m'appelle Grant Turcotte et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia.
+                                    Je m'appelle Grant Turcotte et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia aux États-Unis.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aident nos sections d'intérêts spéciaux à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se trouvent aux États-Unis, nous avons des membres provenant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes coéquipiers à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se trouvent aux États-Unis, nous avons des membres provenant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et Communications, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme au développement Web et communications, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -91,7 +91,7 @@
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>202-656-8317</li>
                                     <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>www.grantmukai.com/quebec</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
