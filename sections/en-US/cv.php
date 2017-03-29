@@ -4,7 +4,7 @@ $monCVtitre = "My Resume";
 $monEducation = "My Education";
 $expProf = "Work Experience";
 $heureActuelle = "Present";
-$respTravail = "Responsibilities:";
+$respTravail = "Job Functions:";
 ?>
 <section id="cv" class="section">
     <div class="container section-wrapper">

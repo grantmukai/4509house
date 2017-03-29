@@ -60,7 +60,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai
+                                    Grant Mukai (Baker)
                                 </p>
 								
                             </div>
