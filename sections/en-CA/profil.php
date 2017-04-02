@@ -33,7 +33,7 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker<br />Bonjour, je suis Grant Turcotte</h2>
 
                                 <p>
-                                    My name is Grant Mukai (Baker) and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
+                                    My name is Grant Baker and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
