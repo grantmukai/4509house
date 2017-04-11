@@ -103,7 +103,7 @@
                                 <?php
                                     $boutonTelechargerWeb = "Télécharger CV Web";
                                     $boutonTelechargerCom = "Télécharger CV Communications";
-                                    $cvMiseajour = "Mise à jour en cours...";
+                                    $cvMiseajour = "Revenir plus tard...";
 									/* Le racisme est bien présent en France */
 									$nomFamille = "Martin";
 									include 'profil_base.php';
