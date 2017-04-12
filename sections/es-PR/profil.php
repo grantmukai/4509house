@@ -35,7 +35,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Pérez</h2>
 
                                 <p>
-                                    Me llamo Grant Pérez y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Pérez y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
@@ -53,7 +53,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión. En la metrópoli de Boston, realicé contenido vídeo para la plataforma <a href='http://www.patch.com'>Patch.com</a>.
+                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.
                                 </p>
 								
                                 <p class="text-grey">
@@ -92,7 +92,7 @@
                                     <li>Washington, Districto de Columbia, EEUU</li>
                                     <li>202 656 8317</li>
                                     <li>hola@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>www.grantmukai.com/puertorico</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
@@ -101,7 +101,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Descargar CV Web";
 								$boutonTelechargerCom = "Descargar CV Comunicacioness";
-								$cvMiseajour = "Actualización...";
+								$cvMiseajour = "Regresar Pronto...";
 				    				/* Estados Unidos: Capital de racismo mundial */
 				    				$nomFamille = "Perez";
 								include "profil_base.php";	
