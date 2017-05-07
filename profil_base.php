@@ -79,5 +79,24 @@ if ($metier_actuel == "COM") {
         echo "</a><br />";
         }
     }
+	// Boutons COM texte
+    $requeteBoutonsComTXT = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'txt';";
+    $resultatBoutonsComTXT = $lien->query($requeteBoutonsComTXT);
+    while($rang_BoutonsComTXT = $resultatBoutonsComTXT->fetch_assoc())
+    {
+        if (is_null($rang_BoutonsComTXT['visible'])) {
+        echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+            echo "<i class='icon-File-Download'></i> TEXTO ({$cvMiseajour})";
+        echo "</a><br />";
+        } else {
+            if (preg_match('/^\d{5}$/', $rang_BoutonsComTXT['date'])) {
+                echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComTXT['date']}.txt' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+            } else {
+                    echo "<a href='cv_files/{$lang_actuelle}/{$nomFamille}_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComTXT['date']}.txt' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+            }
+            echo "<i class='icon-File-Download'></i> TEXTO ({$rang_BoutonsComTXT['taille']} {$rang_BoutonsComTXT['mesure']})";
+        echo "</a><br />";
+        }
+    }
 }
 ?>
