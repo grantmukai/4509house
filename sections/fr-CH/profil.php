@@ -86,7 +86,7 @@
                                     <li>Washington, District de Columbia, États-Unis</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>www.grantmukai.com/suisse</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
