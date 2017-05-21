@@ -81,7 +81,7 @@
                                     <li>Washington, District of Columbia, USA</li>
                                     <li>202-656-8317</li>
                                     <li>hello@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>www.grantmukai.com/usa</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
