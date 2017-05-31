@@ -99,8 +99,25 @@ if ($metier_actuel == "COM") {
         echo "</a><br />";
         }
     }
+	} else if (substr($lang_actuelle,0,2) === 'fr') {
+    	while($rang_BoutonsComTXT = $resultatBoutonsComTXT->fetch_assoc())
+    	{
+        if (is_null($rang_BoutonsComTXT['visible'])) {
+        echo "<a href='#'' class='btn btn-md btn-primary disabled' style='margin-bottom:20px;'>";
+            echo "<i class='icon-File-Download'></i> TEXTO ({$cvMiseajour})";
+        echo "</a><br />";
+        } else {
+            if (preg_match('/^\d{5}$/', $rang_BoutonsComTXT['date'])) {
+                echo "<a href='cv_files/{$lang_actuelle}/TEXTE_{$nomFamille}_comCV_{$lang_sanstraitdunion}_0{$rang_BoutonsComTXT['date']}.txt' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+            } else {
+                    echo "<a href='cv_files/{$lang_actuelle}/TEXTE_{$nomFamille}_comCV_{$lang_sanstraitdunion}_{$rang_BoutonsComTXT['date']}.txt' class='btn btn-md btn-primary' style='margin-bottom:20px;'>";
+            }
+            echo "<i class='icon-File-Download'></i> TEXTE ({$rang_BoutonsComTXT['taille']} {$rang_BoutonsComTXT['mesure']})";
+        echo "</a><br />";
+        }
+    }
 	} else {
-		echo "<h1 style='color:#FFF;'>PAS ESPAGNOL!</h1>";
+		echo "<h1 style='color:#FFF;'>ÇA DOIT ÊTRE ANGLAIS!</h1>";
 	}
 }
 ?>
