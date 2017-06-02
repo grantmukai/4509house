@@ -35,7 +35,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Pérez</h2>
 
                                 <p>
-                                    Me llamo Grant Pérez y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Pérez (Mukai) y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
