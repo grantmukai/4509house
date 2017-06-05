@@ -35,7 +35,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille dans le Département de marketing et communications où j'aide mes collèagues à gérer le site publique de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
+                                    Je travaille dans le Département de marketing et communications où j'aide mes collèagues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aident nos sections d'intérêts spécialisés à s'organiser aux réseaux. Je suis aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol. Bien que nos bureaux se situent aux États-Unis, nous avons des membres venant des quatre coins du monde.
                                 </p>
 
                                 <p class="text-grey">
