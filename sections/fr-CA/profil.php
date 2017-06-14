@@ -89,7 +89,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukaï</li>
                                     <li>Washington, District de Columbia, É.-U.</li>
-                                    <li>202-656-8317</li>
+                                    <li>438-228-0753</li>
                                     <li>bonjour@grantmukai.com</li>
                                     <li>www.grantmukai.com/quebec</li>
                                 </ul>
