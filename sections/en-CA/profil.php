@@ -30,7 +30,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker<br />Bonjour, je suis Grant Turcotte</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker<br />Bonjour, je suis Grant Baker</h2>
 
                                 <p>
                                     My name is Grant Baker and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
@@ -78,7 +78,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
                                     <li>Washington, District of Columbia, USA</li>
-                                    <li>202-656-8317</li>
+                                    <li>438-228-0753</li>
                                     <li>hello@grantmukai.com</li>
                                     <li>www.grantmukai.com/canada</li>
                                 </ul>
