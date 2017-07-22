@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukai (Pérez)" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai (Pérez)</h4>
+                        <h4 class="title">Grant Pérez (Mukai)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -57,7 +57,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai (Pérez)
+                                    Grant Pérez (Mukai)
                                 </p>
 								
                             </div>
