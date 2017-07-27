@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant MARTIN" class="img-responsive"/>
                         
-                        <h4 class="title">Grant MUKAÏ (MARTIN)</h4>
+                        <h4 class="title">Grant MARTIN (MUKAÏ)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -37,7 +37,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN</h2>
 
                                 <p>
-                                    Je m'appelle Grant MARTIN et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MARTIN (MUKAÏ) et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -63,7 +63,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Zouk et le Lindy Hop, trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
                                 </p>
 								
                                 <p class="text-grey">
@@ -73,7 +73,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKAÏ (MARTIN)
+                                    Grant MARTIN (MUKAÏ)
                                 </p>
 								
                             </div>
