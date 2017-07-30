@@ -71,7 +71,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai (Pérez)
+                                    Grant Pérez (Mukai)
                                 </p>
 								
                             </div>
