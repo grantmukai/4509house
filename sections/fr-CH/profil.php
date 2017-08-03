@@ -7,7 +7,7 @@
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
-                        <h4 class="title">Grant MUKAÏ (MARTIN)</h4>
+                        <h4 class="title">Grant MARTIN (MUKAÏ)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -29,7 +29,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MARTIN<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant MARTIN et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MARTIN (MUKAÏ) et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -55,7 +55,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Dans mon temps libre, je danse le Lindy Hop et Blues, deux styles de danse très populaires en Amérique du Nord. Je vais souvent aux échanges linguistiques aux États-Unis pour améliorer mon espagnol et apprendre davantage sur les autres cultures mondiales.
+                                    Dans mon temps libre, je danse le Lindy Hop, leBlues et le Zouk, trois styles de danse très populaires en Amérique du Nord.
                                 </p>
 								
                                 <p class="text-grey">
@@ -65,7 +65,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKAÏ (MARTIN)
+                                    Grant MARTIN (MUKAÏ)
                                 </p>
 								
                             </div>
