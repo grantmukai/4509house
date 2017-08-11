@@ -34,7 +34,7 @@
 			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Turcotte</h2>
 
                                 <p>
-                                    Je m'appelle Grant Turcotte et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia aux États-Unis.
+                                    Je m'appelle Grant Turcotte (Mukaï) et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia aux États-Unis.
                                 </p>
 
                                 <span class="divider"></span>
@@ -60,7 +60,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop et Blues, deux styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays. Je suis à Montréal plusieurs fois par année pour y participer. Je suis aussi très actif dans la scène internationale à Washington et je suis en train d'améliorer mes compétences en espagnol afin de pouvoir voyager au Mexique.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues, et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays. Je suis à Montréal plusieurs fois par année pour y participer. Je suis aussi très actif dans la scène internationale à Washington et je suis en train d'apprendre un peu d'inuktitut afin de pouvoir voyager à Kuujjuaq dans l'Administration régionale de Kativik.
                                 </p>
 								
                                 <p class="text-grey">
