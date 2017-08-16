@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant Baker (Mukai)" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai (Baker)</h4>
+                        <h4 class="title">Grant Baker (Mukai)</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -34,7 +34,7 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker</h2>
 
                                 <p>
-                                    My name is Grant Mukai (Baker) and I am a front-end Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
+                                    My name is Grant Baker (Mukai) and I am a front-end Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
                                 </p>
 
                                 <span class="divider"></span>
@@ -49,7 +49,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>In my free time, I can be found dancing Lindy Hop and Blues, two popular styles of social dance, and hanging out in Washington's international scene.</p>
+                                <p>In my free time, I can be found dancing Lindy Hop, Blues, and Zouk - three popular styles of social dance, and hanging out in Washington's international scene.</p>
 
                                 <p>I hope to hear from you soon!</p>
 								
@@ -60,7 +60,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai (Baker)
+                                    Grant Baker (Mukai)
                                 </p>
 								
                             </div>
