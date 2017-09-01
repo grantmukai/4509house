@@ -61,7 +61,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop y Blues y me interesan las otras culturas internacionales de Washington.
+                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop, Blues y Zouk y me interesan las otras culturas internacionales de Washington.
                                 </p>
 								
                                 <p class="text-grey">
