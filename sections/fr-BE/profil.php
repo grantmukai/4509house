@@ -35,7 +35,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN<br />Hallo, mijn naam is Grant Martin</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN<br />Hallo, mijn naam is Grant MARTIN</h2>
 
                                 <p>
                                     Je m'appelle Grant MARTIN (MUKAÏ) et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
