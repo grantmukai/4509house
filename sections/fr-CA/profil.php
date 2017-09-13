@@ -7,8 +7,8 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukaï (Turcotte)" class="img-responsive"/>
-                        <h4 class="title">Grant Mukaï (Turcotte)</h4>
+                        <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
+                        <h4 class="title">Grant Mukaï</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -31,10 +31,10 @@
 
                                 <br /> 
 
-			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Turcotte</h2>
+			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Turcotte (Mukaï) et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia aux États-Unis.
+                                    Je m'appelle Grant Mukaï et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> (APSA) au District de Columbia aux États-Unis.
                                 </p>
 
                                 <span class="divider"></span>
@@ -70,7 +70,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Mukaï' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukaï (Turcotte)
+                                    Grant Mukaï
                                 </p>
 								
                             </div>
@@ -101,8 +101,7 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
-                                /* Changement de nom à cause du racisme */
-                                $nomFamille = "Turcotte";
+                                /*$nomFamille = "Turcotte";*/
                                 include "profil_base.php";
                                 ?>
                             </div>
