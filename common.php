@@ -81,8 +81,8 @@ switch ($lang) {
   break;
    
   default:
-  $lang_actuelle = 'fr-CA';
-  $lang_sanstraitdunion = 'frCA';
+  $lang_actuelle = 'en-US';
+  $lang_sanstraitdunion = 'en-US';
  
 }
 
