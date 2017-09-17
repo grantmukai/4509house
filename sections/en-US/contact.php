@@ -30,7 +30,7 @@
                         </div>
                         <!-- //.speech-bubble -->
 
-                        <h2>Grant <strong>Baker</strong></h2>
+                        <h2>Grant <strong>Mukai</strong></h2>
 
                         <h4 class="text-grey">hello@grantmukai.com</h4>
 
