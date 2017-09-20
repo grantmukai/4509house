@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Baker (Mukai)</h4>
+                        <h4 class="title">Grant Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -30,17 +30,19 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Baker<br />Bonjour, je suis Grant Baker</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Baker (Mukai) and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
+                                    My name is Grant Mukai and I am a Web developer and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p>I work in the Marketing and Communications Department where I help manage our association's public site as well as several WordPress sites devoted to showcasing the association's offerings, promoting political science and helping our special interest sections organise themselves on the Web. I also manage member databases, research site analytics and generate data reports while providing excellent customer service to our members in English, French and Spanish. Although we are located in the United States, we have a very large international membership.</p>
+								
+								<p>Working at APSA has allowed me to obtain many additional skills ranging from desktop publishing and organizing data within an AMS (Association Membership System). The two systems I am the most familiar with are Timberlake and NOAH. I am also responsible for generating email contact lists from our AMS so that we can send out marketing materials via Informz and Constant Contact. I encourage you to view my <a href="/portfolio">portfolio</a> and <a href="#cv">resume.</a></p>
 
-                                <p>Before joining the APSA, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a>, also in Washington, and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare clients I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
+                                <p>Before joining APSA, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a>, also in Washington, and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare clients I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
 
                                 <p>A large part of my responsibilities have comprised making sure that webpages and documents meet the Web Accessibility Guidelines set forth by the World Wide Web Consortium (W3C) which the Government of Canada and a few provincial governments have also adopted.</p>
 
@@ -59,7 +61,7 @@
                                 <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
                                 
                                 <p class="text-grey">
-                                    Grant Baker (Mukai)
+                                    Grant Mukai
                                 </p>
                                 
                             </div>
@@ -92,7 +94,7 @@
                                 $boutonTelechargerCom = "Download Communications CV";
 								$cvMiseajour = "Check back later...";
                                 /* Yes, racism is a real thing. Oui, le racisme existe toujours. */
-                                $nomFamille = "Baker";
+                                /*$nomFamille = "Baker";*/
                                 include "profil_base.php";
                                 ?>
                             </div>
