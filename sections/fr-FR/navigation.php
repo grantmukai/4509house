@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant MARTIN</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant MUKAÏ</a>
         </div>
         <!-- //.navbar-header -->
         
