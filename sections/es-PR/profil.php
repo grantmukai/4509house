@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Pérez" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Pérez (Mukai)</h4>
+                        <h4 class="title">Grant Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -32,16 +32,16 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Pérez</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Pérez (Mukai) y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Trabajo en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros veniendo de todo el mundo.
+                                    Estoy trabajando en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros veniendo de todo el mundo.
                                 </p>
 
                                 <p class="text-grey">
@@ -53,7 +53,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.
+                                    Antes de mi cambio de carrero de periodismo al gestión de contenidos Web y de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.
                                 </p>
 								
                                 <p class="text-grey">
@@ -71,7 +71,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Pérez (Mukai)
+                                    Grant Mukai
                                 </p>
 								
                             </div>
@@ -90,7 +90,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
                                     <li>Washington, Districto de Columbia, EEUU</li>
-                                    <li>202 656 8317</li>
+                                    <li>202-656-8317</li>
                                     <li>hola@grantmukai.com</li>
                                     <li>www.grantmukai.com/puertorico</li>
                                 </ul>
@@ -101,9 +101,9 @@
                                 <?php
 								$boutonTelechargerWeb = "Descargar CV Web";
 								$boutonTelechargerCom = "Descargar CV Comunicacioness";
-								$cvMiseajour = "Regresar Pronto...";
+								$cvMiseajour = "Indisponible";
 				    				/* Estados Unidos: Capital de racismo mundial */
-				    				$nomFamille = "Perez";
+				    				/*$nomFamille = "Perez";*/
 								include "profil_base.php";	
 								?>
                             </div>
