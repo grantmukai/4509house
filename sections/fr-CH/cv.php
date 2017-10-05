@@ -12,10 +12,10 @@ $respTravail = "Tâches :";
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Mon Curriculum Vitae</h2>
-
-                    <p class="section-subtitle">
+                    <h3>Compétences</h3>
+                    <div class="section-subtitle" style="text-align:left;">
                         <?php include 'intro_base.php'; ?>
-                    </p>
+                    </div>
 
                     <span class="divider center"></span>
                 </div>

@@ -7,7 +7,7 @@
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
-                        <h4 class="title">Grant MARTIN (MUKAÏ)</h4>
+                        <h4 class="title">Grant MUKAÏ</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -26,10 +26,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MARTIN<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant MARTIN (MUKAÏ) et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MUKAÏ et je suis Développeur Web et spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -65,7 +65,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MARTIN (MUKAÏ)
+                                    Grant MUKAÏ
                                 </p>
 								
                             </div>
@@ -96,8 +96,7 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
-								/* Implementé à cause des câlisses de raciste dans le monde ! */
-								$nomFamille = "Martin";
+								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
 								?>
                             </div>
