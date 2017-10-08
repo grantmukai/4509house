@@ -8,9 +8,9 @@
                 
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant MARTIN (MUKAÏ)" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ" class="img-responsive"/>
                         
-                        <h4 class="title">Grant MARTIN (MUKAÏ)</h4>
+                        <h4 class="title">Grant MUKAÏ</h4>
                         
                     </div>
                 </div>
@@ -35,10 +35,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MARTIN<br />Hallo, mijn naam is Grant MARTIN</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant MARTIN (MUKAÏ) et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant MUKAÏ et je suis Développeur Web et Spécialiste en services et systèmes à <a href='http://www.apsanet.org/'>l'Association américaine de science politique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -56,7 +56,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion de contenu et de données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -71,10 +71,10 @@
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ (MARTIN)' class="signature" />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MARTIN (MUKAÏ)
+                                    Grant MUKAÏ
                                 </p>
 								
                             </div>
@@ -105,8 +105,7 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Mise à jour...";
-								/* Implementé à cause des câlisses de racistes dans le monde ! */
-								$nomFamille = "Martin";
+								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
                                 ?>
                             </div>
