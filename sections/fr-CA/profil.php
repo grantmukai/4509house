@@ -100,7 +100,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
-								$cvMiseajour = "Mise à jour...";
+								$cvMiseajour = "Indisponible";
                                 /*$nomFamille = "Turcotte";*/
                                 include "profil_base.php";
                                 ?>
