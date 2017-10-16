@@ -54,7 +54,7 @@
                             <h4>3. Email Design</h4>
 
                             <p class="text-grey">
-                                By understanding that email design is not the same as Web design, I am proficient in coding &ldquo;depricated&rdquo; HTML and inline CSS as well as having a good idea of what Outlook does and does not support.
+                                By understanding that email design is not the same as Web design, I am proficient in coding &ldquo;depricated&rdquo; HTML and inline CSS as well as having a good idea of what Outlook does and does not support. I also understand how to best design emails to increase click rates.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Responsive Design</h4>
+                            <h4>5. Web Content</h4>
 
                             <p class="text-grey">
-                                Not only do I understand how to implement media queries and float and scale content for responsive Web design, I also undestand best practices for creating responsive email (where supported).
+                                I have used a variety of Content Management Systems ranging from Drupal to WordPress multi-site installations running Commons in a Box and BuddyPress. Since I currently work for an association, I also have knowledge of Association Membership Systems and how those integreate into member databases.
                             </p>
                         </div>
                         <!-- //.inner-content -->
