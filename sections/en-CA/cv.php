@@ -14,10 +14,11 @@ $respTravail = "Responsibilities:";
                     <h2 class="section-title">
                         <?php echo $monCVtitre; ?>
                     </h2>
-                    <p class="section-subtitle">
-                        <?php include 'intro_base.php'; ?>
-                    </p>
-
+                    <div style="text-align:left;">
+                        <p class="section-subtitle">
+                            <?php include 'intro_base.php'; ?>
+                        </p>
+                    </div>
                     <span class="divider center"></span>
                 </div>
                 <!-- //.col-md-8 -->

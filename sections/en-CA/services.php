@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Responsive Design</h4>
+                            <h4>5. Content Management</h4>
 
                             <p class="text-grey">
-                                Not only do I understand how to implement media queries and float and scale content for responsive Web design, I also understand best practices for creating responsive email (where supported).
+                                I have used several different content management systems ranging from Drupal to WordPress to DotNetNuke. As much of my experience has been working for a membership assoication, I also understand association management systems and how they integrate with member databases.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Support</h4>
 
                             <p class="text-grey">
-                                Although I provide Web services for my association, I also offer training to our staff on how to manage their own content and assist our members in English, French and Spanish with membership issues.
+                                Although I provide Web services for my association, I also offer training to our staff and members on how to manage their own content and assist our members in English, French and Spanish with membership issues.
                             </p>
                         </div>
                         <!-- //.inner-content -->
