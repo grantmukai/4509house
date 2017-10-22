@@ -40,9 +40,7 @@
 
                                 <p>Estoy trabajando en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros que vengan de todo el mundo.</p>
 
-                                <p>Antes de unirme a la mi asociación, trabajé a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
-
-                                <p>Además, muchas de mis responsabilidades incluyeron la verificación de las páginas Web y documentos PDF para garantizar la conformidad a las normas establecidas por el W3C <em lang='en-CA'>(World Wide Web Consortium)</em>.</p>
+                                <p>Antes de unirme a la mi asociación, trabajé a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
 
                                 <p>Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
 
@@ -87,7 +85,7 @@
                             <?php
 							$boutonTelechargerWeb = "Descargar CV Web";
 							$boutonTelechargerCom = "Descargar CV Communications";
-							$cvMiseajour = "Regresa Pronto...";
+							$cvMiseajour = "Indisponible";
 							/* El racismo está en todos lugares */
 							/*$nomFamille = "Perez";*/
 							include "profil_base.php";
