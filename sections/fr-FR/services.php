@@ -26,7 +26,7 @@
                             <h4>1. Rédaction</h4>
 
                             <p class="text-grey">
-                                Puisque je suis diplômé en journalisme, je sais bien écrire tant à l'écrit comme en ligne et j'ai employé mes compétences pour publier des nouvelles et aussi pour mettre les petites entreprises en vedette dans l'espace de marketing.
+                                Puisque je suis diplômé en journalisme, je sais bien écrire tant à l'écrit comme en ligne et j'ai employé mes compétences pour publier des nouvelles et pour mettre les petites entreprises en vedette dans l'espace de marketing.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -40,7 +40,7 @@
                             <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur à la télé et monteur des vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
+                                Dans mon ancienne vie, je travaillais en tant qu'animateur à la télé et monteur des vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Concéption de Courriel</h4>
+                            <h4>3. Courrier Électronique</h4>
 
                             <p class="text-grey">
-                                En comprenant que le design de courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que le design de courrier électronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Sites Web Adaptifs</h4>
+                            <h4>5. Contenu Web</h4>
 
                             <p class="text-grey">
-                                Je ne comprend pas juste l'implémentation des <em>media queries</em> pour flotter et mettre à l'échelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour créer un e-mail adaptif (si supporté).
+                                Je gère du contenu sur le Web à l'aide de plusieurs systèmes de gestion de contenu. Les logiciels que j'emploie en ce moment sont WordPress et DotNetNuke, mais j'ai utilisé aussi Drupal.
                             </p>
                         </div>
                         <!-- //.inner-content -->

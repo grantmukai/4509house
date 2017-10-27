@@ -55,7 +55,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme au développement Web et gestion de contenu, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -104,7 +104,6 @@
                                     $boutonTelechargerWeb = "Télécharger CV Web";
                                     $boutonTelechargerCom = "Télécharger CV Communications";
                                     $cvMiseajour = "Indisponible";
-									/* Le racisme est bien présent en France */
 									/*$nomFamille = "Martin";*/
 									include 'profil_base.php';
                                 ?>

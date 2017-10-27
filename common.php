@@ -21,7 +21,7 @@ $lang = $_COOKIE['lang'];
 }
 else
 {
-$lang = 'fr-CA';
+$lang = 'en-US';
 }
  
 switch ($lang) {
