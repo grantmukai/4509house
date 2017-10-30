@@ -7,7 +7,7 @@
                     <h2 class="section-title">Lo Que Puedo Hacer</h2>
 
                     <p class="section-subtitle">
-                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer casi la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarse en un proyecto, que estoy pasando.
+                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer casi la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarme en un proyecto, voy a terminarlo al completo.
                     </p>
 
                     <span class="divider center"></span>
@@ -54,7 +54,7 @@
                             <h4>3. Diseño Correo Electrónico</h4>
 
                             <p class="text-grey">
-                                Comprendiendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, tengo una buena idea de lo que Outlook acepta y no acepta.
+                                Comprendiendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, utilizó muchas aplicaciones como Constant Contact y MailChimp.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Diseño Web Adaptable</h4>
+                            <h4>5. Contenidos Web</h4>
 
                             <p class="text-grey">
-                                No solo comprendo la implementación de <em>media quieres</em> para flotar y escalar contenidos para el diseño Web adaptable, incluyendo también las mejores prácticas para crear un correo electrónico adaptable (cuando apoyado).
+                                Soy familiar con varias aplicaciones de gestión de contenidos como WordPress, Drupal y DotNetNuke. Para ayudar con los estilos, utilizo también marcos de Web como Bootstrap.
                             </p>
                         </div>
                         <!-- //.inner-content -->
