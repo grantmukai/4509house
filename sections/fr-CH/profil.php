@@ -47,7 +47,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme au développement Web et gestion des données, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme à la gestion du contenu Web, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -95,7 +95,7 @@
                                 <?php 
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
-								$cvMiseajour = "Mise à jour...";
+								$cvMiseajour = "Indisponible";
 								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
 								?>

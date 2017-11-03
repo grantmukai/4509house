@@ -7,7 +7,7 @@
                     <h2 class="section-title">Ce Que Je Peux Faire</h2>
 
                     <p class="section-subtitle">
-                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moitié, trois-quarts, neuf-dixièmes de quelque chose. Si je vais embarquer sur un projet, j'y vais jusqu'au bout.
+                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moitié, trois-quarts, neuf-dixièmes de quelque chose. Si je commencerai un projet, j'y irai jusqu'au bout.
                     </p>
 
                     <span class="divider center"></span>
@@ -40,7 +40,7 @@
                             <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur à la télé et monteur de vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
+                                Dans mon autre carrière, je travaillais en tant qu'animateur à la télé et monteur de vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Design d'E-mail</h4>
+                            <h4>3. E-mail de Marketing</h4>
 
                             <p class="text-grey">
-                                En comprenant que le design de courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que le design de courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une connaissance approfondie des applications e-mail.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Sites Web Adaptifs</h4>
+                            <h4>5. Contenu Web</h4>
 
                             <p class="text-grey">
-                                Je comprend non seulement l'implémentation des <em>media queries</em> pour flotter et mettre à l'échelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour créer un e-mail adaptif (si supporté).
+                                WordPress, Drupal et DotNetNuke sont les logiciels que je connais bien. Avec mon équipe, j'ai créé un site communautaire sous une installation multi-site de WordPress et je gère le site principal de mon association avec les modules fournies par DotNetNuke.
                             </p>
                         </div>
                         <!-- //.inner-content -->
