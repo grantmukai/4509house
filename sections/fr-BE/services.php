@@ -54,7 +54,7 @@
                             <h4>3. Design d'E-mail</h4>
 
                             <p class="text-grey">
-                                En comprenant que le design du courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas.
+                                En comprenant que le design du courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne connaissance des logiciels utilisé pour envoyer les bulletins électroniques.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Sites Web Adaptifs</h4>
+                            <h4>5. Contenu Web</h4>
 
                             <p class="text-grey">
-                                Je comprend non seulement l'implémentation des requêtes médias pour flotter et mettre à l'échelle du contenu pour les sites Web adaptifs, je comprend aussi les meilleures pratiques pour créer un courriel adaptif (si supporté).
+                                Je connais bien la gestion du contenu Web. J'emploie plusiers CMS au quotidien et j'ai établi un site de communauté sur une installation multi-site de WordPress pour mon association.
                             </p>
                         </div>
                         <!-- //.inner-content -->

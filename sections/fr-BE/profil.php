@@ -64,7 +64,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues-Fusion, le Lindy Hop et le Zouk - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues et le Lindy Hop - deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
@@ -104,7 +104,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
-								$cvMiseajour = "Mise à jour...";
+								$cvMiseajour = "Indisponible";
 								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
                                 ?>
