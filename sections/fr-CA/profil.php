@@ -44,7 +44,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à l'APSA, j'ai travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale <em>(SAMHSA en anglais)</em> et les Instituts nationaux de la santé <em>(NIH en anglais)</em>. J'ai aussi rédigé et mit à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau <em>(NIAMS en anglais)</em>.
+                                    Avant de me rejoindre à l'APSA, j'ai travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale <em>(SAMHSA en anglais)</em> et les Instituts nationaux de la santé <em>(NIH en anglais)</em>. J'ai aussi rédigé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau <em>(NIAMS en anglais)</em>.
                                 </p>
 								
                                 <p class="text-grey">
@@ -60,7 +60,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues, et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays. Je suis à Montréal plusieurs fois par année pour y participer. Je suis aussi très actif dans la scène internationale à Washington et je suis en train d'apprendre un peu d'inuktitut afin de pouvoir voyager à Kuujjuaq dans l'Administration régionale de Kativik.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues, et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays. Je suis à Montréal plusieurs fois par année pour y participer.
                                 </p>
 								
                                 <p class="text-grey">
