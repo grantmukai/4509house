@@ -50,7 +50,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I often spend my free time dancing Lindy Hop, Blues, and Zouk and make several trips a year to Montréal for various dance events. I also enjoy hanging out in Washington's international scene.</p>
+                                <p>I often spend my free time dancing Lindy Hop and Blues and make several trips a year to Montréal for various dance events.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 
@@ -93,7 +93,6 @@
                                 $boutonTelechargerWeb = "Download Web CV";
                                 $boutonTelechargerCom = "Download Communications CV";
 								$cvMiseajour = "Unavailable";
-                                /* Yes, racism is a real thing. Oui, le racisme existe toujours. */
                                 /*$nomFamille = "Baker";*/
                                 include "profil_base.php";
                                 ?>
