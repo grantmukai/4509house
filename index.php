@@ -82,7 +82,9 @@ require 'sections/'.$lang_actuelle.'/tete.php';
 require 'sections/'.$lang_actuelle.'/hero.php';
 require 'sections/'.$lang_actuelle.'/navigation.php';
 require 'sections/'.$lang_actuelle.'/profil.php';
-//require 'sections/portfolio.php';
+if ($lang_actuelle == "en-US" || $lang_actuelle == "en-CA"){
+    require 'sections/'.$lang_actuelle.'/portfolio.php';
+}
 require 'sections/'.$lang_actuelle.'/services.php';
 require 'sections/'.$lang_actuelle.'/cv.php';
 //require 'sections/'.$lang_actuelle.'/competences.php';
