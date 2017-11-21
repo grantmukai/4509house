@@ -86,7 +86,6 @@
 							$boutonTelechargerWeb = "Descargar CV Web";
 							$boutonTelechargerCom = "Descargar CV Communications";
 							$cvMiseajour = "Indisponible";
-							/* El racismo está en todos lugares */
 							/*$nomFamille = "Perez";*/
 							include "profil_base.php";
                             ?>
