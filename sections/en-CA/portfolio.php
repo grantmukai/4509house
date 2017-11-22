@@ -17,7 +17,7 @@
             <!-- PORTFOLIO START -->
             <div class="portfolio">
                 <div class="row">
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/prospectus2016.png" class="zoom" title="APSA Exhibitor Prospectus 2016">
@@ -31,7 +31,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>APSA Exhibitor Prospectus 2016</h4>
+                                <h4>Prospectus 2016</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -41,7 +41,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/prospectus2017.png" class="zoom" title="APSA Exhibitor Prospectus 2017">
@@ -55,7 +55,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>APSA Exhibitor Prospectus 2017</h4>
+                                <h4>Prospectus 2017</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -65,7 +65,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/women.jpg" class="zoom" title="Empowering Women in the Profession">
@@ -79,7 +79,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>Empowering Women in the Profession</h4>
+                                <h4>Women</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -89,7 +89,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/biggs_award.jpg" class="zoom" title="Jeff Biggs Receives Walter Beach Pi Sigma Alpha Award">
@@ -103,7 +103,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>Jeff Biggs Receives Walter Beach Pi Sigma Alpha Award</h4>
+                                <h4>Jeff Biggs</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -113,7 +113,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/project-image-5.jpg" class="zoom" title="Wooden Rhinoceros Beetle">
@@ -127,7 +127,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>Wooden Rhinoceros Beetle</h4>
+                                <h4>Voting</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -137,7 +137,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
+                    <div class="item col-sm-6 col-md-2">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/project-image-6.jpg" class="zoom" title="The First Encounter">
@@ -151,7 +151,7 @@
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>The First Encounter</h4>
+                                <h4>International Programs</h4>
                             </div>
                             <!-- //.project-title -->
 
@@ -161,53 +161,6 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-7.jpg" class="zoom" title="Dead Pool">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
-
-                                <a href="https://www.behance.net/gallery/25763797/DEADPOOL" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
-
-                            <div class="project-title">
-                                <h4>Dead Pool</h4>
-                            </div>
-                            <!-- //.project-title -->
-
-                            <img src="assets/images/portfolio/project-image-7.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-8.jpg" class="zoom" title="Rebus II">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
-
-                                <a href="https://www.behance.net/gallery/19401293/Rebus-2" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
-
-                            <div class="project-title">
-                                <h4>Rebus II</h4>
-                            </div>
-                            <!-- //.project-title -->
-
-                            <img src="assets/images/portfolio/project-image-8.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
                 </div>
                 <!-- //.row -->
             </div>
