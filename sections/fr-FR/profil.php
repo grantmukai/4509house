@@ -7,7 +7,7 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant MARTIN" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ" class="img-responsive"/>
                         
                         <h4 class="title">Grant MUKAÏ</h4>
                     </div>
