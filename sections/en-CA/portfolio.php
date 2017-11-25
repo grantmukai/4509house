@@ -17,7 +17,7 @@
             <!-- PORTFOLIO START -->
             <div class="portfolio">
                 <div class="row">
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/prospectus2016.png" class="zoom" title="APSA Exhibitor Prospectus 2016">
@@ -41,7 +41,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/prospectus2017.png" class="zoom" title="APSA Exhibitor Prospectus 2017">
@@ -65,7 +65,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/women.jpg" class="zoom" title="Empowering Women in the Profession">
@@ -89,7 +89,7 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
                                 <a href="assets/images/portfolio/english/biggs_award.jpg" class="zoom" title="Jeff Biggs Receives Walter Beach Pi Sigma Alpha Award">
@@ -113,14 +113,14 @@
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-5.jpg" class="zoom" title="Wooden Rhinoceros Beetle">
+                                <a href="assets/images/portfolio/english/voting.jpg" class="zoom" title="Ranked Choice Voting">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="https://www.behance.net/gallery/26043281/Wooden-Rhinoceros-Beetle" target="_blank" class="external-link">
+                                <a href="http://www.grantmukai.com/portfolio/voting/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
@@ -131,20 +131,20 @@
                             </div>
                             <!-- //.project-title -->
 
-                            <img src="assets/images/portfolio/project-image-5.jpg" alt="" class="img-responsive"/>
+                            <img src="assets/images/portfolio/english/voting.jpg" alt="Ranked Choice Voting" class="img-responsive"/>
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
                     <!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-2">
+                    <div class="item col-sm-6 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-6.jpg" class="zoom" title="The First Encounter">
+                                <a href="assets/images/portfolio/english/international.jpg" class="zoom" title="International Programs">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="https://www.behance.net/gallery/25505317/The-first-Encounter" target="_blank" class="external-link">
+                                <a href="http://www.grantmukai.com/portfolio/andrew/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
@@ -155,7 +155,7 @@
                             </div>
                             <!-- //.project-title -->
 
-                            <img src="assets/images/portfolio/project-image-6.jpg" alt="" class="img-responsive"/>
+                            <img src="assets/images/portfolio/english/international.jpg" alt="International Programs" class="img-responsive"/>
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
