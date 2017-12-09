@@ -48,10 +48,6 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Une grande partie de mes responsabilités a inclut la vérification des pages Web et documents PDF afin d'assurer la conformité aux normes établies par le W3C <em>(World Wide Web Consortium)</em>.
-                                </p>
-								
-                                <p class="text-grey">
                                     Avant mon changement de carrière du journalisme au développement Web et communications, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
@@ -60,7 +56,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues, et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays. Je suis à Montréal plusieurs fois par année pour y participer.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop et Blues - deux styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
                                 </p>
 								
                                 <p class="text-grey">
