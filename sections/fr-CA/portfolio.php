@@ -20,7 +20,7 @@
                     <div class="item col-sm-4 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-1.jpg" class="zoom" title="Gares Ferroviaires">
+                                <a href="assets/images/portfolio/francais/gares.png" class="zoom" title="Gares Ferroviaires">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
@@ -35,7 +35,7 @@
                             </div>
                             <!-- //.project-title -->
 
-                            <img src="assets/images/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
+                            <img src="assets/images/portfolio/francais/gares.png" alt="Gares Ferroviaires" class="img-responsive"/>
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
@@ -44,7 +44,7 @@
                     <div class="item col-sm-4 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-2.jpg" class="zoom" title="Rpublic.tv">
+                                <a href="assets/images/portfolio/francais/rpublic.png" class="zoom" title="Rpublic.tv">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
@@ -59,7 +59,7 @@
                             </div>
                             <!-- //.project-title -->
 
-                            <img src="assets/images/portfolio/project-image-2.jpg" alt="" class="img-responsive"/>
+                            <img src="assets/images/portfolio/francais/rpublic.png" alt="Rpublic TV" class="img-responsive"/>
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
@@ -68,7 +68,7 @@
                     <div class="item col-sm-4 col-md-4">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-3.jpg" class="zoom" title="Français en Amérique">
+                                <a href="assets/images/portfolio/francais/fr_amerique.png" class="zoom" title="Français en Amérique">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
@@ -83,7 +83,7 @@
                             </div>
                             <!-- //.project-title -->
 
-                            <img src="assets/images/portfolio/project-image-3.jpg" alt="" class="img-responsive"/>
+                            <img src="assets/images/portfolio/francais/fr_amerique.png" alt="Le français en Amérique" class="img-responsive"/>
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
