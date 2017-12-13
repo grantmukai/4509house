@@ -41,7 +41,7 @@
 
                                 <p>I work in the Marketing and Communications Department where I help manage our association's primary website as well as several small-scale WordPress sites devoted to promoting political science and helping our special interest sections organize themselves on the Web. I also serve as the primary point of contact for our database management and assist my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish. Although we are located in the United States, we have a very large international membership.</p>
 
-                                <p>Working at APSA has allowed me to obtain many additional skills ranging from desktop publishing and organizing data within an AMS (Association Membership System). The two systems I am the most familiar with are Timberlake and NOAH. I am also responsible for generating email contact lists from our AMS so that we can send out marketing materials via Informz and Constant Contact. I encourage you to view my <a href="/portfolio">portfolio</a> and <a href="#cv">resume.</a></p>
+                                <p>Working at APSA has allowed me to obtain many additional skills ranging from desktop publishing and organizing data within an AMS (Association Membership System). I am also responsible for generating email contact lists from our AMS so that we can send out marketing materials.
 
                                 <p>Before joining APSA, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
 
@@ -92,7 +92,7 @@
                                 <?php
 								$boutonTelechargerWeb = "Download Web Resume";
 								$boutonTelechargerCom = "Download Communications Resume";
-								$cvMiseajour = "Updating";
+								$cvMiseajour = "Unavailable";
 								/*$nomFamille = "Baker";*/
 								include "profil_base.php"; ?>
                             </div>
