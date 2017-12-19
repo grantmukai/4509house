@@ -68,7 +68,7 @@
                 <div class="item col-sm-6 col-md-4">
                     <div class="project-wrapper">
                         <div class="project-link">
-                            <a href="assets/images/portfolio/english/women.jpg" class="zoom" title="Empowering Women in the Profession">
+                            <a href="assets/images/portfolio/english/women_cropped.jpg" class="zoom" title="Empowering Women in the Profession">
                                 <i class="icon-Full-Screen"></i>
                             </a>
 
