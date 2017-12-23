@@ -30,7 +30,7 @@
 
                                 <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" class="drapeaux" />
 
-                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de la Union Européenne" style="margin-left:5px;" class="drapeaux" />
+                                <img src="/assets/images/drapeaux/eu.png" alt="Drapeau de l'Union Européenne" style="margin-left:5px;" class="drapeaux" />
 
                                 <br /> 
 
@@ -63,7 +63,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Zouk et le Lindy Hop, trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
                                 </p>
 								
                                 <p class="text-grey">
