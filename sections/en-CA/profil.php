@@ -33,7 +33,7 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am a Web content meanager for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
+                                    My name is Grant Mukai and I manage Web content for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
