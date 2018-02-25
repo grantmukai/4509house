@@ -87,9 +87,7 @@ require 'sections/'.$lang_actuelle.'/services.php';
 require 'sections/'.$lang_actuelle.'/cv.php';
 //require 'sections/'.$lang_actuelle.'/competences.php';
 //require 'sections/'.$lang_actuelle.'/connaissances.php';
-if ($lang_actuelle == "fr-FR"){
-	require 'sections/'.$lang_actuelle.'/forces.php';
-}
+//require 'sections/'.$lang_actuelle.'/forces.php';
 require 'sections/'.$lang_actuelle.'/contact.php';
 require 'sections/'.$lang_actuelle.'/pied.php';
 ?>    
