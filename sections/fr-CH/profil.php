@@ -39,7 +39,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à mon association actuelle, je travaillais à <a href='http://msb.georgetown.edu'>l'Ecole McDonough de commerce</a> à l'Université Georgetown à Washington (mi-atlantique) et à <a href='http://www.iqsolutions.com'>iQ Solutions</a> aux banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me rejoindre à mon association actuelle, je travaillais à <a href='http://msb.georgetown.edu'>l'Ecole McDonough de commerce</a> à l'Université Georgetown à Washington (mi-atlantique) et à <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieu en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
