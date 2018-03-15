@@ -34,7 +34,7 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am a Web services and systems support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> (APSA) in the District of Columbia.
+                                    My name is Grant Mukai and I am a Web services and system support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> in the District of Columbia.
                                 </p>
 
                                 <span class="divider"></span>
