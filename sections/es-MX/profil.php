@@ -33,20 +33,22 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas Web a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> en el Distrito de Columbia, Estados Unidos de América.
+                                    Me llamo Grant Mukai y soy el Gerente Senior de Comunicaciones Digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Virginia, Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Estoy trabajando en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros que vengan de todo el mundo.</p>
+                                <p>Estoy trabajando en nuestro surcursal en el estado de Maryland.</a>
+                                
+                                <p>Antes de unirme a Project HOPE, estaba trabajando para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde estaba ayudando a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. He hecho estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español.</p>
 
-                                <p>Antes de unirme a la mi asociación, trabajé a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
+                                <p>Trabajé también a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
 
                                 <p>Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
 
-                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicaciones</a> a la Universidad de Boston con especialización en lengua y literatura francesa.</p>
+                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicaciones</a> a la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
-                                <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los dos tipos de baile que estoy haciendo son el Lindy Hop y Blues. Hay una pequeña comunidad de Lindy Hop en el DF. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los dos tipos de baile que estoy haciendo son el Lindy Hop y Blues. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
