@@ -4,7 +4,7 @@ if (!isset($nomFamille)) {
 }
 if ($metier_actuel == "WEB") {
     echo "<h4>{$boutonTelechargerWeb}</h4>";
-    $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'pdf';";
+    $requeteBoutonsWebPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND (metier = 'web' || metier = 'num') AND type = 'pdf';";
     $resultatBoutonsWebPDF = $lien->query($requeteBoutonsWebPDF);
     while($rang_BoutonsWebPDF = $resultatBoutonsWebPDF->fetch_assoc())
     {
@@ -22,7 +22,7 @@ if ($metier_actuel == "WEB") {
         echo "</a><br />";
         }
     }
-    $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'web' AND type = 'docx';";
+    $requeteBoutonsWebDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND (metier = 'web' || metier = 'num') AND type = 'docx';";
     $resultatBoutonsWebDOCX = $lien->query($requeteBoutonsWebDOCX);
     while($rang_BoutonsWebDOCX = $resultatBoutonsWebDOCX->fetch_assoc())
     {
@@ -43,7 +43,7 @@ if ($metier_actuel == "WEB") {
 }
 if ($metier_actuel == "COM") {
     echo "<h4>{$boutonTelechargerCom}</h4>";
-    $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'pdf';";
+    $requeteBoutonsComPDF = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND (metier = 'com' || metier = 'rel') AND type = 'pdf';";
     $resultatBoutonsComPDF = $lien->query($requeteBoutonsComPDF);
     while($rang_BoutonsComPDF = $resultatBoutonsComPDF->fetch_assoc())
     {
@@ -61,7 +61,7 @@ if ($metier_actuel == "COM") {
         echo "</a><br />";
         }
     }
-    $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND metier = 'com' AND type = 'docx';";
+    $requeteBoutonsComDOCX = "SELECT * FROM fichiers WHERE langue_pays = '{$lang_sanstraitdunion}' AND (metier = 'com' || metier = 'rel') AND type = 'docx';";
     $resultatBoutonsComDOCX = $lien->query($requeteBoutonsComDOCX);
     while($rang_BoutonsComDOCX = $resultatBoutonsComDOCX->fetch_assoc())
     {

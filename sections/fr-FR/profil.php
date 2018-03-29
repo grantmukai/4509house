@@ -101,8 +101,8 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
-                                    $boutonTelechargerWeb = "Télécharger CV Web";
-                                    $boutonTelechargerCom = "Télécharger CV Communications";
+                                    $boutonTelechargerWeb = "Télécharger CV Communication Numériques";
+                                    $boutonTelechargerCom = "Télécharger CV Relations Publiques";
                                     $cvMiseajour = "Indisponible";
 									/*$nomFamille = "Martin";*/
 									include 'profil_base.php';
