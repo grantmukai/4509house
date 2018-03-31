@@ -35,21 +35,17 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy un Desarrollador Web y Especialista de servicios y sistemas a la <a href='http://www.apsanet.org'>Asociación estadounidense de ciencia política</a> (APSA) en el Distrito de Columbia.
+                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el Distrito de Columbia.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Estoy trabajando en el Departamento de marketing y comunicaciones dónde ayudo a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a nuestras secciones de intereses especializadas a organizarse en la red. Asimismo, soy responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hago estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español. Aunque nuestras oficinas se encuentran en los Estados Unidos, tenemos miembros veniendo de todo el mundo.
+                                    Antes de unirme a Project HOPE, Estaba trabajando en el Departamento de marketing y comunicaciones dónde ayudó a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
                                 </p>
 
                                 <p class="text-grey">
-                                    Antes de unirme a la APSA, trabajé a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en inglés)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en inglés)</em>. Asimismo, creí y actualicé páginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel <em>(NIAMS por sus siglas en inglés)</em>.
-                                </p>
-								
-                                <p class="text-grey">
-                                    Además, muchas de mis responsabilidades incluyeron la verificación de las páginas Web y documentos PDF para garantizar la conformidad a las normas establecidas por la Sección 508 de la Ley de Derechos de Discapacidados de los Estados Unidos.
+                                    Trabajé también a la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. <em>(SAMHSA por sus siglas en inglés)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en inglés)</em>. Asimismo, creí y actualicé páginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel <em>(NIAMS por sus siglas en inglés)</em>.
                                 </p>
 								
                                 <p class="text-grey">
