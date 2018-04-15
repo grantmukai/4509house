@@ -34,18 +34,14 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am a Web services and system support specialist for the <a href='http://www.apsanet.org'>American Political Science Association</a> in the District of Columbia.
+                                    My name is Grant Mukai and I am the Senior Digital Communications Manager for <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>I work in the Marketing and Communications Department where I help manage our association's primary website as well as several small-scale WordPress sites devoted to promoting political science and helping our special interest sections organize themselves on the Web. I also serve as the primary point of contact for our database management and assist my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish. Although we are located in the United States, we have a very large international membership.</p>
+                                <p>Before joining Project HOPE, I worked for the American Political Science Association where I helped manage our association's primary website as well as several small-scale WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for database management and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
-                                <p>Working at APSA has allowed me to obtain many additional skills ranging from desktop publishing and organizing data within an AMS (Association Membership System). I am also responsible for generating email contact lists from our AMS so that we can send out marketing materials.
-
-                                <p>Before joining APSA, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
-
-                                <p>A large part of my responsibilities at iQ Solutions consisted of making sure that webpages and documents met the Web Accessibility Guidelines set forth by the World Wide Web Consortium and Section 508 of the Americans with Disabilities Act.</p>
+                                <p>Previously, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
 
                                 <p>Prior to my career switch from journalism to Web content management, I was an Associate News Producer for <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> in the town of Wellesley, Massachusetts, where I produced news reports and documentaries for the local cable access station.</p>
 
