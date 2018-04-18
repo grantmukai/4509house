@@ -38,6 +38,8 @@
 
                                 <span class="divider"></span>
 
+                                <p>I work in development and communications where I am leading our website transition and I also write blog articles and press releases for online publication. Thanks to my strong multimedia background, I also edit videos showcasing our volunteers and programmes around the world.</p>
+
                                 <p>Prior to joining Project HOPE, I worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programmes and research. I also managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 
                                 <p>Previous positions included working at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a>, in the District of Columbia, and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare clients I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
