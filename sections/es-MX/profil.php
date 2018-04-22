@@ -33,14 +33,14 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy el Gerente Senior de Comunicaciones Digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Virginia, Estados Unidos de América.
+                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Maryland, Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Estoy trabajando en nuestro surcursal en el estado de Maryland.</a>
+                                <p>Estoy gestionando la transición de nuestro sitio Web et escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
                                 
-                                <p>Antes de unirme a Project HOPE, estaba trabajando para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde estaba ayudando a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. He hecho estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español.</p>
+                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde estaba ayudando a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. He hecho estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español.</p>
 
                                 <p>Trabajé también a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
 
