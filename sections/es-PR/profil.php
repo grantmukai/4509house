@@ -35,13 +35,13 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el Distrito de Columbia.
+                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Antes de unirme a Project HOPE, Estaba trabajando en el Departamento de marketing y comunicaciones dónde ayudó a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
+                                    Antes de unirme a Project HOPE, estaba trabajando en el Departamento de marketing y comunicaciones dónde ayudó a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
                                 </p>
 
                                 <p class="text-grey">
