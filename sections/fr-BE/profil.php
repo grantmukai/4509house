@@ -8,9 +8,9 @@
                 
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Photo de Grant Kiyoshi MUKAÏ" class="img-responsive"/>
                         
-                        <h4 class="title">Grant MUKAÏ</h4>
+                        <h4 class="title">Grant Kiyoshi MUKAÏ</h4>
                         
                     </div>
                 </div>
@@ -35,16 +35,16 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ<br />Hallo, mijn naam is Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique et partout dans le monde.
+                                    Je m'appelle (Grant) Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique et partout dans le monde.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                Avant de me joindre à Project HOPE, j'ai travaillé pour l'Association américaine de science politique où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                Avant de me joindre à Project HOPE, j'ai travaillé pour l'Association américaine de science politique où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
@@ -67,10 +67,10 @@
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKAÏ
+                                    Kiyoshi MUKAÏ
                                 </p>
 								
                             </div>
@@ -87,7 +87,7 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant MUKAÏ</li>
+                                    <li>Kiyoshi MUKAÏ</li>
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
