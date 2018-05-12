@@ -101,15 +101,15 @@ $metier = 'web';
  
 switch ($metier) {
   case 'web':
-  $metier_actuel = 'NUM';
+  $metier_actuel = 'WEB';
   break;
 
   case 'com':
-  $metier_actuel = 'REL';
+  $metier_actuel = 'Com';
   break;
    
   default:
-  $metier_actuel = 'NUM';
+  $metier_actuel = 'WEB';
  
 }
 ?>
