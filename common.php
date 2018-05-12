@@ -105,7 +105,7 @@ switch ($metier) {
   break;
 
   case 'com':
-  $metier_actuel = 'Com';
+  $metier_actuel = 'COM';
   break;
    
   default:
