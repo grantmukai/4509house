@@ -31,7 +31,7 @@
 
                                 <br /> 
 
-			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Mukaï</h2>
+			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
                                     Je m'appelle Grant Mukaï et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
@@ -40,7 +40,11 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à Project HOPE, je travaillais pour l'Association américaine de science politque où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Je suis responsable de la transition de notre site Web ainsi que la gestion de nos communications électroniques telles que les communiqués de presse et la publication des articles en ligne.
+                                </p>
+
+                                <p class="text-grey">
+                                    Avant de me rejoindre à Project HOPE, je travaillais pour <a href="http://www.apsanet.org">l'Association américaine de science politque</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
