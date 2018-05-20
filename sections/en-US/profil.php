@@ -39,6 +39,8 @@
 
                                 <span class="divider"></span>
 
+                                <p>At Project HOPE, I am responsible for leading the transition of our website to a WordPress platform as well as managing the online communications such as press releases and blog posts which showcase the work of our field offices in over 20 countries.</p>
+
                                 <p>Before joining Project HOPE, I worked for the American Political Science Association where I helped manage our association's primary website as well as several small-scale WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for database management and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
                                 <p>Previously, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
