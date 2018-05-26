@@ -30,10 +30,10 @@
 
                                 <br />
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Maryland, Estados Unidos de América.
+                                    Me llamo Grant Kiyoshi Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Maryland, Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
@@ -44,7 +44,7 @@
 
                                 <p>Trabajé también a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
 
-                                <p>Antes de mi cambio de carrero de periodismo al desarrollo Web y gestión de datos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
+                                <p>Antes de mi cambio de carrero de periodismo al comunicaciones digitales y gestión de contenidos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
 
                                 <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicaciones</a> a la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
