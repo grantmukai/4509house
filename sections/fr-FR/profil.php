@@ -9,7 +9,7 @@
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ" class="img-responsive"/>
                         
-                        <h4 class="title">Grant MUKAÏ</h4>
+                        <h4 class="title">Grant Kiyoshi MUKAÏ</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -26,7 +26,7 @@
                         <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <p>Loi Européenne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous préférez la version française de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+                                <p>Loi Européenne sur la vie privée : Ce site emploi des cookies pour se souvenir que vous préférez la version française de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
 
                                 <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" class="drapeaux" />
 
@@ -34,10 +34,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKAÏ et je suis le Gérant principal des communications numériques pour <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques pour <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
