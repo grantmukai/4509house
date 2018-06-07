@@ -26,10 +26,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant Kiyoshi MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
