@@ -38,7 +38,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique et partout dans le monde.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique et partout dans le monde.
                                 </p>
 
                                 <span class="divider"></span>
