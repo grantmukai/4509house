@@ -82,7 +82,7 @@
                             <h4>5. Web Content</h4>
 
                             <p class="text-grey">
-                                I have used a variety of Content Management Systems ranging from Drupal to WordPress multi-site installations running Commons in a Box and BuddyPress. Since I currently work for an association, I also have knowledge of Association Membership Systems and how those integreate into member databases.
+                                I have used a variety of content management systems ranging from Drupal to WordPress multi-site installations running Commons in a Box and BuddyPress. Since I worked for a membership association, I also have knowledge of Association Membership Systems and how those integreate into member databases.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Support</h4>
+                            <h4>6. Project Management</h4>
 
                             <p class="text-grey">
-                                Although I provide Web services for my association, I also offer training to our staff on how to manage their own content and assist our members in English, French and Spanish with membership issues.
+                                 At my current job, I manage the transition of our website which comprises contract negotiations and working with other departments. I know how to advance projects to meet deadlines and keep everything on track.
                             </p>
                         </div>
                         <!-- //.inner-content -->
