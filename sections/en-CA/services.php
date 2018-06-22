@@ -51,7 +51,7 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Email Design</h4>
+                            <h4>3. Email Marketing</h4>
 
                             <p class="text-grey">
                                 Understanding that email design is not the same as Web design, I am proficient in coding &ldquo;depricated&rdquo; HTML and inline CSS as well as having a good idea of what Outlook does and does not support.
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Support</h4>
+                            <h4>6. Project Management</h4>
 
                             <p class="text-grey">
-                                Although I provide Web services for my association, I also offer training to our staff and members on how to manage their own content and assist our members in English, French and Spanish with membership issues.
+                                Currently, I am leading a website migration with Project HOPE where I negotiate design and content creation with our contractor and work with our internal teams to create and migrate content.
                             </p>
                         </div>
                         <!-- //.inner-content -->

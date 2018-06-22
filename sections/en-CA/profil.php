@@ -30,7 +30,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Kiyoshi Mukaï</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
                                     My name is Grant Mukai (Kiyoshi en français) and I am the Senior Digital Communications Manager at <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland, United States of America.
