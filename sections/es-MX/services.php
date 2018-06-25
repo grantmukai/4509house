@@ -26,7 +26,7 @@
                             <h4>1. Escritura</h4>
 
                             <p class="text-grey">
-                                Porque estudié el periodismo, yo se como bien escribir para las publicaciones escritas y electrónicas y utilicé mis competencias para reportar las noticias y también para acentuar las empresas pequeñas en el espacio de promoción.
+                                Porque estudié el periodismo, yo se bien escribir para las publicaciones escritas y electrónicas y utilicé mis competencias para reportar las noticias y también para acentuar las empresas pequeñas en el espacio de promoción.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,7 +51,7 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Diseño Correo Electrónico</h4>
+                            <h4>3. Correo Electrónico</h4>
 
                             <p class="text-grey">
                                 Compreniendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, tengo una buena idea de lo que Outlook acepta y no acepta.
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Apoyo</h4>
+                            <h4>6. Gesti&oacute;n de Proyecto</h4>
 
                             <p class="text-grey">
-                                Aunque proporciono servicios Web para mi asociación, ofrezco también entrenamiento a nuestros empleados sobre cómo pueden administrar sus propios contenidos y ayudo a nuestros miembros en inglés, francés y español con preguntas de membresía.
+                                A Project HOPE, estoy gestionando la transici&oacute;n de nuestro sitio Web hasta una nueva plataforma WordPress y s&eacute; bien trabajar con todos departamentos para que todos los equipos sean sobre la misma p&aacute;ina.
                             </p>
                         </div>
                         <!-- //.inner-content -->
