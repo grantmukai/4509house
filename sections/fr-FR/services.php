@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Soutien</h4>
+                            <h4>6. Gestion de projet</h4>
 
                             <p class="text-grey">
-                                Bien que j'offre des services Web pour mon association, j'entraîne aussi nos employés pour qu'il puissent gérer leurs propres contenus et j'assiste nos membres en anglais, français et espagnol avec leurs questions d'adhésion.
+                                Aujourd'hui, je suis en train de gérer la transition du site Web à Project HOPE. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même pages en prenant en compte leurs visions et commentaires.
                             </p>
                         </div>
                         <!-- //.inner-content -->
