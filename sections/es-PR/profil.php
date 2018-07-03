@@ -32,10 +32,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland.
+                                    Me llamo Grant Kiyoshi Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland.
                                 </p>
 
                                 <span class="divider"></span>

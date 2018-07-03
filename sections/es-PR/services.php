@@ -51,7 +51,7 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Diseño Correo Electrónico</h4>
+                            <h4>3. Correo Electrónico</h4>
 
                             <p class="text-grey">
                                 Comprendiendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, utilizó muchas aplicaciones como Constant Contact y MailChimp.
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Apoyo</h4>
+                            <h4>6. Gesti&oacute;n de Proyecto</h4>
 
                             <p class="text-grey">
-                                Aunque proporciono servicios Web para mi asociación, ofrezco también entrenamiento a nuestros empleados para ayudarlos a administrar sus propios contenidos y ayudo a nuestros miembros en inglés, francés y español con preguntas de membresía.
+                                A Project HOPE, estoy gestionando la transici&oacute;n de nuestro sitio Web y trabajando con los otros departamentos para asegurar que sus necesdidades est&aacute;n tomadas en cuenta.
                             </p>
                         </div>
                         <!-- //.inner-content -->
