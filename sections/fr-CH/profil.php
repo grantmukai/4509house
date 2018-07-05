@@ -35,7 +35,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à Project HOPE, je travaillais à l'Association américaine de science politique où j'ai aidé mes collèagues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes collèagues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
