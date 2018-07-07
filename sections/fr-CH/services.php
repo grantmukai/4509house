@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Soutien</h4>
+                            <h4>6. Gestion de Project</h4>
 
                             <p class="text-grey">
-                                Bien que j'offre des services Web pour mon association, j'entraîne aussi nos employés pour qu'il puissent gérer leurs propres contenus et j'assiste nos membres en anglais, français et espagnol avec leurs questions d'adhésion.
+                                À mon poste actuel, je gère présentement la transition de notre site Web. C'est ma responsabilité de colaborer avec toutes nos équipes pour qu'elles soient bien entendues et négocier les contrats avec notre entrepreneur.
                             </p>
                         </div>
                         <!-- //.inner-content -->
