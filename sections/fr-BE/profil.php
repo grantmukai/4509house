@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme à la communication numérique, j'étais producteur adjoint de télvision chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme à la communication numérique, j'étais producteur adjoint de télévision chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
@@ -60,7 +60,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues et le Lindy Hop - deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les studios de danse en dansant le Blues et le Lindy Hop - deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
