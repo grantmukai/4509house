@@ -40,7 +40,7 @@
                             <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Dans mes anciens jours, je travaillais en tant qu'animateur à la télé et monteur de vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
+                                Précedemment, je travaillais en tant qu'animateur à la télé et monteur des vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Soutien</h4>
+                            <h4>6. Gestion de Projet</h4>
 
                             <p class="text-grey">
-                                Bien que j'offre des services Web pour mon association, j'entraîne aussi nos employés pour qu'il puissent gérer leurs propres contenus et j'assiste nos membres en anglais, français et espagnol avec leurs questions d'adhésion.
+                                À mon emploi actuel, je gère la transition de notre site Web sur une nouvelle plateforme. C'est important pour moi de bien faire les négociations avec notre entrepreneur et de travailler étroitement avec nos autres départements pour que leurs avis soient pris en considération.
                             </p>
                         </div>
                         <!-- //.inner-content -->
