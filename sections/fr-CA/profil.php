@@ -44,15 +44,11 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à Project HOPE, je travaillais pour <a href="http://www.apsanet.org">l'Association américaine de science politque</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à Project HOPE, je travaillais pour <a href="http://www.apsanet.org">l'Association américaine de science politique</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
                                     J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale <em>(SAMHSA en anglais)</em> et les Instituts nationaux de la santé <em>(NIH en anglais)</em>. J'ai aussi rédigé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau <em>(NIAMS en anglais)</em>.
-                                </p>
-								
-                                <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme aux communications numériques et relations publiques, j'étais producteur adjoint de télévision chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le village de Wellesley, Massachusetts, où j'ai produit des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
