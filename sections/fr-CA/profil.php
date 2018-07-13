@@ -87,7 +87,7 @@
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>438-228-0753</li>
                                     <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com/quebec</li>
+                                    <li>www.grantmukai.com</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
