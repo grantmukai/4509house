@@ -44,11 +44,9 @@
 
                                 <p>Previous positions included working at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a>, in the District of Columbia, and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare clients I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
 
-                                <p>While working as a journalist in the Boston, Massachusetts area, I was an Associate News Producer for <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> in the town of Wellesley, Massachusetts, where I produced news reports and documentaries for the local cable access station.</p>
-
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I often spend my free time dancing Lindy Hop and Blues and make several trips a year to Montréal for various dance events.</p>
+                                <p>I often spend my free time dancing Lindy Hop, Blues and Zouk and make several trips a year to Montréal for various dance events.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 
