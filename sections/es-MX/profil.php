@@ -38,7 +38,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>Estoy gestionando la transición de nuestro sitio Web et escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
+                                <p>Estoy gestionando la transición de nuestro sitio Web y escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
                                 
                                 <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde estaba ayudando a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. He hecho estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español.</p>
 
@@ -46,9 +46,9 @@
 
                                 <p>Antes de mi cambio de carrero de periodismo al comunicaciones digitales y gestión de contenidos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
 
-                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicaciones</a> a la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
+                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicacion</a> a la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
-                                <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los dos tipos de baile que estoy haciendo son el Lindy Hop y Blues. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los tres tipos de baile que estoy haciendo son el Lindy Hop, Blues y Zouk. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
