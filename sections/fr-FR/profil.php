@@ -43,7 +43,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille pour les affaires de la santé à Project HOPE où je surveille la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogs et je cherche activement des développements dans le monde par rapport à la santé mondiale.
+                                    Je travaille à Project HOPE où je surveille la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogs et je cherche activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">
@@ -55,7 +55,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme aux communications digitales et rélations publiques, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Avant mon changement de carrière du journalisme aux communications numériques et relations publiques, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
                                 </p>
 								
                                 <p class="text-grey">
