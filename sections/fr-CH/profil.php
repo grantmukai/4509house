@@ -51,7 +51,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Dans mon temps libre, je danse le Lindy Hop et le Blues - deux styles de danse très populaires en Amérique du Nord.
+                                    Dans mon temps libre, je danse le Lindy Hop, le Blues et le Zouk - trois styles de danse très populaires en Amérique du Nord.
                                 </p>
 								
                                 <p class="text-grey">
