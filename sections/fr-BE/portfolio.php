@@ -24,7 +24,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="http://www.grantmukai.com/portfolio/gare-contemporaine/" target="_blank" class="external-link">
+                                <a href="http://45.63.7.55/portfolio/gare-contemporaine/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
@@ -48,7 +48,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="http://www.grantmukai.com/portfolio/rpublic/" target="_blank" class="external-link">
+                                <a href="http://45.63.7.55/portfolio/rpublic/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
@@ -72,7 +72,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="http://www.grantmukai.com/portfolio/francais_amerique/" target="_blank" class="external-link">
+                                <a href="http://45.63.7.55/portfolio/francais_amerique/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
