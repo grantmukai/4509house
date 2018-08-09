@@ -34,7 +34,7 @@
 			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Mukaï et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
                                 </p>
 
                                 <span class="divider"></span>
@@ -52,11 +52,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    J'ai obtenu un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une mineure en langue et littérature française.
+                                    J'ai obtenu un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop et Blues - deux styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
                                 </p>
 								
                                 <p class="text-grey">
