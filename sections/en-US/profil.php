@@ -47,7 +47,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communications</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>In my free time, I can be found dancing Lindy Hop and Blues - two popular styles of social dance.</p>
+                                <p>In my free time, I can be found dancing Lindy Hop, Blues and Zouk - three popular styles of social dance.</p>
 
                                 <p>I hope to hear from you soon!</p>
 								
