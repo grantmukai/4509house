@@ -24,7 +24,7 @@
                                 <i class="icon-Full-Screen"></i>
                             </a>
 
-                            <a href="http://45.63.7.55/portfolio/prospectus/" target="_blank" class="external-link">
+                            <a href="/portfolio/en/prospectus_2017.pdf" target="_blank" class="external-link">
                                 <i class="icon-Link"></i>
                             </a>
                         </div>
@@ -48,7 +48,7 @@
                                 <i class="icon-Full-Screen"></i>
                             </a>
 
-                            <a href="http://45.63.7.55/portfolio/apsa-2017-annual-conference-exhibitor-prospectus/" target="_blank" class="external-link">
+                            <a href="/portfolio/en/prospectus_2017.pdf" target="_blank" class="external-link">
                                 <i class="icon-Link"></i>
                             </a>
                         </div>
