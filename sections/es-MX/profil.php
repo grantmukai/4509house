@@ -33,22 +33,22 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Me llamo Grant Kiyoshi Mukai y soy el Gerente senior de comunicaciones digitales a <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Maryland, Estados Unidos de América.
+                                    Mi nobre es Grant Kiyoshi Mukai y soy el Gerente Senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en el estado de Maryland, Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Estoy gestionando la transición de nuestro sitio Web y escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
+                                <p>Actualmente me encuentro gestionando la transición de nuestro sitio Web y escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
                                 
-                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde estaba ayudando a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a organizarse en las redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. He hecho estas tareas proporcionando el servicio excelente al cliente en inglés, francés e español.</p>
+                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. He realizado estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
-                                <p>Trabajé también a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes de salud para quiénes estaba trabajando incluyeron la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé paginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
+                                <p>Trabajé también en la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Maryland, el estado vecino, desarrollando boletines electrónicos. Algunos clientes del sector salud para quiénes trabajé incluyen la Administración de Salud Mental y Abuso de Sustancias de E.E.U.U. y los Institutos Nacionales de la Salud. Asimismo, creé y actualicé páginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel.</p>
 
-                                <p>Antes de mi cambio de carrero de periodismo al comunicaciones digitales y gestión de contenidos, fue productor asociado de noticias al <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde estaba produciendo reportajes y documentarios para un canal de televisión.</p>
+                                <p>Antes de mi cambio de carrero de periodismo al comunicaciones digitales y gestión de contenidos, fui productor asociado de noticias en <i lang='en-US'><a href='http://www.wellesleymedia.org'>Wellesley Public Media</a></i> en el pueblo de Wellesley, Massachusetts, dónde produje reportajes y documentales para un canal de televisión.</p>
 
-                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios a la <a href='http://www.bu.edu/com'>Escuela de comunicacion</a> a la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
+                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='http://www.bu.edu/com'>Escuela de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
-                                <p>En mi tiempo libre, el baile es algo muy importante en mi vida. Los tres tipos de baile que estoy haciendo son el Lindy Hop, Blues y Zouk. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que practico son el Lindy Hop, Blues y Zouk. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
