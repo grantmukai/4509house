@@ -55,15 +55,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme aux communications numériques et relations publiques, j'étais réalisateur adjoint d'actualité chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Je détiens un BAC+4 (diplôme de premier cycle) en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un BAC+4 (diplôme de premier cycle) en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
-                                </p>
-								
-                                <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues et le Lindy Hop, deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Lindy Hop et le Zouk - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
                                 </p>
 								
                                 <p class="text-grey">
