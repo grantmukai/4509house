@@ -35,7 +35,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, mi nombre es Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Gerente esnior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Gerente senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland.
                                 </p>
 
                                 <span class="divider"></span>
@@ -49,11 +49,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='http://www.bu.edu/com'>Escuela de comunicaciones</a> de la Universidad de Boston con un menor en lengua y literatura francesa.
+                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='http://www.bu.edu/com'>Facultad de comunicaciones</a> de la Universidad de Boston con un menor en lengua y literatura francesa.
                                 </p>
 								
                                 <p class="text-grey">
-                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop y Blues y me interesan las otras culturas internacionales de Washington.
+                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop, Blues y Zouk y me interesan las otras culturas internacionales de Washington.
                                 </p>
 								
                                 <p class="text-grey">
