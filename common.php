@@ -21,7 +21,7 @@ $lang = $_COOKIE['lang'];
 }
 else
 {
-$lang = 'en-US';
+$lang = 'fr-CA';
 }
  
 switch ($lang) {
@@ -69,10 +69,20 @@ switch ($lang) {
   $lang_actuelle = 'fr-BE';
   $lang_sanstraitdunion = 'frBE';
   break;
+
+  case 'es-CL':
+  $lang_actuelle = 'es-CL';
+  $lang_sanstraitdunion = 'esCL';
+  break;
+
+  case 'es-UY':
+  $lang_actuelle = 'es-UY';
+  $lang_sanstraitdunion = 'esUY';
+  break;
    
   default:
-  $lang_actuelle = 'en-US';
-  $lang_sanstraitdunion = 'en-US';
+  $lang_actuelle = 'fr-CA';
+  $lang_sanstraitdunion = 'frCA';
  
 }
 

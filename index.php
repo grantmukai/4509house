@@ -82,12 +82,14 @@ require 'sections/'.$lang_actuelle.'/tete.php';
 require 'sections/'.$lang_actuelle.'/hero.php';
 require 'sections/'.$lang_actuelle.'/navigation.php';
 require 'sections/'.$lang_actuelle.'/profil.php';
-require 'sections/'.$lang_actuelle.'/portfolio.php';
+//require 'sections/portfolio.php';
 require 'sections/'.$lang_actuelle.'/services.php';
 require 'sections/'.$lang_actuelle.'/cv.php';
 //require 'sections/'.$lang_actuelle.'/competences.php';
 //require 'sections/'.$lang_actuelle.'/connaissances.php';
-//require 'sections/'.$lang_actuelle.'/forces.php';
+if ($lang_actuelle == "fr-FR"){
+	require 'sections/'.$lang_actuelle.'/forces.php';
+}
 require 'sections/'.$lang_actuelle.'/contact.php';
 require 'sections/'.$lang_actuelle.'/pied.php';
 ?>    
