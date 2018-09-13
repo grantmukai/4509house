@@ -40,7 +40,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la transition de notre site Web ainsi que la gestion de nos communications électroniques telles que les communiqués de presse et la publication des articles en ligne.
+                                    Je suis responsable de la transition de notre site Web ainsi que la gestion de nos communications numériques telles que les communiqués de presse et la publication des articles en ligne.
                                 </p>
 
                                 <p class="text-grey">
