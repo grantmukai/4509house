@@ -43,11 +43,11 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille à Project HOPE où je surveille la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogs et je cherche activement des développements dans le monde par rapport à la santé mondiale.
+                                    Je travaille à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogs et je cherche activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me joindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
@@ -59,7 +59,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Lindy Hop et le Zouk - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Lindy Hop et le Zouk Brésilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
                                 </p>
 								
                                 <p class="text-grey">
