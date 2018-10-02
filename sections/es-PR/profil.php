@@ -49,11 +49,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='http://www.bu.edu/com'>Facultad de comunicaciones</a> de la Universidad de Boston con un menor en lengua y literatura francesa.
+                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='http://www.bu.edu/com'>Facultad de comunicaci&oacute;ne</a> de la Universidad de Boston con un menor en lengua y literatura francesa.
                                 </p>
 								
                                 <p class="text-grey">
-                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop, Blues y Zouk y me interesan las otras culturas internacionales de Washington.
+                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop, Blues y Zouk Bresileño y me interesan las otras culturas internacionales de Washington.
                                 </p>
 								
                                 <p class="text-grey">
