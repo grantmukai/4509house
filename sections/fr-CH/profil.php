@@ -47,11 +47,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un diplôme de premier cycle en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un diplôme de premier cycle en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Dans mon temps libre, je danse le Lindy Hop, le Blues et le Zouk - trois styles de danse très populaires en Amérique du Nord.
+                                    Dans mon temps libre, je danse le Lindy Hop, le Blues et le Zouk Brésilien - trois styles de danse très populaires en Amérique du Nord.
                                 </p>
 								
                                 <p class="text-grey">
