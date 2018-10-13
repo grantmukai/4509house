@@ -19,9 +19,9 @@
                 <li class="page-scroll">
                     <a href="#profile">Profile</a>
                 </li>               
-                <li class="page-scroll">
+                <!--<li class="page-scroll">
                     <a href="#portfolio">Portfolio</a>
-                </li>
+                </li>-->
                 <li class="page-scroll">
                     <a href="#services">Services</a>
                 </li>
