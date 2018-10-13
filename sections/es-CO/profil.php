@@ -33,7 +33,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nobre es Grant Kiyoshi Mukai y soy el Gerente Senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en el Estados Unidos de América.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Gerente Senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en el Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
@@ -44,9 +44,9 @@
 
                                 <p>Trabajé también en la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en el estado vecino desarrollando boletines electrónicos.</p>
 
-                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='http://www.bu.edu/com'>Escuela de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
+                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='http://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
-                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que practico son el Lindy Hop, Blues y Zouk. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que practico son el Lindy Hop, Blues y Zouk Brasileño. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
