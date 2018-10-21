@@ -40,7 +40,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la transition de notre site Web ainsi que la gestion de nos communications numériques telles que les communiqués de presse et la publication des articles en ligne.
+                                    Je suis responsable de la transition de notre site Web ainsi que la stratégie de nos communications numériques telles que les communiqués de presse et la publication et l'organisation de notre contenu en ligne.
                                 </p>
 
                                 <p class="text-grey">
@@ -52,11 +52,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    J'ai obtenu un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature française.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk Brésilien - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
                                 </p>
 								
                                 <p class="text-grey">
