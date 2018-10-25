@@ -39,7 +39,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>At Project HOPE, I am responsible for leading the transition of our website to a WordPress platform as well as managing the online communications such as press releases and blog posts which showcase the work of our field offices in over 25 countries.</p>
+                                <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy such as press releases and blog posts which showcase the work of our field offices in over 25 countries.</p>
 
                                 <p>Before joining Project HOPE, I worked for the American Political Science Association where I helped manage our association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
@@ -47,7 +47,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>In my free time, I can be found dancing Lindy Hop, Blues and Zouk - three popular styles of social dance.</p>
+                                <p>In my free time, I can be found dancing Lindy Hop, Blues and Brazilian Zouk - three popular styles of social dance.</p>
 
                                 <p>I hope to hear from you soon!</p>
 								
