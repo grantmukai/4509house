@@ -38,7 +38,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>I work in digital communications and marketing where I am leading our website transition and I also write blog articles and press releases for online publication. Thanks to my strong multimedia background, I also edit videos showcasing our volunteers and programmes around the world. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>I work in Web content strategy where I led our website transition and I also write blog articles and press releases for online publication while optimising our site for SEO and our fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
                                 <p>Prior to joining Project HOPE, I worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programmes and research. I also managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 
@@ -46,7 +46,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I often spend my free time dancing Lindy Hop, Blues and Zouk and make several trips a year to Montréal for various dance events.</p>
+                                <p>I often spend my free time dancing Lindy Hop, Blues and Brazilian Zouk and make several trips a year to Montréal for various dance events.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 

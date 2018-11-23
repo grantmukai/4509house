@@ -52,15 +52,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Avant mon changement de carrière du journalisme à la communication numérique, j'étais producteur adjoint de télévision chez <a href='http://www.wellesleymedia.org'>Wellesley Public Media</a> dans le nord-est du pays, où je produisais des court métrages et documentaires pour une chaîne de télévision.
+                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communications</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
-                                </p>
-								
-                                <p class="text-grey">
-                                    Je passe mon temps libre dans les studios de danse en dansant le Blues et le Lindy Hop - deux styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les studios de danse en dansant le Blues, le Lindy Hop et le Zouk Brasilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
