@@ -38,7 +38,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>Actualmente, he gestionado la transición de nuestro sitio Web y estoy escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
+                                <p>Actualmente, he gestionado la transición de nuestro sitio Web y estoy escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo. Estoy tamibién responsable de la conceptualización de nuestra estrategia Web.</a>
                                 
                                 <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. He realizado estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
