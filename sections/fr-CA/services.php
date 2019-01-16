@@ -54,7 +54,7 @@
                             <h4>3. Courriel</h4>
 
                             <p class="text-grey">
-                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je suis compétent avec le code &ldquo;obsolète&rdquo; de HTML et CSS. De plus, j'ai une bonne idée de ce qu'Outlook accepte et n'accepte pas. Et n'oubliez pas les gens avec des courriels contenant des images qui ne s'affichent pas automatiquement. Je sais comment tout créér pour que les informations pertinentes soient affichées correctement.
+                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je sais très bien écrire les courriels de marketing. Je sais comment tout organiser pour que les informations pertinentes soient affichées correctement.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. Code Propre</h4>
+                            <h4>4. Logiciels de Gestion de Contenu</h4>
 
                             <p class="text-grey">
-                                Je suis sérieux en écrivant seulement du code HTML5, CSS3 et PHP7 le plus propre et à jour. Mon code est correctement dentélé et il suit les standards établis par le W3C.
+                                Après avoir travaillé avec toute une gamme de logiciels de gestion de contenu tels que WordPress, Drupal et DotNetNuke, je sais bien organiser et gérer l'apparence frontale ainsi que les bases de données qui font tourner le site.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Gestion de Contenu</h4>
+                            <h4>5. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                Besoin d'aide avec l'organisation et l'apparence des infos de votre entreprise? Que vous utilisiez WordPress, Drupal ou DotNetNuke, je sais comment configurer votre site. Et si vous êtes une association d'adhésion, j'ai de l'expérience avec du logiciel de gestion pour associations telles que Timberlake et NOAH.
+                                La stratégie numérique est au cœur de mes responsabilités à Project HOPE. Mon but est de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gestion de projet</h4>
 
                             <p class="text-grey">
-                                À mon poste actuel, je m'occupe de la transition de notre site Web ce qui comporte la négociation des contrats et gestion de plusieurs aspect du projet avec nos départements. Je sais tout faire pour avancer le projet et le garder sur le bon chemin.
+                                À mon poste actuel, je me suis occupé de la transition de notre site Web ce qui comporte la négociation des contrats et gestion de plusieurs aspect du projet avec nos départements. Je sais tout faire pour avancer le projet et le garder sur le bon chemin.
                             </p>
                         </div>
                         <!-- //.inner-content -->
