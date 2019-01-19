@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Email Design</h4>
+                            <h4>3. Email</h4>
 
                             <p class="text-grey">
-                                By understanding that email design is not the same as Web design, I am proficient in coding &ldquo;depricated&rdquo; HTML and inline CSS as well as having a good idea of what Outlook does and does not support. I also understand how to best design emails to increase click rates.
+                                By understanding that email design is not the same as Web design, I am proficient in writing email newsletters. I understand how to organize important information so that everything displays correctly.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. Clear Code</h4>
+                            <h4>4. Web Content Management</h4>
 
                             <p class="text-grey">
-                                I am very serious about only writing the cleanest up-to-date HTML5, CSS3 and PHP7. My code is properly indented and follows standards set by the W3C and Section 508 of the Americans with Disabilities Act.
+                                After having worked with many different Web content management systems such as WordPress, Drupal and DotNetNuke, I can say that I know how to organize and manage front-end appearances as well as the databases necessary to run the entire site.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Web Content</h4>
+                            <h4>5. Web Strategy</h4>
 
                             <p class="text-grey">
-                                I have used a variety of content management systems ranging from Drupal to WordPress multi-site installations running Commons in a Box and BuddyPress. Since I worked for a membership association, I also have knowledge of Association Membership Systems and how those integreate into member databases.
+                                Digital strategy is the core of my responsibilities at Project HOPE. My goal is to conceptualize a strategy that brings together our communications, our fundraising efforts and our marketing initiatives to present a united front for our Web presence.
                             </p>
                         </div>
                         <!-- //.inner-content -->
