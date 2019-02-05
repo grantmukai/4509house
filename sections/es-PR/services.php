@@ -54,7 +54,7 @@
                             <h4>3. Correo Electrónico</h4>
 
                             <p class="text-grey">
-                                Comprendiendo que el diseño de correo electrónico no es el mismo que el diseño Web, soy competente con el código &ldquo;obsoleto&rdquo; del HTML y CSS. Asimismo, utilizó muchas aplicaciones como Constant Contact y MailChimp.
+                                Compreniendo que la concepción de correo electrónico no es el mismo que la del Web, sé muy bien escribir boletines de marketing. Sé como organisar todo para que las informaciones pertinentes sean desplegadas correctamente.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. Código Limpio</h4>
+                            <h4>4. Gestión de Contenidos</h4>
 
                             <p class="text-grey">
-                                Estoy serio cuando escribo código HTML5, CSS3 y PHP7 el más limpio y actualizado. Mi código es correctamente sangrado y sigue los estándares establecidos por el W3C.
+                                Después de haber trabajado con aplicaciones diferentes de gestión de contenido como WordPress, Drupal y DotNetNuke, sé bien organisar y gestionar el aparencia front-end y los bases de datos detrás del sitio.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Contenidos Web</h4>
+                            <h4>5. Estratégia Digital</h4>
 
                             <p class="text-grey">
-                                Soy familiar con varias aplicaciones de gestión de contenidos como WordPress, Drupal y DotNetNuke. Para ayudar con los estilos, utilizo también marcos de Web como Bootstrap.
+                                La estratégia digital es la corazón de mis responsabilidades a Project HOPE. Mi objectivo es de conceptualizar una estratégia que toma en cuenta nuestras comunicaciones, nuestros esfuerzos de recaudación de fondos y nuestas iniciativas de marketing para presentar una dirección unida de nuestra presencia en las redes.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gesti&oacute;n de Proyecto</h4>
 
                             <p class="text-grey">
-                                A Project HOPE, estoy gestionando la transici&oacute;n de nuestro sitio Web y trabajando con los otros departamentos para asegurar que sus necesdidades est&aacute;n tomadas en cuenta.
+                                A Project HOPE, he gestionado la transici&oacute;n de nuestro sitio Web hasta una nueva plataforma WordPress y s&eacute; bien trabajar con todos los departamentos para que estos equipos permanecen en la misma p&aacute;gina.
                             </p>
                         </div>
                         <!-- //.inner-content -->
