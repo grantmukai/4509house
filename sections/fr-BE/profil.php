@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
