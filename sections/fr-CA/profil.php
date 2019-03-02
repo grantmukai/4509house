@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature française.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
