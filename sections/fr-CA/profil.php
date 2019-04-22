@@ -34,13 +34,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
                                 </p>
 
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la stratégie de nos communications numériques pour bien cibler notre audience et organiser les renseignements disponibles sur notre site Web.
+                                    Je suis responsable de la stratégie de nos communications numériques pour bien cibler nos internautes et organiser les renseignements disponibles sur notre site Web.
                                 </p>
 
                                 <p class="text-grey">
