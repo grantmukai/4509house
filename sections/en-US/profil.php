@@ -89,6 +89,10 @@
 								$boutonTelechargerWeb = "Download Web Resume";
 								$boutonTelechargerCom = "Download Communications Resume";
 								$cvMiseajour = "Unavailable";
+                                $IdTelechargerWebDoc = "webdoccvenus";
+                                $IdTelechargerWebPdf = "webpdfcvenus";
+                                $IdTelechargerComDoc = "comdoccvenus";
+                                $IdTelechargerComPdf = "compdfcvenus";
 								/*$nomFamille = "Baker";*/
 								include "profil_base.php"; ?>
                             </div>
