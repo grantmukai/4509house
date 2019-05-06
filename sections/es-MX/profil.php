@@ -86,6 +86,10 @@
 							$boutonTelechargerWeb = "Descargar CV Web";
 							$boutonTelechargerCom = "Descargar CV Communications";
 							$cvMiseajour = "Indisponible";
+                            $IdTelechargerWebDoc = "webdoccvesmx";
+                            $IdTelechargerWebPdf = "webpdfcvesmx";
+                            $IdTelechargerComDoc = "comdoccvesmx";
+                            $IdTelechargerComPdf = "compdfcvesmx";
 							/*$nomFamille = "Perez";*/
 							include "profil_base.php";
                             ?>
