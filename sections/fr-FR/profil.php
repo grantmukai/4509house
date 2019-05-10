@@ -100,6 +100,10 @@
                                     $boutonTelechargerWeb = "Télécharger CV Communication Numériques";
                                     $boutonTelechargerCom = "Télécharger CV Relations Publiques";
                                     $cvMiseajour = "Indisponible";
+                                    $IdTelechargerWebDoc = "webdoccvfrfr";
+                                    $IdTelechargerWebPdf = "webpdfcvfrfr";
+                                    $IdTelechargerComDoc = "comdoccvfrfr";
+                                    $IdTelechargerComPdf = "compdfcvfrfr";
 									/*$nomFamille = "Martin";*/
 									include 'profil_base.php';
                                 ?>
