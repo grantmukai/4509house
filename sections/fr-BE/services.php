@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. Design d'E-mail</h4>
+                            <h4>3. Courrier Électronique</h4>
 
                             <p class="text-grey">
-                                En comprenant que le design du courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une bonne connaissance des logiciels utilisé pour envoyer les bulletins électroniques.
+                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je sais très bien écrire les bulletins de marketing. Je sais comment tout organiser pour que les informations pertinentes soient affichées correctement.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -65,10 +65,10 @@
                         <div class="inner-content">
                             <i class="icon-Code-Window colored-text"></i>
 
-                            <h4>4. Code Propre</h4>
+                            <h4>4. Logiciels de Gestion de Contenu</h4>
 
                             <p class="text-grey">
-                                Je suis sérieux en écrivant seulement du code HTML5, CSS3 et PHP7 le plus propre et à jour. Mon code est correctement dentélé et il suit les standards établis par le W3C.
+                                Après avoir travaillé avec toute une gamme de logiciels de gestion de contenu tels que WordPress, Drupal et DotNetNuke, je sais bien organiser et gérer l'apparence front-end ainsi que les bases de données qui font tourner le site.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,10 +79,10 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Contenu Web</h4>
+                            <h4>5. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                Je connais bien la gestion du contenu Web. J'emploie plusiers CMS au quotidien et j'ai établi un site de communauté sur une installation multi-site de WordPress pour mon association.
+                                La stratégie numérique est au cœur de mes responsabilités à Project HOPE. Mon but est de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gestion de Projet</h4>
 
                             <p class="text-grey">
-                                À mon emploi actuel, je gère la transition de notre site Web sur une nouvelle plateforme. C'est important pour moi de bien faire les négociations avec notre entrepreneur et de travailler étroitement avec nos autres départements pour que leurs avis soient pris en considération.
+                                Aujourd'hui, j'ai géré la transition du site Web à Project HOPE. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même page en prenant en compte leurs visions et commentaires.
                             </p>
                         </div>
                         <!-- //.inner-content -->

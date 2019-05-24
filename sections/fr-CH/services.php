@@ -40,7 +40,7 @@
                             <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Dans mon ancienne carrière, je travaillais en tant qu'animateur à la télé et monteur de vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
+                                Aux postes précedents, je travaillais en tant qu'animateur à la télé et monteur des vidéos. J'ai realisé mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -51,10 +51,10 @@
                         <div class="inner-content">
                             <i class=" icon-Email colored-text"></i>
 
-                            <h4>3. E-mails de Marketing</h4>
+                            <h4>3. Courrier Électronique</h4>
 
                             <p class="text-grey">
-                                En comprenant que le design de courrier eléctronique n'est pas pareil que celui du Web, je suis compétent avec le code &laquo;obsolète&raquo; du HTML et du CSS. De plus, j'ai une connaissance approfondie des applications e-mail.
+                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je sais très bien écrire les bulletins de marketing. Je sais comment tout organiser pour que les informations pertinentes soient affichées correctement.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -79,7 +79,7 @@
                         <div class="inner-content">
                             <i class="icon-Cursor-Click2 colored-text"></i>
 
-                            <h4>5. Contenu Web</h4>
+                            <h4>5. Logiciels de Gestion de Contenu</h4>
 
                             <p class="text-grey">
                                 WordPress, Drupal et DotNetNuke sont les logiciels que je connais bien. Avec mon équipe, j'ai créé un site communautaire sous une installation multi-site de WordPress et je gère le site principal de mon association avec les modules fournies par DotNetNuke.
@@ -93,10 +93,10 @@
                         <div class="inner-content">
                             <i class="icon-First-Aid colored-text"></i>
 
-                            <h4>6. Gestion de Project</h4>
+                            <h4>6. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                À mon poste actuel, je gère présentement la transition de notre site Web. C'est ma responsabilité de colaborer avec toutes nos équipes pour qu'elles soient bien entendues et négocier les contrats avec notre entrepreneur.
+                                La stratégie numérique est au cœur de mes responsabilités à Project HOPE. Mon but est de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->

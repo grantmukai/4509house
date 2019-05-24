@@ -26,7 +26,7 @@
                         <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <p>Loi Européenne sur la vie privée : Ce site emploi des cookies pour se souvenir que vous préférez la version française de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+                                <p>Loi européenne sur la vie privée : Ce site emploi des cookies pour se souvenir que vous préférez la version française de ce site. En visitant mon site, vous acceptez que les cookies aillent être stockés sur votre ordinateur. Aucune information personnelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
 
                                 <img src="/assets/images/drapeaux/fr.png" alt="Drapeau de la France" class="drapeaux" />
 
@@ -37,13 +37,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques pour <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le gérant principal des communications numériques pour <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogs et je cherche activement des développements dans le monde par rapport à la santé mondiale.
+                                    Je travaille à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogues et je cherche activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">
@@ -51,7 +51,7 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai travaillé aussi à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    J'ai travaillé aussi à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
@@ -59,7 +59,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Lindy Hop et le Zouk Brésilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
+                                    Je passe mon temps libre dans les salles de bal en dansant le Blues, le Lindy Hop et le Zouk brésilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires dans certaines villes françaises telles que Paris et Toulouse.
                                 </p>
 								
                                 <p class="text-grey">
@@ -100,6 +100,10 @@
                                     $boutonTelechargerWeb = "Télécharger CV Communication Numériques";
                                     $boutonTelechargerCom = "Télécharger CV Relations Publiques";
                                     $cvMiseajour = "Indisponible";
+                                    $IdTelechargerWebDoc = "webdoccvfrfr";
+                                    $IdTelechargerWebPdf = "webpdfcvfrfr";
+                                    $IdTelechargerComDoc = "comdoccvfrfr";
+                                    $IdTelechargerComPdf = "compdfcvfrfr";
 									/*$nomFamille = "Martin";*/
 									include 'profil_base.php';
                                 ?>

@@ -29,17 +29,17 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant Kiyoshi MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes collèagues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données SQL, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes collègues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'Ecole McDonough de commerce</a> à l'Université Georgetown à Washington (mi-atlantique) et à <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieu en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington (mi-atlantique) et à <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieu en développant des e-mails de marketing.
                                 </p>
 								
                                 <p class="text-grey">
@@ -88,6 +88,10 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Indisponible";
+                                $IdTelechargerWebDoc = "webdoccvfrch";
+                                $IdTelechargerWebPdf = "webpdfcvfrch";
+                                $IdTelechargerComDoc = "comdoccvfrch";
+                                $IdTelechargerComPdf = "compdfcvfrch";
 								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
 								?>

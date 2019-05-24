@@ -33,12 +33,12 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Mukai (Kiyoshi en français) and I am the Senior Digital Communications Manager at <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland, United States of America.
+                                    My name is Grant Mukai and I am the Senior Digital Communications Manager at <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>I work in Web content strategy where I led our website transition and I also write blog articles and press releases for online publication while optimising our site for SEO and our fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>I work in Web content strategy where I led our website transition and I also write blog articles and press releases for online publication while formulating our Web content strategy for SEO optimization and our fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
                                 <p>Prior to joining Project HOPE, I worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I also managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 
@@ -89,6 +89,10 @@
                                 $boutonTelechargerWeb = "Download Web CV";
                                 $boutonTelechargerCom = "Download Communications CV";
 								$cvMiseajour = "Unavailable";
+                                $IdTelechargerWebDoc = "webdoccvenca";
+                                $IdTelechargerWebPdf = "webpdfcvenca";
+                                $IdTelechargerComDoc = "comdoccvenca";
+                                $IdTelechargerComPdf = "compdfcvenca";
                                 /*$nomFamille = "Baker";*/
                                 include "profil_base.php";
                                 ?>

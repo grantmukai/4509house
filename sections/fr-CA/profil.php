@@ -31,16 +31,16 @@
 
                                 <br /> 
 
-			<h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
                                 </p>
 
-                                <span class="divider"></span>
+                                    <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la transition de notre site Web ainsi que la stratégie de nos communications numériques telles que les communiqués de presse et la publication et l'organisation de notre contenu en ligne.
+                                    Je suis responsable de la stratégie de nos communications numériques pour bien cibler nos internautes et organiser les renseignements disponibles sur notre site Web.
                                 </p>
 
                                 <p class="text-grey">
@@ -48,11 +48,11 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale <em>(SAMHSA en anglais)</em> et les Instituts nationaux de la santé <em>(NIH en anglais)</em>. J'ai aussi rédigé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau <em>(NIAMS en anglais)</em>.
+                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature française.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
@@ -97,6 +97,10 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Indisponible";
+                                $IdTelechargerWebDoc = "webdoccvfrca";
+                                $IdTelechargerWebPdf = "webpdfcvfrca";
+                                $IdTelechargerComDoc = "comdoccvfrca";
+                                $IdTelechargerComPdf = "compdfcvfrca";
                                 /*$nomFamille = "Turcotte";*/
                                 include "profil_base.php";
                                 ?>

@@ -27,7 +27,7 @@
 </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <p>Loi Européenne sur les Cookies : Ce site emploi des cookies pour se souvenir que vous préférez la version belge de ce site. En visitant mon site, vous acceptez que les cookies vont être stockés sur votre ordinateur. Aucune information personelle n'est rapportée. Pour toute question concernant l'usage des cookies, veuillez <a href='#contact'>me contacter</a>.</p>
+                                <p>Loi européenne sur les témoins de connexion (cookies) : Ce site emploi des témoins de connexions (cookies) pour se souvenir que vous préférez la version belge de ce site. En visitant mon site, vous acceptez que les témoins de connexion (cookies) aillent être stockés sur votre ordinateur. Aucune information personnelle n'est rapportée. Pour toute question concernant l'usage des témoins de connexion (cookies), veuillez <a href='#contact'>me contacter</a>.</p>
 
                                 <img src="/assets/images/drapeaux/be.png" alt="Drapeau de la Belgique" class="drapeaux" />
 
@@ -38,7 +38,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique et partout dans le monde.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -48,15 +48,15 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieu en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de la santé &mdash; deux agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de santé &mdash; deux agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je passe mon temps libre dans les studios de danse en dansant le Blues, le Lindy Hop et le Zouk Brasilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire des nouvelles rencontres lors des événements culturels aux États-Unis.
+                                    Je passe mon temps libre dans les studios de danse en dansant le Blues, le Lindy Hop et le Zouk Brasilien - trois styles de danse qui sont populaires en Amérique du Nord, maintenant rendus aussi populaires à Bruxelles avec BRUX <em lang="en-CA">(The Brussels Lindy Exchange)</em>. J'aime aussi faire de nouvelles rencontres lors des événements culturels aux États-Unis.
                                 </p>
 								
                                 <p class="text-grey">
@@ -97,6 +97,10 @@
 								$boutonTelechargerWeb = "Télécharger CV Web";
 								$boutonTelechargerCom = "Télécharger CV Communications";
 								$cvMiseajour = "Indisponible";
+                                $IdTelechargerWebDoc = "webdoccvfrbe";
+                                $IdTelechargerWebPdf = "webpdfcvfrbe";
+                                $IdTelechargerComDoc = "comdoccvfrbe";
+                                $IdTelechargerComPdf = "compdfcvfrbe";
 								/*$nomFamille = "Martin";*/
 								include "profil_base.php";
                                 ?>
