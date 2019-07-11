@@ -6,8 +6,8 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
-                        <h4 class="title">Grant MUKAÏ</h4>
+                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukaï" class="img-responsive"/>
+                        <h4 class="title">Kiysohi MUKAÏ</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -54,10 +54,10 @@
                                     Bien à vous,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKAÏ
+                                    Kiyoshi MUKAÏ
                                 </p>
 								
                             </div>
@@ -74,7 +74,7 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant MUKAÏ</li>
+                                    <li>Kiyoshi MUKAÏ</li>
                                     <li>Washington, District de Columbia, États-Unis</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>

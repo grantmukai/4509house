@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant MUKAÏ</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Kiyoshi MUKAÏ</a>
         </div>
         <!-- //.navbar-header -->
         
