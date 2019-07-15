@@ -8,9 +8,9 @@
                 
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant MUKAÏ" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Kiyoshi MUKAÏ" class="img-responsive"/>
                         
-                        <h4 class="title">Grant MUKAÏ</h4>
+                        <h4 class="title">Kiyoshi MUKAÏ</h4>
                         
                     </div>
                 </div>
@@ -35,7 +35,7 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Grant MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
                                     Je m'appelle Grant Kiyoshi MUKAÏ et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
@@ -63,10 +63,10 @@
                                     Veuillez recevoir l'assurance de mes sentiments les meilleurs,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant MUKAÏ' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi MUKAÏ' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant MUKAÏ
+                                    Kiyoshi MUKAÏ
                                 </p>
 								
                             </div>
@@ -83,7 +83,7 @@
                                 <h4>Contact</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant MUKAÏ</li>
+                                    <li>Kiyoshi MUKAÏ</li>
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>+001 202 656 8317</li>
                                     <li>bonjour@grantmukai.com</li>
