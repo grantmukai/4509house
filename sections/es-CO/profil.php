@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai</h4>
+                        <h4 class="title">Kiyoshi Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -30,7 +30,7 @@
 
                                 <br />
 
-                                <h2 style="clear:both;" class="section-title">Hola, me llamo Grant Kiyoshi Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
                                     Mi nombre es Grant Kiyoshi Mukai y soy el Gerente Senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en el Estados Unidos de América.
@@ -40,7 +40,7 @@
 
                                 <p>Actualmente me encuentro gestionando la transición de nuestro sitio Web y escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
                                 
-                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fue responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. He realizado estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
                                 <p>Trabajé también en la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en el estado vecino desarrollando boletines electrónicos.</p>
 
@@ -52,10 +52,10 @@
                                     Cordialemente,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Firma de Kiyoshi Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai
+                                    Kiyoshi Mukai
                                 </p>
 								
                             </div>
@@ -72,7 +72,7 @@
                                 <h4>Detalles de contacto</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Mukai</li>
+                                    <li>Kiyoshi Mukai</li>
                                     <li>Washington, Distrito de Columbia, EEUU</li>
                                     <li>+1 202 656 8317</li>
                                     <li>hola@grantmukai.com</li>
