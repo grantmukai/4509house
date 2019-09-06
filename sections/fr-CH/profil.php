@@ -7,7 +7,7 @@
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukaï" class="img-responsive"/>
-                        <h4 class="title">Kiysohi MUKAÏ</h4>
+                        <h4 class="title">Kiyoshi MUKAÏ</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
