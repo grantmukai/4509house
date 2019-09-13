@@ -39,7 +39,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy such as press releases and blog posts which showcase the work of our field offices in over 25 countries.</p>
+                                <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy in order to increase our brand awareness and organic search.</p>
 
                                 <p>Before joining Project HOPE, I worked for the <a href="http://www.apsanet.org">American Political Science Association</a> where I helped manage our association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
