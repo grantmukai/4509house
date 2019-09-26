@@ -40,7 +40,7 @@
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la stratégie de nos communications numériques pour améliorer notre recherche organique et organiser les renseignements disponibles sur notre site Web.
+                                    Je suis responsable de la stratégie de nos communications numériques pour améliorer notre recherche organique et organiser les renseignements disponibles sur notre site Web. Nous nous concentrons sur l’aide d'urgence relative aux catastrophes naturelles et à la santé mondiale. J’ai dirigé la transition de notre site Web et je suis en train de gérer la stratégie de notre contenu Web pour souligner nos programmes autour du monde et assister nos collectes de fonds.
                                 </p>
 
                                 <p class="text-grey">
