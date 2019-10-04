@@ -41,6 +41,10 @@
 
                                 <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy in order to increase our brand awareness and organic search.</p>
 
+                                <li>As someone who was challenged with increasing our brand awareness and organic search results, I used Google Analytics, SEMrush and a few other SEO tools to track industry trends and keep up on our peers’ Web activities.</li>
+
+                                <li>What sets me apart from others in the Web content space is my journalism background. I studied journalism at Boston University before working as a journalist and then going into non-profit work. Working with breaking news and in disaster response are very high-stakes environments with pressing deadlines so I can handle just about any project thrown at me.</li>
+
                                 <p>Before joining Project HOPE, I worked for the <a href="http://www.apsanet.org">American Political Science Association</a> where I helped manage our association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
                                 <p>Previously, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, creating email newsletters and updating websites. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
