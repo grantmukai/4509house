@@ -38,7 +38,11 @@
 
                                 <span class="divider"></span>
 
-                                <p>I work in Web content strategy where I led our website transition and I also write blog articles and press releases for online publication while formulating our Web content strategy for SEO optimization and our fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy in order to increase our brand awareness and organic search.</p>
+
+                                <li>As someone who was challenged with increasing our brand awareness and organic search results, I used Google Analytics, SEMrush and a few other SEO tools to track industry trends and keep up on our peers’ Web activities.</li>
+
+                                <li>What sets me apart from others in the Web content space is my journalism background. I studied journalism at Boston University before working as a journalist and then going into non-profit work. Working with breaking news and in disaster response are very high-stakes environments with pressing deadlines so I can handle just about any project thrown at me.</li>
 
                                 <p>Prior to joining Project HOPE, I worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I also managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 

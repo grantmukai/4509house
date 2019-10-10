@@ -39,6 +39,10 @@
                                 <span class="divider"></span>
 
                                 <p>Actualmente, gestioné la transición de nuestro sitio Web y estoy escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo. Estoy tamibién responsable de la conceptualización de nuestra estrategia Web para mejorar la usabilidad de nuestro sitio y aumentar el busco orgánico.</a>
+
+                                <p>Como alguien que tenía el desafío de aumentar nuestra marca y resultados de busco orgánico, utilicé Google Analytics, SEMrush y otras herramientas para seguir lo que estaba pasando en la industria y conocer mejor las actividades de otras organizaciones similares.</p>
+
+                                <p>Yo soy un poco diferente de los otros en el espacio de contenido Web porque hizo mis estudios en periodismo a la Universidad de Boston antes de trabajar como periodista y después tomar trabajo sin fines de lucro. Trabajar con las actualidades mientras que respondamos a desastres naturales es muy estresante con limites inmediatas para varios proyectos al mismo tiempo. Entonces, estoy capaz a gestionar cualquier tipo de proyecto.</p>
                                 
                                 <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
