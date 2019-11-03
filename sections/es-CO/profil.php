@@ -33,16 +33,16 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Gerente Senior de Comunicaciones Digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en el Estados Unidos de América.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Desarrollador de e-mails de marketing para <a href='https://www.hrc.org'>la Compaña de Derechos Humanos</a> en el Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Actualmente me encuentro gestionando la transición de nuestro sitio Web y escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo.</a>
+                                <p>Antes de unirme a la Compaña de Derechos Humanos, trabajé para Project HOPE, una organización de salud mundial.</a>
                                 
-                                <p>Antes de unirme a Project HOPE, trabajé para la <a href="http://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>Trabajé también para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
-                                <p>Trabajé también en la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en el estado vecino desarrollando boletines electrónicos.</p>
+                                <p>Tengo otras experiencials profesionales que gañó a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en el estado vecino desarrollando boletines electrónicos.</p>
 
                                 <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='http://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
