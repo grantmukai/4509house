@@ -34,25 +34,25 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant Web à la <a href='https://www.aps.org/'>Société physique américaine</a> au Maryland aux États-Unis.
                                 </p>
 
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable de la stratégie de nos communications numériques pour améliorer notre recherche organique et organiser les renseignements disponibles sur notre site Web. Nous nous concentrons sur l’aide d'urgence relative aux catastrophes naturelles et à la santé mondiale. J’ai dirigé la transition de notre site Web et je suis en train de gérer la stratégie de notre contenu Web pour souligner nos programmes autour du monde et assister nos collectes de fonds.
+                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à Project HOPE, je travaillais pour <a href="http://www.apsanet.org">l'Association américaine de science politique</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à ma société actuelle, je travaillais pour <a href="https://www.projecthope.org">Project HOPE</a> où je gérais la statégie du contenu de notre site principal qui incluait l'augementation de notre recherche organique et le suivi des analytiques du site et le comportement de nos visiteurs.
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> à Rockville, Maryland, en développant des courriels de marketing.
+                                    J'ai aussi obtenu mes expériences numériques à <a href="https://www.apsanet.org">l'Association américaine de science politique</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
