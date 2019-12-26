@@ -33,16 +33,14 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am the Senior Digital Communications Manager at <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland, United States of America.
+                                    My name is Grant Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>I work in Web content strategy where I led our website transition and I also write blog articles and press releases for online publication while formulating our Web content strategy for SEO optimization and our fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>Prior to working at APS, I work in Web content strategy where I led the website transition for Project HOPE and I also wrote blog articles and press releases for online publication while formulating the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
-                                <p>Prior to joining Project HOPE, I worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I also managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
-
-                                <p>Previous positions included working at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a>, in the District of Columbia, and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, developing email newsletters. Some of the healthcare clients I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
+                                <p>I also worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 

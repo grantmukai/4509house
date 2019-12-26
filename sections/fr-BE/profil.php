@@ -38,21 +38,21 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le gérant principal des communications numériques à <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le producteur et gérant Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                Avant de me joindre à Project HOPE, j'ai travaillé pour l'Association américaine de science politique où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Chez ma société actuelle, je m'occupe de la stratégie du contenu Web et structure pour les sites tenus par la Société ainsi que plusieurs autres projets numériques.
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai aussi travaillé à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de santé &mdash; deux agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    Avant de me joindre à la Société, je travaillais sur la statégie de contenu pour une organisation en aide humanitaire et j'ai aussi travaillé pour l'Association américaine de science politique. C'est là où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
-								
+
                                 <p class="text-grey">
-                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature françaises.
+                                    Je détiens un bachelier (diplôme de quatre ans) en journalisme télévisé de <a href='https://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">

@@ -34,16 +34,18 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am the Senior Digital Communications Manager for <a href='http://www.projecthope.org'>Project HOPE</a> in Maryland.
+                                    My name is Grant Mukai and I am the Managin Web Producer for the <a href='https://www.aps.org'>American Physical Society</a> in Maryland.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>At Project HOPE, I was responsible for leading the transition of our website to a WordPress platform and now manage our online content strategy in order to increase our brand awareness and organic search.</p>
+                                <p>At APS, I am responsible for content strategy and design and structure propositions concerning a few physiques websites and I assist our marketing team with Web content updates.</p>
 
-                                <p>Before joining Project HOPE, I worked for the <a href="http://www.apsanet.org">American Political Science Association</a> where I helped manage our association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I also served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
+                                <p>Before taking this position, I worked as the Senior Digital Communications Manager at Project HOPE, an international global health organization operating in over 26 countries. While at Project HOPE, I successfully managed the transition of our new website and then managed our content strategy to increase our organic search and direct response fundraising.</p>
 
-                                <p>Previously, I worked at both the <a href='http://msb.georgetown.edu'>Georgetown University McDonough School of Business</a> in Washington and <a href='http://www.iqsolutions.com'>iQ Solutions</a> in Rockville, Maryland, creating email newsletters and updating websites. Some of the healthcare agencies I worked for include the Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institutes of Health (NIH). I have also produced and updated English and Spanish webpages for the National Institutes of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).</p>
+								<p>What sets me apart from others in the Web content space is my journalism background. I studied journalism at Boston University before working as a journalist and then going into non-profit work. Working with breaking news and in disaster response are very high-stakes environments with pressing deadlines so I can handle just about any project thrown at me.</p>
+
+                                <p>I've also worked for the <a href="http://www.apsanet.org">American Political Science Association</a> where I helped manage the association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
                                 <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 

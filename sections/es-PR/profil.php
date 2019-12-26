@@ -35,21 +35,17 @@
                                 <h2 style="clear:both;" class="section-title">Hola, mi nombre es Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Gerente senior de comunicaciones digitales para <a href='http://www.projecthope.org'>Project HOPE</a> en Maryland. Es esta posición, es mi responsibilidad de conceptualizar la estrategia de comunicaciones en nuestro sitio para aumentar nuestro noviazgo.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en Maryland. Es esta posición, es mi responsibilidad de conceptualizar la estrategia de contenido para los sitios bajo la sociedad.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Antes de unirme a Project HOPE, estaba trabajando en el Departamento de marketing y comunicaciones dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
-                                </p>
-
-                                <p class="text-grey">
-                                    Trabajé también en la <a href='http://www.msb.edu'>Escuela de negocios McDonough</a> de la Universidad Georgetown en Washington y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en Rockville, Maryland, desarrollando boletines electrónicos. Algunos clientes del sector salud para quiénes trabajé incluyen la Administración de Salud Mental y Abuso de Sustancias de los E.E.U.U. <em>(SAMHSA por sus siglas en inglés)</em> y los Institutos Nacionales de Salud <em>(NIH por sus siglas en inglés)</em>. Asimismo, creé y actualicé páginas Web en inglés y en español para el Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel <em>(NIAMS por sus siglas en inglés)</em>.
+                                    Antes de unirme a APS, estaba trabajando para Project HOPE gestionando el contenido estrat&eacute;gico y apoyando los esfuerzos de colectos de fondos. Trabajé también a la Asociación estadounidense de ciencia política dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='http://www.bu.edu/com'>Facultad de comunicaci&oacute;n</a> de la Universidad de Boston con un menor en lengua y literatura francesas.
+                                    Obtuve mi bacherillato en periodismo televisivo en la <a href='https://www.bu.edu/com'>Facultad de comunicaci&oacute;n</a> de la Universidad de Boston con un menor en lengua y literatura francesas.
                                 </p>
 								
                                 <p class="text-grey">

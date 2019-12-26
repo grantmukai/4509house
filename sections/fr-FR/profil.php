@@ -37,21 +37,17 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAÏ (Grant en Amérique du Nord) et je suis le gérant principal des communications numériques pour <a href='http://www.projecthope.org/'>Project HOPE</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAÏ (Grant en Amérique du Nord) et je suis le Producteur et gérant Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je travaille à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et gère nos chaînes sur les réseaux sociaux. Je rédige et révise aussi des articles de blogues et je cherche activement des développements dans le monde par rapport à la santé mondiale.
+                                    Avant de me joindre à la Société américaine de physique, je travaillais à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et j'ai géré nos chaînes sur les réseaux sociaux. J'ai rédigé et révisé aussi des articles de blogues et j'ai cherché activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à Project HOPE, j'ai travaillé à l'Association américaine de science politique où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
-                                </p>
-
-                                <p class="text-grey">
-                                    J'ai travaillé aussi à <a href='http://msb.georgetown.edu'>l'École McDonough de commerce</a> à l'Université Georgetown à Washington et <a href='http://www.iqsolutions.com'>iQ Solutions</a> en banlieue en développant des e-mails de marketing. Quelques clients de santé pour lesquels j'ai travaillé ont compris l'Administration pour abus des stupéfiants et services santé mentale et les Instituts nationaux de santé &mdash; des agences gouvernementales américaines. J'ai aussi réalisé et mis à jour des pages Web en anglais et en espagnol pour les Instituts nationaux de l'arthrite, affections musculo-squelettiques et maladies de la peau.
+                                    J'ai gagné d'autres expériences professionelles en travaillant à l'Association américaine de science politique où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 								
                                 <p class="text-grey">
