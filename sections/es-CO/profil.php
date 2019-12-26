@@ -33,18 +33,16 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Desarrollador de e-mails de marketing para <a href='https://www.hrc.org'>la Compaña de Derechos Humanos</a> en el Estados Unidos de América.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente de contenido Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en el Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Antes de unirme a la Compaña de Derechos Humanos, trabajé para Project HOPE, una organización de salud mundial.</a>
+                                <p>Antes de unirme a la Sociedad, trabajé para Project HOPE, una organización de salud mundial.</a>
                                 
                                 <p>Trabajé también para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
-                                <p>Tengo otras experiencials profesionales que gañó a la <a href='http://www.msb.edu'>Escuela McDonough de negocios</a> de la Universidad Georgetown en la ciudad capital de mi país y <a href='http://www.iqsolutions.com'>iQ Solutions</a> en el estado vecino desarrollando boletines electrónicos.</p>
-
-                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='http://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
+                                <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='https://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
                                 <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que practico son el Lindy Hop, Blues y Zouk Brasileño. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
 								
