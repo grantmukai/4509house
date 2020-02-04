@@ -35,7 +35,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, mi nombre es Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en Maryland. Es esta posición, es mi responsibilidad de conceptualizar la estrategia de contenido para los sitios bajo la sociedad.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en Maryland. Es esta posición, es mi responsibilidad de conceptualizar la estrategia de contenidos para los sitios bajo la sociedad.
                                 </p>
 
                                 <span class="divider"></span>
