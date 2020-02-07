@@ -37,7 +37,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAÏ (Grant en Amérique du Nord) et je suis le Producteur et gérant Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAÏ (Grant en Amérique du Nord) et je suis le Producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -47,11 +47,11 @@
                                 </p>
 
                                 <p class="text-grey">
-                                    J'ai gagné d'autres expériences professionelles en travaillant à l'Association américaine de science politique où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    J'ai gagné d'autres expériences professionelles en travaillant à <a href="https://www.apsanet.org">l'Association américaine de science politique</a> où j'ai aidé mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un BAC+4 (diplôme de premier cycle) en journalisme télévisé à <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un BAC + 4 (diplôme de premier cycle) en journalisme télévisé à <a href='https://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
