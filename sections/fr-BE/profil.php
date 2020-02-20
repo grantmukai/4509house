@@ -21,10 +21,10 @@
                     <!-- DÉBUT TEXTE PROFIL -->
                     <div class="profile-text padding-left-yes">
                                 <div class="btn-group">
-  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
-  <span class="caret"></span></button>
-<?php require "pays.php"; ?>
-</div>
+                                  <button class="btn btn-md btn-custom dropdown-toggle" type="button" data-toggle="dropdown">Choisissez Votre Pays
+                                  <span class="caret"></span></button>
+                                <?php require "pays.php"; ?>
+                                </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <p>Loi européenne sur les témoins de connexion (cookies) : Ce site emploi des témoins de connexions (cookies) pour se souvenir que vous préférez la version belge de ce site. En visitant mon site, vous acceptez que les témoins de connexion (cookies) aillent être stockés sur votre ordinateur. Aucune information personnelle n'est rapportée. Pour toute question concernant l'usage des témoins de connexion (cookies), veuillez <a href='#contact'>me contacter</a>.</p>
@@ -38,7 +38,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ<br />Hallo, mijn naam is Grant Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le producteur et gérant Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
                                 </p>
 
                                 <span class="divider"></span>
