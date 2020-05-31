@@ -93,7 +93,7 @@
 
                             <div class="col-sm-6 col-md-7">
                                 <?php
-                                    $boutonTelechargerWeb = "Télécharger CV Communication Numériques";
+                                    $boutonTelechargerWeb = "Télécharger CV Communications Numériques";
                                     $boutonTelechargerCom = "Télécharger CV Relations Publiques";
                                     $cvMiseajour = "Indisponible";
                                     $IdTelechargerWebDoc = "webdoccvfrfr";
