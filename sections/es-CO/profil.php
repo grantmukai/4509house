@@ -33,14 +33,14 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente de contenido Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en el Estados Unidos de América.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en el Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p>Antes de unirme a la Sociedad, trabajé para Project HOPE, una organización de salud mundial.</a>
                                 
-                                <p>Trabajé también para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>Trabajé también para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realicé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
                                 <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='https://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
