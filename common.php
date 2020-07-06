@@ -59,25 +59,15 @@ switch ($lang) {
   $lang_actuelle = 'fr-CH';
   $lang_sanstraitdunion = 'frCH';
   break;
-
-  case 'es-ES':
-  $lang_actuelle = 'es-ES';
-  $lang_sanstraitdunion = 'esES';
-  break;
   
   case 'fr-BE':
   $lang_actuelle = 'fr-BE';
   $lang_sanstraitdunion = 'frBE';
   break;
 
-  case 'es-CL':
-  $lang_actuelle = 'es-CL';
-  $lang_sanstraitdunion = 'esCL';
-  break;
-
-  case 'es-UY':
-  $lang_actuelle = 'es-UY';
-  $lang_sanstraitdunion = 'esUY';
+  case 'es-CO':
+  $lang_actuelle = 'es-CO';
+  $lang_sanstraitdunion = 'esCO';
   break;
    
   default:
