@@ -34,7 +34,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société physique américaine</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis.
                                 </p>
 
                                     <span class="divider"></span>
