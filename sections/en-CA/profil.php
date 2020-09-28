@@ -38,7 +38,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>I conceptualize Web content strategy and designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up to date and I assist the marketing team with promoting their events.
+                                <p>I conceptualize Web content strategy and designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up to date and I assist the marketing team with promoting their events.</p>
 
                                 <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while formulating the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
