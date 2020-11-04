@@ -29,13 +29,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant Kiyoshi MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Producteur et gérant Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique. Je m'occupe de la stratégie Web et l'expérience d'internaute pour plusieurs sites de physique.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à ma société actuelle, je travaillais pour Project HOPE, une organisation à but non-lucrative qui fournit de l'aide humanitaire partout au monde. J'ai aussi travaillé à l'Association américaine de science politique où j'ai aidé mes collègues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à ma société actuelle, je travaillais pour Project HOPE, une organisation à but non-lucratif qui fournit de l'aide humanitaire partout au monde. J'ai aussi travaillé à <a href="https://www.apsanet.org">l'Association américaine de science politique</a> où j'ai aidé mes collègues à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 								
                                 <p class="text-grey">

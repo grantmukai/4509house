@@ -34,20 +34,20 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am the Managin Web Producer for the <a href='https://www.aps.org'>American Physical Society</a> in Maryland.
+                                    My name is Grant Mukai and I am the Managing Web Producer for the <a href='https://www.aps.org'>American Physical Society</a> in Maryland.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>At APS, I am responsible for content strategy and design and structure propositions concerning a few physiques websites and I assist our marketing team with Web content updates.</p>
+                                <p>At APS, I am responsible for content strategy, design and structure propositions concerning our physics websites and I assist our marketing team with Web content updates. I also work with our clients to better organize their digital content so they can promote the knowledge and teaching of physics and increase ethic diversity within the field.</p>
 
-                                <p>Before taking this position, I worked as the Senior Digital Communications Manager at Project HOPE, an international global health organization operating in over 26 countries. While at Project HOPE, I successfully managed the transition of our new website and then managed our content strategy to increase our organic search and direct response fundraising.</p>
+                                <p>Before taking this position, I worked as the Senior Digital Communications Manager at <a href="https://www.projecthope.org">Project HOPE</a>, an international global health organization operating in over 26 countries. While at Project HOPE, I successfully managed the transition of our new website and then managed our content strategy to increase our organic search and direct response fundraising.</p>
 
 								<p>What sets me apart from others in the Web content space is my journalism background. I studied journalism at Boston University before working as a journalist and then going into non-profit work. Working with breaking news and in disaster response are very high-stakes environments with pressing deadlines so I can handle just about any project thrown at me.</p>
 
-                                <p>I've also worked for the <a href="http://www.apsanet.org">American Political Science Association</a> where I helped manage the association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
+                                <p>I've also worked for the <a href="https://www.apsanet.org">American Political Science Association</a> where I helped manage the association's primary website as well as several WordPress sites devoted to promoting political science and helping the special interest sections organize themselves on the Web. I served as the primary point of contact for our membership database and assisted my team with our social media and email marketing while providing excellent customer service to our members in English, French and Spanish.</p>
 
-                                <p>I am a proud alumnus of Boston University's <a href='http://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
+                                <p>I am a proud alumnus of Boston University's <a href='https://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
                                 <p>In my free time, I can be found dancing Lindy Hop, Blues and Brazilian Zouk - three popular styles of social dance.</p>
 

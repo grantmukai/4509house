@@ -34,13 +34,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant Web à la <a href='https://www.aps.org/'>Société physique américaine</a> au Maryland aux États-Unis.
+                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis.
                                 </p>
 
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société.
+                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérées par la société. Je travaille étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et je planifie l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
                                 </p>
 
                                 <p class="text-grey">
@@ -52,11 +52,11 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé de <a href='http://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé de <a href='https://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk Brésilien - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays.
+                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk Brésilien - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays, et la Capitale-Nationale, une des scènes les plus fortes au Québec.
                                 </p>
 								
                                 <p class="text-grey">

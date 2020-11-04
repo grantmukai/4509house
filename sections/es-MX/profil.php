@@ -33,14 +33,16 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai (Grant en inglés).</h2>
 
                                 <p>
-                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en el estado de Maryland, Estados Unidos de América.
+                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en el estado de Maryland, Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Antes de tomar esta posici&oacute;n, gestioné la transición de nuestro sitio Web y estoy escribiendo comunicados de prensa y artículos para mostrar nuestras programas en el mundo. Estoy tamibién responsable de la conceptualización de nuestra estrategia Web para mejorar la usabilidad de nuestro sitio y aumentar el busco orgánico.</a>
+                                <p>En Sociedad de física, es mi responsabilidad de actualizar el contenido en los sitios Web tomando en cuenta el comportamiento de usuarios para mejorar la organización de la información. Estoy creando también el diseño y la estructura después de analizar el contenido existente y hacer proposiciones sobre como podemos mejor connectar con nuestra audiencia.</p>
+
+                                <p>Antes de tomar esta posici&oacute;n, gestioné la transición de nuestro sitio Web y estaba escribiendo comunicados de prensa y artículos para mostrar las programas en el mundo. Fui también responsable de la conceptualización de la estrategia Web para mejorar la usabilidad del sitio y aumentar el busco orgánico.</a>
                                 
-                                <p>Tambi&eacute;n he trabajado para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Realizé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>Tambi&eacute;n he trabajado para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Realicé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
 
                                 <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='https://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesas.</p>
 
