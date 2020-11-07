@@ -60,7 +60,7 @@ echo "<div class='resume-item'>";
                         echo "<li>{$rang_desc['job']}</li>";
                     }
                     echo "</ul>";
-                /*echo "</p>";  KÉZÉÇA!? */
+                echo "</p>";
             echo "</div>";
             echo "<!-- //.panel-body -->";
         echo "</div>";
