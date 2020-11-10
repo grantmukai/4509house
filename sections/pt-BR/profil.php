@@ -26,7 +26,7 @@
                                 <br />
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="/assets/images/drapeaux/mx.png" alt="Bandera de México" class="drapeaux" />
+                                <img src="/assets/images/drapeaux/br.png" alt="Bandeira do Brasil" class="drapeaux" />
 
                                 <br />
 
@@ -42,9 +42,9 @@
 
                                 <p>Antes de assumir essa posição, gerenciei a transição do nosso site e escrevia comunicados de imprensa e artigos para exibir programas em todo o mundo. Também fui responsável pela conceituação da estratégia da Web para melhorar a usabilidade do site e aumentar a pesquisa orgânica.</a>
                                 
-                                <p>Também trabalhei na <a href="https://www.apsanet.org">Associação Americana de Ciência Política</a>, onde ajudei minha equipe a gerenciar o site público da associação e vários sites WordPress para promover ciência política e seções de interesse especializado na organização de redes. Também fui responsável pelo gerenciamento de banco de dados, análise estatística e geração de formulários de dados. Realizei essas tarefas, oferecendo excelente atendimento ao cliente em inglês, francês e espanhol</p>
+                                <p>Também trabalhei na <a href="https://www.apsanet.org">Associação Americana de Ciência Política</a>, onde ajudei minha equipe a gerenciar o site público da associação e vários sites WordPress para promover ciência política e seções de interesse especializado na organização de redes. Também fui responsável pelo gerenciamento de banco de dados, análise estatística e geração de formulários de dados. Realizei essas tarefas, oferecendo excelente atendimento ao cliente em inglês, francês e espanhol.</p>
 
-                                <p>Eu me formei em jornalismo televisivo após quatro anos de estudo na <a href='https://www.bu.edu/com'> Escola de Comunicação </a> da Universidade de Boston, com especialização em idioma e literatura francesas.</p>
+                                <p>Eu me formei em jornalismo televisivo após quatro anos de estudo na <a href='https://www.bu.edu/com'> Escola de Comunicação</a> da Universidade de Boston, com especialização em idioma e literatura francesas.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
