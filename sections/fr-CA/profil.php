@@ -40,7 +40,7 @@
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérées par la société. Je travaille étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et je planifie l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
+                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaille étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et je planifie l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
                                 </p>
 
                                 <p class="text-grey">
@@ -87,7 +87,7 @@
                                     <li>Washington, District de Columbia, É.-U.</li>
                                     <li>438-228-0753</li>
                                     <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com</li>
+                                    <li>www.grantmukai.com/quebec</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
