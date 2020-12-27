@@ -38,9 +38,9 @@
 
                                 <span class="divider"></span>
 
-                                <p>I conceptualize Web content strategy and designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up to date and I assist the marketing team with promoting their events.</p>
+                                <p>I formulate Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up to date and I assist the marketing team with promoting their events.</p>
 
-                                <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while formulating the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while leading the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
                                 <p>I also worked for the <a href="https://www.apsanet.org">American Political Science Association</a> where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
 
