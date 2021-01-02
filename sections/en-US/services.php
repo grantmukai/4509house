@@ -82,7 +82,7 @@
                             <h4>5. Web Strategy</h4>
 
                             <p class="text-grey">
-                                Digital strategy is the core of my responsibilities at Project HOPE. My goal is to conceptualize a strategy that brings together our communications, our fundraising efforts and our marketing initiatives to present a united front for our Web presence.
+                                Digital strategy is the core of my responsibilities at APS. And at Project HOPE, my goal was to conceptualize a strategy that could bring together communications, fundraising efforts and marketing initiatives to present a united front for the Web presence.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Project Management</h4>
 
                             <p class="text-grey">
-                                 At my current job, I manage the transition of our website which comprises contract negotiations and working with other departments. I know how to advance projects to meet deadlines and keep everything on track.
+                                 Throughout my career, I've managed several website transitions which comprise contract negotiations and working with other departments. I know how to advance projects to meet deadlines and keep everything on track.
                             </p>
                         </div>
                         <!-- //.inner-content -->

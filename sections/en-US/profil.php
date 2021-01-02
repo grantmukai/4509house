@@ -78,7 +78,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
-                                    <li>Washington, District of Columbia, USA</li>
+                                    <li>Washington, District of Columbia</li>
                                     <li>202-656-8317</li>
                                     <li>hello@grantmukai.com</li>
                                     <li>www.grantmukai.com/usa</li>
