@@ -41,7 +41,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Antes de unirme a APS, estaba trabajando para Project HOPE gestionando el contenido estrat&eacute;gico y apoyando los esfuerzos de colectos de fondos. Trabajé también a la Asociación estadounidense de ciencia política dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, fui responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
+                                    Antes de unirme a APS, estaba trabajando para <a href="https://www.projecthope.org">Project HOPE</a> gestionando el contenido estrat&eacute;gico y apoyando los esfuerzos de colectos de fondos. Trabajé también a la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, era responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
                                 </p>
 								
                                 <p class="text-grey">
@@ -77,7 +77,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
-                                    <li>Washington, Districto de Columbia, EEUU</li>
+                                    <li>Washington, Districto de Columbia</li>
                                     <li>202-656-8317</li>
                                     <li>hola@grantmukai.com</li>
                                     <li>www.grantmukai.com/puertorico</li>

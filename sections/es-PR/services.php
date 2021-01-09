@@ -7,7 +7,7 @@
                     <h2 class="section-title">Lo Que Puedo Hacer</h2>
 
                     <p class="section-subtitle">
-                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer casi la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarme en un proyecto, voy a terminarlo al completo.
+                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer cas&iacute; la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarme en un proyecto, voy a terminarlo al completo.
                     </p>
 
                     <span class="divider center"></span>
@@ -82,7 +82,7 @@
                             <h4>5. Estratégia Digital</h4>
 
                             <p class="text-grey">
-                                La estratégia digital es la corazón de mis responsabilidades a Project HOPE. Mi objectivo es de conceptualizar una estratégia que toma en cuenta nuestras comunicaciones, nuestros esfuerzos de recaudación de fondos y nuestas iniciativas de marketing para presentar una dirección unida de nuestra presencia en las redes.
+                                La estratégia digital es la corazón de mis responsabilidades a mi sociedad actual. Mi objectivo es de conceptualizar una estratégia que toma en cuenta nuestras comunicaciones. En Project HOPE, estaba liderando nuestros esfuerzos de recaudación de fondos y nuestas iniciativas de marketing para presentar una dirección unida de nuestra presencia en las redes.
                             </p>
                         </div>
                         <!-- //.inner-content -->
