@@ -7,7 +7,7 @@
                     <h2 class="section-title">Lo Que Puedo Hacer</h2>
 
                     <p class="section-subtitle">
-                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer casi la mitad, tres cuartos, nueve décimas partes de algo. Si voy a embarcarme en un proyecto, voy a terminarlo al completo.
+                        Me encanta lo que hago. Estoy orgulloso de lo que hago. Y no puedo hacer cas&iacute; la mitad, tres cuartos, o nueve décimas partes de algo. Si voy a embarcarme en un proyecto, voy a terminarlo al completo.
                     </p>
 
                     <span class="divider center"></span>
@@ -54,7 +54,7 @@
                             <h4>3. Correo Electrónico</h4>
 
                             <p class="text-grey">
-                                Compreniendo que la concepción de correo electrónico no es el mismo que la del Web, sé muy bien escribir boletines de marketing. Sé como organisar todo para que las informaciones pertinentes sean desplegadas correctamente.
+                                Entiendo que la concepción de correo electrónico no es el mismo que la del Web, sé muy bien escribir boletines de marketing. Sé como organisar todo para que las informaciones pertinentes sean desplegadas correctamente.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -82,7 +82,7 @@
                             <h4>5. Estratégia Digital</h4>
 
                             <p class="text-grey">
-                                La estratégia digital es la corazón de mis responsabilidades a Project HOPE. Mi objectivo es de conceptualizar une estratégia que toma en cuenta nuestras comunicaciones, nuestros esfuerzos de recaudación de fondos y nuestas iniciativas de marketing para presentar una dirección unida de nuestra presencia en las redes.
+                                La estratégia digital es el corazón de mis responsabilidades a mi sociedad actual. A Project HOPE, mi objectivo fue de conceptualizar une estratégia que tomaba en cuenta las comunicaciones, los esfuerzos de recaudación de fondos y las iniciativas de marketing para presentar una dirección unida de la presencia en las redes.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gesti&oacute;n de Proyecto</h4>
 
                             <p class="text-grey">
-                                A Project HOPE, he gestionado la transici&oacute;n de nuestro sitio Web hasta una nueva plataforma WordPress y s&eacute; bien trabajar con todos los departamentos para que estos equipos permanecen en la misma p&aacute;gina.
+                                He gestionado varias transiciones de sitios Web hasta nuevas plataformas WordPress y s&eacute; bien trabajar con todos los departamentos para que estos equipos permanecen en la misma p&aacute;gina.
                             </p>
                         </div>
                         <!-- //.inner-content -->
