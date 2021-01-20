@@ -43,7 +43,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à la Société américaine de physique, je travaillais à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et j'ai géré nos chaînes sur les réseaux sociaux. J'ai rédigé et révisé aussi des articles de blogues et j'ai cherché activement des développements dans le monde par rapport à la santé mondiale.
+                                    Avant de me joindre à la Société américaine de physique, je travaillais à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et j'ai géré nos chaînes sur les réseaux sociaux. J'ai aussi rédigé et révisé des articles de blogues et j'ai cherché activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">

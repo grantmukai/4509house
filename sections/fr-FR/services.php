@@ -7,7 +7,7 @@
                     <h2 class="section-title">Ce Que Je Fais</h2>
 
                     <p class="section-subtitle">
-                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moitié, trois-quarts, neuf-dixièmes de quelque chose. Si j'embarquerai sur un projet, j'y irai jusqu'au bout.
+                        J'aime ce que je fais. Je suis fier de ce que je fais. Et je ne peux pas faire juste la moitié, trois-quarts ou neuf-dixièmes de quelque chose. Si j'embarquerai sur un projet, j'y irai jusqu'au bout.
                     </p>
 
                     <span class="divider center"></span>
@@ -82,7 +82,7 @@
                             <h4>5. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                La stratégie numérique est au cœur de mes responsabilités à Project HOPE. Mon but est de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
+                                La stratégie numérique est au cœur de mes responsabilités à ma société actuelle. À Project HOPE, mon but était de concevoir une stratégie qui englobe les communications, les efforts de collecte de fond et les initiatives de marketing pour présenter une direction unie pour la présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gestion de projet</h4>
 
                             <p class="text-grey">
-                                Aujourd'hui, j'ai géré la transition du site Web à Project HOPE. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même page en prenant en compte leurs visions et commentaires.
+                                J'ai géré plusieurs transitions de sites Web tout au long de ma carrière. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même page en prenant en compte leurs visions et commentaires.
                             </p>
                         </div>
                         <!-- //.inner-content -->
