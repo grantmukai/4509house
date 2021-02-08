@@ -82,7 +82,7 @@
                             <h4>5. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                La stratégie numérique est au cœur de mes responsabilités à Project HOPE. Mon but est de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
+                                La stratégie numérique est au cœur de mes responsabilités à ma société actuelle. À Project HOPE, mon but était de concevoir une stratégie qui englobe nos communications, nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gestion de Projet</h4>
 
                             <p class="text-grey">
-                                Aujourd'hui, j'ai géré la transition du site Web à Project HOPE. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même page en prenant en compte leurs visions et commentaires.
+                                Durant ma carrière, j'ai dirigé plusieurs sites Web. Ceci est un grand défi parce qu'il faut que je garde toutes nos équipes sur la même page en prenant en compte leurs visions et commentaires.
                             </p>
                         </div>
                         <!-- //.inner-content -->
