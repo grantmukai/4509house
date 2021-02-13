@@ -96,7 +96,7 @@
                             <h4>6. Gesti&oacute;n de Proyecto</h4>
 
                             <p class="text-grey">
-                                A Project HOPE, estoy gestionando la transici&oacute;n de nuestro sitio Web hasta una nueva plataforma WordPress y s&eacute; bien trabajar con todos departamentos para que todos los equipos sean sobre la misma p&aacute;ina.
+                                He gestionado la transici&oacute;n de varios sitios Web hasta una nueva plataforma WordPress y s&eacute; bien trabajar con todos departamentos para que todos los equipos sean sobre la misma p&aacute;ina.
                             </p>
                         </div>
                         <!-- //.inner-content -->
