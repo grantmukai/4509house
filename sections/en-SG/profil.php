@@ -38,9 +38,9 @@
 
                                 <span class="divider"></span>
 
-                                <p>Prior to working at APS, I work in Web content strategy where I led the website transition for Project HOPE and I also wrote blog articles and press releases for online publication while formulating the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p>Prior to working at APS, I work in Web content strategy where I led the website transition for Project HOPE and I also wrote blog articles and press releases for online publication while formulating the Web content strategy for SEO optimisation and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
-                                <p>I also worked for the American Political Science Association where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish.</p>
+                                <p>I also worked for the <a href="https://www.apsanet.org">American Political Science Association</a> where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programmes and research. I managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish.</p>
 
                                 <p>I am a proud alumnus of Boston University's <a href='https://www.bu.edu/com'>College of Communication</a> where I graduated with a degree in Broadcast Journalism and a concentration in French Language and Literature.</p>
 
