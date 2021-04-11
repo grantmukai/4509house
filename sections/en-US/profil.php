@@ -39,7 +39,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>At APS, I am responsible for content strategy, design and structure propositions concerning our physics websites and I assist our marketing team with Web content updates. I also work with our clients to better organize their digital content so they can promote the knowledge and teaching of physics and increase ethic diversity within the field.</p>
+                                <p>At APS, I am responsible for content strategy, design and structure propositions concerning our physics websites and I assist our marketing team with Web content updates. I also work with our clients to better organize their digital content so they can promote the knowledge and teaching of physics and increase ethnic diversity within the field.</p>
 
                                 <p>Before taking this position, I worked as the Senior Digital Communications Manager at <a href="https://www.projecthope.org">Project HOPE</a>, an international global health organization operating in over 26 countries. While at Project HOPE, I successfully managed the transition of our new website and then managed our content strategy to increase our organic search and direct response fundraising.</p>
 
