@@ -94,7 +94,7 @@
                                 $IdTelechargerWebPdf = "webpdfcvespr";
                                 $IdTelechargerComDoc = "comdoccvespr";
                                 $IdTelechargerComPdf = "compdfcvespr";
-				    			/*$nomFamille = "Perez";*/
+				    			$nomFamille = "McKay";
 								include "profil_base.php";	
 								?>
                             </div>
