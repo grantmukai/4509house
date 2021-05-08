@@ -44,7 +44,7 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Chez ma société actuelle, je m'occupe de la stratégie du contenu Web et la structure pour les sites tenus par la Société ainsi que plusieurs autres projets numériques.
+                                    Chez ma société actuelle, je m'occupe de la stratégie du contenu Web et la structure des sites tenus par la Société ainsi que plusieurs autres projets numériques.
                                 </p>
 
                                 <p class="text-grey">
