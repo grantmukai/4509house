@@ -8,7 +8,7 @@
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Grant Mukaï" class="img-responsive"/>
-                        <h4 class="title">Grant Mukaï</h4>
+                        <h4 class="title">Grant Kiyoshi Mukaï</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -66,7 +66,7 @@
 								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Signature de Grant Mukaï' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukaï
+                                    Grant Kiyoshi Mukaï
                                 </p>
 								
                             </div>
@@ -83,9 +83,9 @@
                                 <h4>Coordonnées</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Mukaï</li>
+                                    <li>Grant Kiyoshi Mukaï</li>
                                     <li>Washington, District de Columbia, É.-U.</li>
-                                    <li>438-228-0753</li>
+                                    <li>202-656-8317</li>
                                     <li>bonjour@grantmukai.com</li>
                                     <li>www.grantmukai.com/quebec</li>
                                 </ul>
