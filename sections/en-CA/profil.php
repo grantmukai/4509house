@@ -30,15 +30,15 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Mukai<br />Bonjour, je suis Grant Mukaï</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Kiyoshi Mukai<br />Bonjour, je suis Grant Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
+                                    My name is Grant Kiyoshi Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>I formulate Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up to date and I assist the marketing team with promoting their events.</p>
+                                <p>I formulate Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up-to-date and I review content and analytics to determine how to best promote our programs.</p>
 
                                 <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while leading the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
@@ -57,7 +57,7 @@
                                 <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
                                 
                                 <p class="text-grey">
-                                    Grant Mukai
+                                    Grant Kiyoshi Mukai
                                 </p>
                                 
                             </div>
@@ -74,9 +74,9 @@
                                 <h4>Contact Details</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Mukai</li>
+                                    <li>Grant Kiyoshi Mukai</li>
                                     <li>Washington, District of Columbia, USA</li>
-                                    <li>438-228-0753</li>
+                                    <li>202-656-8317</li>
                                     <li>hello@grantmukai.com</li>
                                     <li>www.grantmukai.com/canada</li>
                                 </ul>
