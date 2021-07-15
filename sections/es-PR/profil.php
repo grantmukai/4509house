@@ -77,7 +77,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Grant Mukai</li>
-                                    <li>Washington, Districto de Columbia</li>
+                                    <li>Washington, Distrito de Columbia</li>
                                     <li>202-656-8317</li>
                                     <li>hola@grantmukai.com</li>
                                     <li>www.grantmukai.com/puertorico</li>
