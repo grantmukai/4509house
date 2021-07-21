@@ -38,7 +38,7 @@
 
                                 <span class="divider"></span>
 
-                                <p>En la Sociedad de física, es mi responsabilidad de actualizar el contenido en los sitios Web tomando en cuenta el comportamiento de los usuarios para mejorar la organización de la información. Estoy creando también el diseño y la estructura después de analizar el contenido existente y hacer proposiciones sobre como podemos connectar con nuestra audiencia en una mejora manera.</p>
+                                <p>En la Sociedad de física, es mi responsabilidad de actualizar el contenido en los sitios Web tomando en cuenta el comportamiento de los usuarios para mejorar la organización de la información. Estoy creando también el diseño y la estructura después de analizar el contenido existente y hacer proposiciones de como podemos connectar con nuestra audiencia en una mejora manera.</p>
 
                                 <p>Antes de tomar esta posici&oacute;n, gestioné la transición de nuestro sitio Web y estaba escribiendo comunicados de prensa y artículos para mostrar las programas en el mundo. Era también responsable de la conceptualización de la estrategia Web para mejorar la usabilidad del sitio y aumentar el busco orgánico.</a>
                                 
