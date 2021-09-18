@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Mukai</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Kiyoshi Mukai</a>
         </div>
         <!-- //.navbar-header -->       
         <div class="navbar-collapse collapse berg-collapse">

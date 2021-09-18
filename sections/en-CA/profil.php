@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant Kiyoshi Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai</h4>
+                        <h4 class="title">Grant Kiyoshi Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
