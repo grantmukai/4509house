@@ -26,10 +26,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Grant Kiyoshi MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour ! Je m'appelle Kiyoshi MUKAÏ<br /><small>Guten Tag, Buongiorno, Allegra</small></h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi MUKAÏ et je suis le Producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique. Je m'occupe de la stratégie Web et l'expérience d'internaute pour plusieurs sites de physique.
+                                    Je m'appelle Kiyoshi MUKAÏ et je suis le Producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique. Je m'occupe de la stratégie Web et l'expérience d'internaute pour plusieurs sites de physique.
                                 </p>
 
                                 <span class="divider"></span>
@@ -73,8 +73,8 @@
                                     <li>Kiyoshi MUKAÏ</li>
                                     <li>Washington, District de Columbia, États-Unis</li>
                                     <li>+001 202 656 8317</li>
-                                    <li>bonjour@grantmukai.com</li>
-                                    <li>www.grantmukai.com/suisse</li>
+                                    <li>bonjour@kiyoshimukai.com</li>
+                                    <li>www.kiyoshimukai.com/suisse</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
