@@ -33,7 +33,7 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en el Estados Unidos de América.
+                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en los Estados Unidos de América.
                                 </p>
 
                                 <span class="divider"></span>
@@ -73,8 +73,8 @@
                                     <li>Kiyoshi Mukai</li>
                                     <li>Washington, Distrito de Columbia, EEUU</li>
                                     <li>+1 202 656 8317</li>
-                                    <li>hola@grantmukai.com</li>
-                                    <li>www.grantmukai.com/colombia</li>
+                                    <li>hola@kiyoshimukai.com</li>
+                                    <li>www.kiyoshimukai.com/colombia</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->

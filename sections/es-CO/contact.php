@@ -32,7 +32,7 @@
 
                         <h2>Kiyoshi <strong>Mukai</strong></h2>
 
-                        <h4 class="text-grey">hola@grantmukai.com</h4>
+                        <h4 class="text-grey">hola@kiyoshimukai.com</h4>
 
                         <span class="divider center"></span>
                     </div>
