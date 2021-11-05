@@ -39,12 +39,14 @@
 
                                 <p>
                                     Je m'appelle Kiyoshi MUKAÏ et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
                                     Chez ma société actuelle, je m'occupe de la stratégie du contenu Web et la structure des sites tenus par la Société ainsi que plusieurs autres projets numériques.
+
                                 </p>
 
                                 <p class="text-grey">

@@ -41,6 +41,7 @@
 
                                 <p>At APS, I am responsible for content strategy, design and structure propositions concerning our physics websites and I work with our clients to better organize their digital content so they can promote the knowledge and teaching of physics and increase ethnic diversity within the field. I also audit content and track analytics to help our stakeholders better leverage their content.</p>
 
+
                                 <p>Before taking this position, I worked as the Senior Digital Communications Manager at <a href="https://www.projecthope.org">Project HOPE</a>, an international global health organization operating in over 26 countries. While at Project HOPE, I successfully managed the transition of our new website and then managed our content strategy to increase our organic search and direct response fundraising.</p>
 
 								<p>What sets me apart from others in the Web content space is my journalism background. I studied journalism at Boston University before working as a journalist and then going into non-profit work. Working with breaking news and in disaster response are very high-stakes environments with pressing deadlines so I can handle just about any project thrown at me.</p>
