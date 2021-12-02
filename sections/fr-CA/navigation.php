@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Grant Kiyoshi Mukaï</a>
+            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Kiyoshi Mukaï</a>
         </div>
         <!-- //.navbar-header -->
         

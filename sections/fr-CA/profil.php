@@ -8,7 +8,7 @@
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
                         <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukaï" class="img-responsive"/>
-                        <h4 class="title">Grant Kiyoshi Mukaï</h4>
+                        <h4 class="title">Kiyoshi Mukaï</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -31,10 +31,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Grant Kiyoshi Mukaï</h2>
+                                <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Grant Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis.
+                                    Je m'appelle Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis.
                                 </p>
 
                                     <span class="divider"></span>
@@ -64,7 +64,7 @@
                                     Cordialement,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Grant Mukaï' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Signature de Kiyoshi Mukaï' class="signature" />
 								
                                 <p class="text-grey">
                                     Kiyoshi Mukaï
@@ -84,8 +84,8 @@
                                 <h4>Coordonnées</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Kiyoshi Mukaï</li>
-                                    <li>Washington, District de Columbia, É.-U.</li>
+                                    <li>Kiyoshi Mukaï</li>
+                                    <li>Washington, District de Columbia, É.-U. et Montréal, Québec, Canada</li>
                                     <li>202-656-8317</li>
                                     <li>bonjour@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com/quebec</li>
