@@ -30,9 +30,9 @@
                         </div>
                         <!-- //.speech-bubble -->
 
-                        <h2>Grant Kiyoshi <strong>Mukai</strong></h2>
+                        <h2>Kiyoshi <strong>Mukai</strong></h2>
 
-                        <h4 class="text-grey">hello@grantmukai.com</h4>
+                        <h4 class="text-grey">hello@kiyoshimukai.com</h4>
 
                         <span class="divider center"></span>
                     </div>

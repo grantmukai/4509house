@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Kiyoshi Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Kiyoshi Mukai</h4>
+                        <h4 class="title">Kiyoshi Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -30,10 +30,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hello, I'm Grant Kiyoshi Mukai<br />Bonjour, je suis Grant Kiyoshi Mukaï</h2>
+                                <h2 style="clear:both;" class="section-title">Hello, I'm Kiyoshi Mukai<br />Bonjour, je suis Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    My name is Grant Kiyoshi Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
+                                    My name is Kiyoshi Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
                                 </p>
 
                                 <span class="divider"></span>
@@ -54,10 +54,10 @@
                                     Sincerely,
                                 </p>
                                 
-                                <img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Grant Mukai&apos;s Signature' class="signature" />
+                                <img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Kiyoshi Mukai&apos;s Signature' class="signature" />
                                 
                                 <p class="text-grey">
-                                    Grant Kiyoshi Mukai
+                                    Kiyoshi Mukai
                                 </p>
                                 
                             </div>
@@ -74,11 +74,11 @@
                                 <h4>Contact Details</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Kiyoshi Mukai</li>
-                                    <li>Washington, District of Columbia, USA</li>
+                                    <li>Kiyoshi Mukai</li>
+                                    <li>Washington, District of Columbia, USA and Montréal, Québec, Canada</li>
                                     <li>202-656-8317</li>
-                                    <li>hello@grantmukai.com</li>
-                                    <li>www.grantmukai.com/canada</li>
+                                    <li>hello@kiyoshimukai.com</li>
+                                    <li>www.kiyoshimukai.com/canada</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
