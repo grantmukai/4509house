@@ -33,12 +33,12 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Kiyoshi Mukai<br />Bonjour, je suis Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    My name is Kiyoshi Mukai and I am the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America.
+                                    My name is Kiyoshi Mukai and I was the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America, before relocating to Canada.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>I formulate Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensure that digital information is up-to-date and I review content and analytics to determine how to best promote our programs.</p>
+                                <p>While in my previous postion, I formulated Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensured that digital information was up-to-date and I reviewed content and analytics to determine how to best promote their programs.</p>
 
                                 <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while leading the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
@@ -46,7 +46,7 @@
 
                                 <p>I am a proud alumnus of Boston University's <a href='https://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I often spend my free time dancing Lindy Hop, Blues and Brazilian Zouk and make several trips a year to Montréal for various dance events.</p>
+                                <p>I often spend my free time dancing Lindy Hop, Blues and Brazilian Zouk and made several trips a year to Montréal for various dance events.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 
@@ -75,10 +75,8 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
-                                    <li>Washington, District of Columbia, USA and Montréal, Québec, Canada</li>
-                                    <li>202-656-8317</li>
-                                    <li>hello@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/canada</li>
+                                    <li>Montréal, Québec, Canada</li>
+                                    <li>www.kiyoshimukai.ca</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->

@@ -34,13 +34,13 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi Mukaï et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis.
+                                    Je m'appelle Kiyoshi Mukaï et j'étais le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis avant de déménager au Québec.
                                 </p>
 
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Je suis responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaille étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et je planifie l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
+                                    J'étais responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
 
                                 </p>
 
@@ -85,10 +85,8 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukaï</li>
-                                    <li>Washington, District de Columbia, É.-U. et Montréal, Québec, Canada</li>
-                                    <li>202-656-8317</li>
-                                    <li>bonjour@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/quebec</li>
+                                    <li>Montréal, Québec, Canada</li>
+                                    <li>www.kiyoshimukai.ca</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->

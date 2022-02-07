@@ -86,8 +86,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi MUKAÏ</li>
-                                    <li>Washington, District de Columbia, É.-U.</li>
-                                    <li>+001 202 656 8317</li>
+                                    <li>Montréal, Québec, Canada</li>
                                     <li>bonjour@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com/belgique</li>
                                 </ul>
