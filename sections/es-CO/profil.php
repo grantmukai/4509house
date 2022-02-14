@@ -71,8 +71,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
-                                    <li>Washington, Distrito de Columbia, EEUU</li>
-                                    <li>+1 202 656 8317</li>
+                                    <li>Bogotá, Cundinamarca/li>
                                     <li>hola@kiyoshimukai.com</li>
                                     <li>www.kiyoshimukai.com/colombia</li>
                                 </ul>

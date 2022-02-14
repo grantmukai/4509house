@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Kiyoshi Mukai</h4>
+                        <h4 class="title">Grant Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -56,10 +56,10 @@
                                     Cordialmente,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Firma de Kiyoshi Mukai' class="signature" />
+								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Kiyoshi Mukai
+                                    Grant Mukai
                                 </p>
 								
                             </div>
@@ -76,11 +76,11 @@
                                 <h4>Contacto</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Kiyoshi Mukai</li>
+                                    <li>Grant Mukai</li>
                                     <li>Washington, Distrito de Columbia</li>
                                     <li>202-656-8317</li>
-                                    <li>hola@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/puertorico</li>
+                                    <li>hola@grantmukai.com</li>
+                                    <li>www.grantmukai.com/puertorico</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
