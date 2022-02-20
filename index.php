@@ -114,8 +114,9 @@ require 'sections/'.$lang_actuelle.'/pied.php';
     <!-- Animation JS (Optional) -->
     <script src="assets/js/animation.js"></script>
 
-    <!-- Custom JS -->
-    <script src="assets/js/custom.js"></script>
+    <!-- Custom JS 
+        Pas de formulaire de contact alors je ne sais pas pourquoi on en a besoin
+    <script src="assets/js/custom.js"></script>-->
 
 </body>
 
