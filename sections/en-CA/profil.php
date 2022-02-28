@@ -75,7 +75,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
-                                    <li>Montréal, Québec, Canada</li>
+                                    <li>Montréal, Québec</li>
                                     <li>www.kiyoshimukai.ca</li>
                                 </ul>
                             </div>
