@@ -34,7 +34,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi Mukaï et j'étais le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis avant de déménager au Québec.
+                                    Je m'appelle Kiyoshi Mukaï et j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis avant de déménager au Québec.
                                 </p>
 
                                     <span class="divider"></span>
@@ -101,7 +101,7 @@
                                 $IdTelechargerComDoc = "comdoccvfrca";
                                 $IdTelechargerComPdf = "compdfcvfrca";
                                 /*$nomFamille = "Turcotte";*/
-                                include "http://www.grantmukai.com/profil_base.php";
+                                include "/profil_base.php";
                                 ?>
                             </div>
                             <!-- //.col-md-6 -->
