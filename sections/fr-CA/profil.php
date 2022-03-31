@@ -101,7 +101,7 @@
                                 $IdTelechargerComDoc = "comdoccvfrca";
                                 $IdTelechargerComPdf = "compdfcvfrca";
                                 /*$nomFamille = "Turcotte";*/
-                                include "/profil_base.php";
+                                include "/home/grantmuk/public_html/profil_base.php";
                                 ?>
                             </div>
                             <!-- //.col-md-6 -->

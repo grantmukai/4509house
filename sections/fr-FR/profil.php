@@ -37,7 +37,7 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAÏ et je suis le Producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAÏ et je suis le Producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
 
                                 </p>
 
@@ -52,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je détiens un BAC + 4 (diplôme de premier cycle) en journalisme télévisé à <a href='https://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
+                                    Je détiens un BAC + 4 (diplôme de premier cycle) en journalisme télévisé à <a href='https://www.bu.edu/com'>la Faculté de communication</a> à l'Université de Boston avec une spécialisation en langue et littérature française.
                                 </p>
 								
                                 <p class="text-grey">
