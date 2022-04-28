@@ -33,18 +33,18 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de física </a> en los Estados Unidos de América.
+                                    Mi nombre es Kiyoshi Mukai y soy el Cordinador marketing digital para <a href='https://www.toctoccommunications.com'>Toc Toc Comunicaciones</a> en Québec.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>Antes de unirme a la Sociedad, trabajé para Project HOPE, una organización de salud mundial.</a>
+                                <p>Antes de unirme a la Agencia, trabajé para la <a href="https://www.aps.org">Sociedad física estadounidense</a> en los Estados Unidos.
                                 
-                                <p>Trabajé también para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y nuestras secciones de intereses especializadas a la organización de redes. Asimismo, fui responsable de la gestión de bases de datos, analíticas, estadísticas y la generación de formas de datos. Realicé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>Trabajé también para <a href="https://www.projecthop.org">Project HOPE</a> dónde ayudaba la organización en ayuda humanitaria con el lanzamiento de su sitio Web y estrategia de contenidos. Pasaba mucho tiempo promocionando nuestros esfuerzos con migrantes venezolanos en Cúcuta, Norte de Sandander.</p>
 
                                 <p>Obtuve mi diploma universitario en periodismo televisivo después de cuatro años de estudios en la <a href='https://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesa.</p>
 
-                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que practico son el Lindy Hop, Blues y Zouk Brasileño. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el Zouk Brasileño cobre una gran importancia en mi vida. Me gusta también la comunidad internacional de Montréal porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,

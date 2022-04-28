@@ -12,9 +12,9 @@ require 'sections/'.$lang_actuelle.'/tete.php';
     <meta charset="utf-8">
     
     <!-- Titre du Site -->
-    <title>Grant Kiyoshi Mukaï</title>
+    <title>Kiyoshi Mukaï</title>
     
-    <meta name="description" content="Grant Muka&iuml; est d&eacute;veloppeur Web et agent de communications &agrave; Washington, District de Columbia">
+    <meta name="description" content="Kiyoshi Muka&iuml; est un Coordonnateur marketing numérique à Montréal, Québec.">
     <meta name="keywords" content="web, communications, canada, québec, nouveau-brunswick, ontario, manitoba, yukon, cv, html, css, php">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
