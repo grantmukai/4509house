@@ -35,13 +35,16 @@
                                 <h2 style="clear:both;" class="section-title">Hola, mi nombre es Grant Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en Maryland. Es esta posición, es mi responsibilidad de conceptualizar la estrategia de contenidos para los sitios bajo la sociedad.
+                                    Mi nombre es Grant Kiyoshi Mukai y soy un Coordenador marketing digital para <a href="https://www.toctoccommunications.com">Toc Toc Comunicaciones</a> en Montréal, Québec, Canadá.
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Antes de unirme a APS, estaba trabajando para <a href="https://www.projecthope.org">Project HOPE</a> gestionando el contenido estrat&eacute;gico y apoyando los esfuerzos de colectos de fondos. Trabajé también a la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y ayudar a las secciones de intereses especializadas a organizarse en la red. Asimismo, era responsable de la gestión de bases de datos, analíticas estadísticas y la generación de datos. Hice estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.
+                                    En los Estados Unidos, fui el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en Maryland. Es esta posición, fue mi responsibilidad de conceptualizar la estrategia de contenidos para los sitios bajo la sociedad.</p>
+
+                                <p class="text-grey">
+                                    Antes de unirme a APS, estaba trabajando para <a href="https://www.projecthope.org">Project HOPE</a> gestionando el contenido estrat&eacute;gico y apoyando los esfuerzos de colectos de fondos.
                                 </p>
 								
                                 <p class="text-grey">
@@ -49,7 +52,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    En mi tiempo libre, me gustan mucho los bailes Lindy Hop, Blues y Zouk Bresileño y me interesan las otras culturas internacionales de Washington.
+                                    En mi tiempo libre, me gusta mucho el baile Zouk Bresileño y me interesan las otras culturas internacionales de Montréal.
                                 </p>
 								
                                 <p class="text-grey">

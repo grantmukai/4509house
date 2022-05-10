@@ -33,20 +33,18 @@
                                 <h2 style="clear:both;" class="section-title">Hello, I'm Kiyoshi Mukai<br />Bonjour, je suis Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    My name is Kiyoshi Mukai and I was the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America, before relocating to Canada.
+                                    My name is Kiyoshi Mukai and I am a Digital Marketing Coordinator for <a href="https://www.toctoccommunications.com">Toc Toc Communications</a> in Montréal, Québec.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>While in my previous postion, I formulated Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensured that digital information was up to date and I reviewed content and analytics to determine how to best promote their programs.</p>
+                                <p class="text-grey">Before relocating to Canada, I was the Managing Web Producer at the <a href='https://www.aps.org'>American Physical Society</a> in Maryland, United States of America. While in my previous postion, I formulated Web content strategy and layout designs for the main APS website as well as several physics websites owned by APS' clients. I also ensured that digital information was up to date and I reviewed content and analytics to determine how to best promote their programs.</p>
 
-                                <p>Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while leading the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
+                                <p class="text-grey">Prior to working at APS, I worked in Web content strategy where I led the website transition for <a href="https://www.projecthope.org">Project HOPE</a> and I also wrote blog articles and press releases for online publication while leading the Web content strategy for SEO optimization and fundraising efforts. As I have lived all over the world, I have a diverse international background and speak French and Spanish.</p>
 
-                                <p>I also worked for the <a href="https://www.apsanet.org">American Political Science Association</a> where I helped manage the association's public site as well as several WordPress sites devoted to showcasing the association's programs and research. I managed member databases, researched site analytics and generated data reports while providing excellent customer service to our members in English, French and Spanish. Although APSA is located in the United States, there is a very large Canadian membership.</p>
+                                <p class="text-grey">I am a proud alumnus of Boston University's <a href='https://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
 
-                                <p>I am a proud alumnus of Boston University's <a href='https://www.bu.edu/com'>College of Communication</a> where I graduated with a Bachelor of Science in Broadcast Journalism and a minor in French Language and Literature.</p>
-
-                                <p>I often spend my free time dancing Lindy Hop, Blues and Brazilian Zouk and made several trips a year to Montréal for various dance events.</p>
+                                <p class="text-grey">I often spend my free time dancing Brazilian Zouk and have been active in Montréal for various dance events.</p>
 
                                 <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 

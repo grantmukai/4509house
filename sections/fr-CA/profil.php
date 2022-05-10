@@ -34,22 +34,18 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, mon nom est Kiyoshi Mukaï</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi Mukaï et j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis avant de déménager au Québec.
+                                    Je m'appelle Kiyoshi Mukaï et je suis un Coordinateur marketing numérique pour <a href="https://www.toctoccommunications.com">Toc Toc Communications</a> à Montréal.
                                 </p>
 
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    J'étais responsable des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
+                                    Avant de déménager au Quéebc, j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis. Je faisais des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
 
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à ma société actuelle, je travaillais pour <a href="https://www.projecthope.org">Project HOPE</a> où je gérais la statégie du contenu de notre site principal qui incluait l'augementation de notre recherche organique et le suivi des analytiques du site et le comportement de nos visiteurs.
-                                </p>
-
-                                <p class="text-grey">
-                                    J'ai aussi obtenu mes expériences numériques à <a href="https://www.apsanet.org">l'Association américaine de science politique</a> où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique et qui aidaient nos sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me rejoindre à cette société, je travaillais pour <a href="https://www.projecthope.org">Project HOPE</a> où je gérais la statégie du contenu de notre site principal qui incluait l'augementation de notre recherche organique et le suivi des analytiques du site et le comportement de nos visiteurs.
                                 </p>
 								
                                 <p class="text-grey">
@@ -57,7 +53,7 @@
                                 </p>
 								
                                 <p class="text-grey">
-                                    Pendant mon temps libre, je suis danseur de Lindy Hop, Blues et Zouk Brésilien - trois styles de danse sociale assez populaires partout au Canada et surtout à Montréal, la capitale de danse au pays, et la Capitale-Nationale, une des scènes les plus fortes au Québec.
+                                    Pendant mon temps libre, je suis danseur de Zouk Brésilien, une danse sociale assez populaire partout au Canada et surtout à Montréal, la capitale de danse au pays, et la Capitale-Nationale, une des scènes les plus fortes au Québec.
                                 </p>
 								
                                 <p class="text-grey">
