@@ -33,20 +33,20 @@
                                 <h2 style="clear:both;" class="section-title">Hola, me llamo Kiyoshi Mukai.</h2>
 
                                 <p>
-                                    Mi nombre es Kiyoshi Mukai y soy el Productor y gerente de contenidos Web para la <a href='https://www.aps.org'>Sociedad estadounidense de f&iacute;sica</a> en el estado de Maryland, Estados Unidos de América.
+                                    Mi nombre es Kiyoshi Mukai y soy un Coordinador marketing digital para <a href="https://www.toctoccommunications.com">Toc Toc Comunicaciones</a> en Canadá.
                                 </p>
 
                                 <span class="divider"></span>
 
-                                <p>En la Sociedad de física, es mi responsabilidad de actualizar el contenido en los sitios Web tomando en cuenta el comportamiento de los usuarios para mejorar la organización de la información. Estoy creando también el diseño y la estructura después de analizar el contenido existente y hacer proposiciones de como podemos connectarnos con nuestra audiencia en una mejora manera.</p>
+                                <p>Antes de tomar ese empleo, estaba trabajando para la <a href="https://www.aps.org">Sociedad estadounidense de física</a> en los Estados Unidos.</p>
 
-                                <p>Antes de tomar esta posici&oacute;n, gestioné la transición de nuestro sitio Web y estaba escribiendo comunicados de prensa y artículos para mostrar las programas en el mundo. Era también responsable de la conceptualización de la estrategia Web para mejorar la usabilidad del sitio y aumentar el busco orgánico.</a>
-                                
-                                <p>Tambi&eacute;n he trabajado para la <a href="https://www.apsanet.org">Asociación estadounidense de ciencia política</a> dónde ayudaba a mis colegios a gestionar el sitio público de la asociación y varios sitios WordPress destinados a promover la ciencia política y secciones de intereses especializadas a la organización de redes. Asimismo, era responsable de la gestión de bases de datos, analíticas estadísticas y la generación de formas de datos. Realicé estas tareas proporcionando el servicio excelente al cliente en inglés, francés y español.</p>
+                                <p>En la Sociedad de física, era mi responsabilidad de actualizar el contenido en los sitios Web tomando en cuenta el comportamiento de los usuarios para mejorar la organización de la información. Estaba creando también el diseño y la estructura después de analizar el contenido existente y hacer proposiciones de como connectarnos con nuestra audiencia en una mejora manera.</p>
+
+                                <p>También gestioné la transición de nuestro sitio Web y estaba escribiendo comunicados de prensa y artículos para mostrar las programas en el mundo. Era responsable de la conceptualización de la estrategia Web para mejorar la usabilidad del sitio y aumentar el busco orgánico.</a>
 
                                 <p>Obtuve mi licenciatura en periodismo televisivo después de cuatro años de estudios en la <a href='https://www.bu.edu/com'>Facultad de comunicación</a> de la Universidad de Boston con una especialización en lengua y literatura francesas.</p>
 
-                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. Los tres tipos de baile que estoy practicando son el Lindy Hop, Blues y Zouk Brasileño. Hay una pequeña comunidad de Lindy Hop en la CDMX. Me gusta también la comunidad internacional de Washington porque me da la opportunidad de practicar mi español.</p>
+                                <p>En mi tiempo libre, el baile cobre una gran importancia en mi vida. El tipo de baile que estoy practicando es el Zouk Brasileño. Me gusta también la comunidad internacional de Montreal porque me da la opportunidad de practicar mi español.</p>
 								
                                 <p class="text-grey">
                                     Cordialemente,
