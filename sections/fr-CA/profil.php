@@ -40,7 +40,7 @@
                                     <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de déménager au Quéebc, j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis. Je faisais des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
+                                    Avant de déménager au Québec, j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis. Je faisais des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
 
                                 </p>
 
