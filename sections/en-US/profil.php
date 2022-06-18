@@ -48,7 +48,7 @@
 
                                 <p class="text-grey">In my free time, I can be found dancing Brazilian Zouk, a popular style of social dance.</p>
 
-                                <p>I hope to hear from you soon!</p>
+                                <p class="text-grey">I hope to hear from you soon!</p>
 								
                                 <p class="text-grey">
                                     Sincerely,
