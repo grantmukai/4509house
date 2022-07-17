@@ -38,19 +38,19 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ<br />Hallo, mijn naam is Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAÏ et je suis le producteur et gérant de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAÏ et je suis un Coordonnateur marketing numérique chez <a href='https://www.toctoccommunications.com/'>Toc Toc Communications</a> au Canada.
 
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Chez ma société actuelle, je m'occupe de la stratégie du contenu Web et la structure des sites tenus par la Société ainsi que plusieurs autres projets numériques.
+                                    Chez mon agence actuelle, je m'occupe de la stratégie du contenu Web et la structure des sites tenus par ses clients ainsi que plusieurs autres projets numériques.
 
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à la Société, je travaillais sur la statégie de contenu pour une organisation en aide humanitaire et j'ai aussi travaillé pour l'Association américaine de science politique. C'est là où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
+                                    Avant de me joindre à la Société, je travaillais sur la statégie de contenu pour des organisations académique et en aide humanitaire et j'ai aussi travaillé pour <a href="https://www.apsanet.org">l'Association américaine de science politique</a>. C'est là où j'aidais mes coéquipiers à gérer le site public de l'association ainsi que plusieurs sites WordPress consacrés à la promotion de la science politique qui aidaient les sections d'intérêts spécialisés à s'organiser aux réseaux. J'étais aussi responsable de la gestion des bases de données, de l'analyse statistique et la génération des tableaux de données tout en fournissant de l'excellent service à la clientèle en anglais, français et espagnol.
                                 </p>
 
                                 <p class="text-grey">
