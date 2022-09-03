@@ -40,7 +40,7 @@
                             <h4>2. Multimédia</h4>
 
                             <p class="text-grey">
-                                Je travaillais en tant qu'animateur à la télé et monteur de vidéos. Je realisais mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
+                                Je travaillais en tant qu'animateur à la télé et monteur de vidéos. Je réalisais mes propres reportages du début jusqu'à la fin en produisant mes propres effets spéciaux.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -54,7 +54,7 @@
                             <h4>3. Courriel</h4>
 
                             <p class="text-grey">
-                                En comprenant que la concéption de courriel n'est pas pareille que celle du Web, je sais très bien écrire les courriels de marketing. Je sais comment tout organiser pour que les informations pertinentes soient affichées correctement.
+                                En comprenant que la conception de courriel est différente de celle du Web, je sais très bien écrire les courriels de marketing. Je sais comment tout organiser pour que les informations pertinentes soient affichées correctement.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -82,7 +82,7 @@
                             <h4>5. Stratégie Numérique</h4>
 
                             <p class="text-grey">
-                                La stratégie numérique est au cœur de mes responsabilités à la Société américaine de physique. Mon but est de concevoir une stratégie qui englobe nos communications. Chez Project HOPE, je travaillais sur nos efforts de collecte de fond et nos initiatives de marketing pour présenter une direction unie pour notre présence sur le Web.
+                                La stratégie numérique est au cœur de mes responsabilités à mon agence. Mon but est de concevoir une stratégie qui englobe nos communications. Quand j'étais chez les OBNLs, je travaillais sur nos efforts de collecte de fond et nos initiatives de marketing pour présenter une orientation unie pour notre présence sur le Web.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Gestion de projet</h4>
 
                             <p class="text-grey">
-                                À mon poste actuel, je me suis occupé de la transition de notre site Web qui comporte la négociation des contrats et gestion de plusieurs aspects du projet avec nos départements. Je sais tout faire pour avancer le projet et le garder sur le bon chemin.
+                                À mon poste actuel, je m'occupe du lancements des sites Webs pour des clients qui comporte la négociation des contrats et gestion de plusieurs aspects du projet avec nos départements. Je sais tout faire pour avancer le projet et le garder sur le bon chemin.
                             </p>
                         </div>
                         <!-- //.inner-content -->
