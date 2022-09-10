@@ -82,7 +82,7 @@
                             <h4>5. Web Strategy</h4>
 
                             <p class="text-grey">
-                                Digital strategy is the core of my responsibilities at APS. At Project HOPE, my goal was to conceptualize a strategy that brought together our communications, our fundraising efforts and our marketing initiatives to present a united front for our Web presence.
+                                Digital strategy is the core of my responsibilities at Toc Toc. I help pharmaceutical clients decide the best approach for their websites and digital marketing material while keeping in line with Canadian industry standards.
                             </p>
                         </div>
                         <!-- //.inner-content -->
