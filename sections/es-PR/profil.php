@@ -7,9 +7,9 @@
                 <!-- DÉBUT PHOTO PROFIL -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="../assets/images/photo.jpg" alt="Grant Mukai" class="img-responsive"/>
+                        <img src="../assets/images/photo.jpg" alt="Kiyoshi Mukai" class="img-responsive"/>
                         
-                        <h4 class="title">Grant Mukai</h4>
+                        <h4 class="title">Kiyoshi Mukai</h4>
                     </div>
                 </div>
                 <!-- //FIN PHOTO PROFIL -->
@@ -32,10 +32,10 @@
 
                                 <br /> 
 
-                                <h2 style="clear:both;" class="section-title">Hola, mi nombre es Grant Kiyoshi Mukai</h2>
+                                <h2 style="clear:both;" class="section-title">Hola, mi nombre es Kiyoshi Mukai</h2>
 
                                 <p>
-                                    Mi nombre es Grant Kiyoshi Mukai y soy un Coordenador marketing digital para <a href="https://www.toctoccommunications.com">Toc Toc Comunicaciones</a> en Montréal, Québec, Canadá.
+                                    Mi nombre es Kiyoshi Mukai y soy un Coordenador marketing digital para <a href="https://www.toctoccommunications.com">Toc Toc Comunicaciones</a> en Montréal, Québec, Canadá.
                                 </p>
 
                                 <span class="divider"></span>
@@ -59,10 +59,10 @@
                                     Cordialmente,
                                 </p>
 								
-								<img src='assets/images/signatures/signature_grantmukai_blanc.png' alt='Firma de Grant Mukai' class="signature" />
+								<img src='assets/images/signatures/signature_kiyoshimukai_blanc.png' alt='Firma de Kiyoshi Mukai' class="signature" />
 								
                                 <p class="text-grey">
-                                    Grant Mukai
+                                    Kiyoshi Mukai
                                 </p>
 								
                             </div>
@@ -79,11 +79,10 @@
                                 <h4>Contacto</h4>
 
                                 <ul class="list-unstyled text-grey">
-                                    <li>Grant Mukai</li>
+                                    <li>Kiyoshi Mukai</li>
                                     <li>Washington, Distrito de Columbia</li>
                                     <li>202-656-8317</li>
-                                    <li>hola@grantmukai.com</li>
-                                    <li>www.grantmukai.com/puertorico</li>
+                                    <li>www.kiyoshimukai.com/puertorico</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
