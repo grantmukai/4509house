@@ -15,7 +15,7 @@ require 'sections/'.$lang_actuelle.'/tete.php';
     <title>Kiyoshi Mukaï</title>
     
     <meta name="description" content="Kiyoshi Muka&iuml; est un Coordonnateur marketing numérique à Montréal, Québec.">
-    <meta name="keywords" content="web, communications, canada, québec, nouveau-brunswick, ontario, manitoba, yukon, cv, html, css, php">
+    <meta name="keywords" content="web, communications, contenu numérique, relations publiques, stratégie, SEO, marketing">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
     <!-- Police Google -->
