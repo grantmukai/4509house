@@ -37,14 +37,14 @@
                                 <h2 style="clear:both;" class="section-title">Bonjour, je m'appelle Kiyoshi MUKAÏ</h2>
 
                                 <p>
-                                    Je m'appelle Kiyoshi MUKAÏ et je suis le Producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> aux États-Unis d'Amérique.
+                                    Je m'appelle Kiyoshi MUKAÏ et je suis un Coordonnateur marketing numérique chez <a href='https://www.toctoccommunications.com/'>Toc Toc Communications</a> au Québec.
 
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    Avant de me joindre à la Société américaine de physique, je travaillais à Project HOPE où j'ai dirigé la transition de notre infrastructure Web et j'ai géré nos chaînes sur les réseaux sociaux. J'ai aussi rédigé et révisé des articles de blogues et j'ai cherché activement des développements dans le monde par rapport à la santé mondiale.
+                                    Avant de me joindre à la Toc Toc Communications, je travaillais à <a href="https://www.aps.org">la Société américaine de physique</a> et <a href="https://www.projecthope.org">Project HOPE</a> où j'ai dirigé la transition de notre infrastructure Web et j'ai géré nos chaînes sur les réseaux sociaux. J'ai aussi rédigé et révisé des articles de blogues et j'ai cherché activement des développements dans le monde par rapport à la santé mondiale.
                                 </p>
 
                                 <p class="text-grey">
@@ -85,8 +85,7 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi MUKAÏ</li>
                                     <li>Montréal, Québec, Canada</li>
-                                    <li>bonjour@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/france</li>
+                                    <li>www.kiyoshimukai.ca/france</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->

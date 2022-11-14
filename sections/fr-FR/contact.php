@@ -32,8 +32,6 @@
 
                         <h2>Kiyoshi <strong>MUKAÏ</strong></h2>
 
-                        <h4 class="text-grey">bonjour@kiyoshimukai.com</h4>
-
                         <span class="divider center"></span>
                     </div>
                     <!-- //FIN DÉTAILS CONTACT -->
