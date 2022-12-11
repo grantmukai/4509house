@@ -71,9 +71,8 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
-                                    <li>Bogotá, Cundinamarca/li>
-                                    <li>hola@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/colombia</li>
+                                    <li>Bogotá, Cundinamarca</li>
+                                    <li>www.kiyoshimukai.ca/colombia</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
