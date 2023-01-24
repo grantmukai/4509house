@@ -41,15 +41,14 @@
 
                                 <p class="text-grey">
                                     Avant de déménager au Québec, j'étais le producteur et responsable de contenu Web à la <a href='https://www.aps.org/'>Société américaine de physique</a> au Maryland aux États-Unis. Je faisais des propositions des designs, de la direction et de la stratégie des sites gérés par la société. Je travaillais étroitement avec notre équipe de marketing afin de réaliser la promotion de leurs événements sur les plateformes numériques et j'ai planifié l'organisation du contenu sur le site principal de la société et les sites de physique de ses clients.
-
                                 </p>
 
                                 <p class="text-grey">
-                                    Avant de me rejoindre à cette société, je travaillais pour <a href="https://www.projecthope.org">Project HOPE</a> où je gérais la statégie du contenu de notre site principal qui incluait l'augementation de notre recherche organique et le suivi des analytiques du site et le comportement de nos visiteurs.
+                                    Avant de me rejoindre à cette société, je travaillais pour <a href="https://www.projecthope.org">Project HOPE</a> où je gérais la statégie du contenu de notre site principal qui incluait l'augmentation de notre recherche organique et le suivi des analytiques du site et le comportement de nos visiteurs.
                                 </p>
 								
                                 <p class="text-grey">
-                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé de <a href='https://www.bu.edu/com'>l'École de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
+                                    Je suis détenteur d'un Baccalauréat en sciences en journalisme télévisé de <a href='https://www.bu.edu/com'>la Faculté de communication</a> à l'Université de Boston avec une mineure en langue et littérature françaises.
                                 </p>
 								
                                 <p class="text-grey">
