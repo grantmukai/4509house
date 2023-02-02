@@ -46,7 +46,7 @@
 
                                 <p class="text-grey">I often spend my free time dancing Brazilian Zouk and have been active in Montréal for various dance events.</p>
 
-                                <p>Feel free to take a look at my website and I hope to talk to you soon.</p>
+                                <p class="text-grey">Feel free to take a look at my website and I hope to talk to you soon.</p>
                                 
                                 <p class="text-grey">
                                     Sincerely,
