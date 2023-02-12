@@ -76,7 +76,6 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
                                     <li>Washington, District of Columbia</li>
-                                    <li>202-656-8317</li>
                                     <li>www.kiyoshimukai.com/usa</li>
                                 </ul>
                             </div>
