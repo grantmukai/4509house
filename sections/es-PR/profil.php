@@ -80,9 +80,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
-                                    <li>Washington, Distrito de Columbia</li>
-                                    <li>202-656-8317</li>
-                                    <li>www.kiyoshimukai.com/puertorico</li>
+                                    <li>San Juan, Puerto Rico</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
