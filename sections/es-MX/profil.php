@@ -74,8 +74,6 @@
                                 <ul class="list-unstyled text-grey">
                                     <li>Kiyoshi Mukai</li>
                                     <li>Ciudad de México, DF</li>
-                                    <li>hola@kiyoshimukai.com</li>
-                                    <li>www.kiyoshimukai.com/mexico</li>
                                 </ul>
                             </div>
                             <!-- //.col-md-5 -->
